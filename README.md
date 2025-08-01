@@ -7,7 +7,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   ### Dashboard de Acervos
 
-  ![Gif que exemplifica o funcionando do Dashboard Financeiro] (https://imgur.com/a/bVuiGAZ})
+  ![Gif que exemplifica o funcionando do Dashboard Financeiro] (https://imgur.com/a/eATxJHT)
 
   #### Estrutura da base de dados
 
