@@ -28,7 +28,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   ### Dashboard de Acervos
 
-  ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](https://imgur.com/a/wsVFwnI)
+  ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](https://imgur.com/gallery/tec-wsVFwnI#GolRL6r)
 
   #### Estrutura da base de dados
 
