@@ -1,0 +1,2001 @@
+ID_Livro,Titulo,Numero_Paginas,Data_Aquisicao,Categoria,Valor_Aquisicao,Exemplares_Disponiveis,Biblioteca,Exemplares_Emprestados,Idioma,Renovacoes_Realizadas
+1,A Revolução dos Bichos #1,392,2015-01-01,Clássico,64.1,3,MG,8,Francês,6
+2,Drácula #2,172,2015-01-02,Ficção,39.47,9,MG,2,Espanhol,4
+3,Grande Sertão: Veredas #3,562,2015-01-03,Fantasia,103.58,7,ES,0,Inglês,0
+4,Ensaio Sobre a Cegueira #4,779,2015-01-04,Distopia,72.73,2,ES,8,Espanhol,5
+5,Neuromancer #5,932,2015-01-05,Ficção Científica,116.66,5,RJ,4,Inglês,3
+6,Memórias Póstumas #6,1190,2015-01-06,Ficção,42.71,8,SP,8,Português,0
+7,1984 #7,158,2015-01-07,Infantil,30.61,6,SP,6,Espanhol,7
+8,It - A Coisa #8,836,2015-01-08,Realismo Mágico,70.2,9,MG,11,Português,4
+9,Harry Potter #9,139,2015-01-09,Ficção Científica,22.19,1,RJ,12,Espanhol,2
+10,Cem Anos de Solidão #10,886,2015-01-10,Suspense,60.99,1,SP,5,Português,5
+11,Grande Sertão: Veredas #11,688,2015-01-11,Ficção Científica,143.47,9,MG,7,Português,4
+12,Harry Potter #12,1060,2015-01-12,Terror,149.57,1,SP,4,Espanhol,0
+13,O Alquimista #13,392,2015-01-13,Infantil,85.12,1,MG,11,Francês,1
+14,O Pequeno Príncipe #14,1141,2015-01-14,Terror,118.2,7,MG,7,Inglês,1
+15,O Pequeno Príncipe #15,491,2015-01-15,Clássico,116.19,10,RJ,0,Espanhol,1
+16,Orgulho e Preconceito #16,959,2015-01-16,Realismo Mágico,40.62,1,SP,1,Francês,8
+17,Memórias Póstumas #17,552,2015-01-17,Ficção Científica,33.01,4,SP,1,Português,1
+18,O Hobbit #18,879,2015-01-18,Infantil,75.84,8,SP,5,Espanhol,6
+19,Cem Anos de Solidão #19,1019,2015-01-19,Distopia,81.28,7,RJ,0,Inglês,0
+20,A Revolução dos Bichos #20,603,2015-01-20,Realismo Mágico,138.27,8,SP,6,Inglês,0
+21,Ensaio Sobre a Cegueira #21,1017,2015-01-21,Infantil,73.93,1,SP,0,Espanhol,1
+22,Memórias Póstumas #22,1008,2015-01-22,Fantasia,126.81,6,ES,8,Português,4
+23,Grande Sertão: Veredas #23,279,2015-01-23,Romance,101.81,6,MG,4,Português,3
+24,Capitães da Areia #24,949,2015-01-24,Terror,26.56,5,RJ,12,Português,3
+25,A Revolução dos Bichos #25,940,2015-01-25,Suspense,118.05,7,ES,0,Inglês,3
+26,A Revolução dos Bichos #26,241,2015-01-26,Ficção,113.02,4,MG,11,Português,2
+27,O Senhor dos Anéis #27,994,2015-01-27,Infantil,40.58,7,MG,10,Francês,7
+28,Neuromancer #28,1016,2015-01-28,Distopia,94.39,1,RJ,7,Francês,8
+29,O Pequeno Príncipe #29,1096,2015-01-29,Ficção Científica,87.35,6,MG,12,Português,8
+30,Neuromancer #30,1061,2015-01-30,Suspense,103.05,5,ES,8,Inglês,4
+31,1984 #31,451,2015-01-31,Distopia,85.71,9,MG,1,Francês,0
+32,O Código Da Vinci #32,1144,2015-02-01,Distopia,147.37,7,MG,5,Português,4
+33,Ensaio Sobre a Cegueira #33,644,2015-02-02,Infantil,69.23,4,MG,4,Português,3
+34,Cem Anos de Solidão #34,248,2015-02-03,Ficção Científica,74.1,6,SP,6,Inglês,1
+35,Neuromancer #35,993,2015-02-04,Romance,125.1,7,MG,5,Português,4
+36,A Revolução dos Bichos #36,948,2015-02-05,Infantil,57.57,5,RJ,6,Português,3
+37,Harry Potter #37,136,2015-02-06,Ficção Científica,54.07,5,SP,1,Francês,1
+38,O Senhor dos Anéis #38,997,2015-02-07,Romance,72.93,6,MG,9,Francês,4
+39,O Senhor dos Anéis #39,443,2015-02-08,Romance,92.38,9,ES,7,Português,3
+40,Moby Dick #40,253,2015-02-09,Suspense,110.53,8,ES,5,Inglês,3
+41,It - A Coisa #41,914,2015-02-10,Ficção Científica,148.21,4,RJ,0,Português,8
+42,O Alquimista #42,699,2015-02-11,Ficção Científica,125.39,2,RJ,9,Francês,1
+43,Cem Anos de Solidão #43,707,2015-02-12,Romance,21.23,3,MG,0,Inglês,6
+44,Harry Potter #44,573,2015-02-13,Ficção,40.17,1,SP,11,Inglês,2
+45,O Senhor dos Anéis #45,198,2015-02-14,Infantil,41.02,5,RJ,11,Espanhol,4
+46,O Senhor dos Anéis #46,126,2015-02-15,Infantil,60.44,8,ES,11,Inglês,2
+47,O Alquimista #47,209,2015-02-16,Suspense,26.72,8,RJ,8,Inglês,1
+48,1984 #48,1073,2015-02-17,Terror,59.84,7,ES,0,Inglês,7
+49,1984 #49,759,2015-02-18,Ficção,124.35,9,SP,12,Português,7
+50,Cem Anos de Solidão #50,438,2015-02-19,Distopia,52.42,9,SP,12,Espanhol,3
+51,O Código Da Vinci #51,1150,2015-02-20,Ficção Científica,115.94,7,RJ,1,Espanhol,0
+52,Orgulho e Preconceito #52,744,2015-02-21,Suspense,92.99,10,RJ,7,Francês,7
+53,Orgulho e Preconceito #53,498,2015-02-22,Infantil,91.1,10,ES,3,Espanhol,1
+54,O Pequeno Príncipe #54,579,2015-02-23,Fantasia,136.49,2,ES,1,Espanhol,6
+55,Moby Dick #55,541,2015-02-24,Clássico,77.68,8,ES,1,Espanhol,5
+56,Dom Casmurro #56,858,2015-02-25,Fantasia,66.87,10,SP,4,Inglês,7
+57,O Hobbit #57,579,2015-02-26,Suspense,114.21,4,MG,3,Português,1
+58,O Código Da Vinci #58,930,2015-02-27,Distopia,29.02,3,RJ,3,Inglês,1
+59,A Revolução dos Bichos #59,1071,2015-02-28,Ficção Científica,66.29,2,RJ,8,Espanhol,4
+60,O Senhor dos Anéis #60,563,2015-03-01,Clássico,75.85,4,ES,6,Inglês,5
+61,A Revolução dos Bichos #61,391,2015-03-02,Suspense,124.81,7,SP,1,Espanhol,5
+62,A Revolução dos Bichos #62,345,2015-03-03,Terror,69.32,1,ES,6,Inglês,4
+63,Dom Casmurro #63,1161,2015-03-04,Realismo Mágico,141.32,10,MG,4,Português,7
+64,O Alquimista #64,757,2015-03-05,Terror,99.08,9,MG,12,Inglês,4
+65,Capitães da Areia #65,820,2015-03-06,Suspense,39.89,10,RJ,12,Português,4
+66,O Senhor dos Anéis #66,324,2015-03-07,Ficção Científica,74.29,2,MG,7,Inglês,0
+67,Grande Sertão: Veredas #67,143,2015-03-08,Realismo Mágico,124.49,1,RJ,10,Inglês,3
+68,A Revolução dos Bichos #68,914,2015-03-09,Infantil,90.15,3,SP,9,Português,2
+69,Ensaio Sobre a Cegueira #69,467,2015-03-10,Ficção,39.07,3,RJ,11,Inglês,0
+70,O Pequeno Príncipe #70,240,2015-03-11,Ficção Científica,140.48,3,ES,4,Português,1
+71,Capitães da Areia #71,718,2015-03-12,Ficção Científica,31.59,10,MG,11,Português,5
+72,O Hobbit #72,944,2015-03-13,Ficção,122.35,6,ES,10,Inglês,3
+73,1984 #73,680,2015-03-14,Realismo Mágico,94.75,8,SP,11,Português,5
+74,Capitães da Areia #74,124,2015-03-15,Ficção Científica,75.35,6,RJ,2,Francês,4
+75,Orgulho e Preconceito #75,902,2015-03-16,Ficção Científica,107.84,9,RJ,11,Espanhol,3
+76,Capitães da Areia #76,219,2015-03-17,Romance,147.41,4,SP,8,Francês,7
+77,A Revolução dos Bichos #77,146,2015-03-18,Romance,38.49,8,MG,8,Português,4
+78,Drácula #78,943,2015-03-19,Romance,24.08,1,ES,1,Francês,1
+79,Capitães da Areia #79,518,2015-03-20,Infantil,61.99,9,ES,7,Espanhol,0
+80,A Hora da Estrela #80,558,2015-03-21,Infantil,68.69,5,ES,3,Português,1
+81,Moby Dick #81,667,2015-03-22,Terror,72.15,10,ES,2,Inglês,2
+82,Orgulho e Preconceito #82,157,2015-03-23,Romance,131.38,9,RJ,4,Português,5
+83,Moby Dick #83,388,2015-03-24,Suspense,118.25,7,MG,1,Espanhol,0
+84,Drácula #84,1090,2015-03-25,Fantasia,117.02,8,RJ,8,Inglês,4
+85,O Pequeno Príncipe #85,505,2015-03-26,Ficção Científica,101.68,7,MG,11,Francês,4
+86,Grande Sertão: Veredas #86,374,2015-03-27,Ficção,69.48,10,SP,4,Francês,8
+87,O Código Da Vinci #87,1164,2015-03-28,Fantasia,47.47,4,SP,4,Inglês,4
+88,Drácula #88,337,2015-03-29,Fantasia,137.61,8,ES,12,Francês,7
+89,1984 #89,700,2015-03-30,Infantil,27.36,7,MG,2,Português,8
+90,Drácula #90,516,2015-03-31,Distopia,84.88,5,ES,2,Espanhol,5
+91,Grande Sertão: Veredas #91,1007,2015-04-01,Fantasia,61.57,3,MG,11,Francês,6
+92,1984 #92,271,2015-04-02,Fantasia,82.01,3,MG,6,Inglês,4
+93,Dom Casmurro #93,284,2015-04-03,Ficção,54.05,6,ES,9,Francês,8
+94,Capitães da Areia #94,725,2015-04-04,Ficção,145.81,10,SP,1,Francês,1
+95,O Hobbit #95,1199,2015-04-05,Realismo Mágico,101.26,6,ES,8,Inglês,2
+96,Cem Anos de Solidão #96,925,2015-04-06,Realismo Mágico,56.96,10,ES,7,Português,5
+97,Dom Casmurro #97,365,2015-04-07,Infantil,22.0,1,RJ,0,Português,7
+98,Neuromancer #98,1013,2015-04-08,Fantasia,44.29,6,MG,5,Espanhol,6
+99,Orgulho e Preconceito #99,1110,2015-04-09,Clássico,113.32,9,SP,2,Espanhol,6
+100,It - A Coisa #100,993,2015-04-10,Realismo Mágico,38.04,10,ES,2,Português,7
+101,Grande Sertão: Veredas #101,1008,2015-04-11,Ficção,119.59,7,MG,9,Inglês,1
+102,Capitães da Areia #102,1007,2015-04-12,Fantasia,137.99,6,ES,7,Espanhol,4
+103,O Alquimista #103,915,2015-04-13,Fantasia,52.96,10,ES,4,Espanhol,0
+104,Memórias Póstumas #104,117,2015-04-14,Suspense,83.83,5,MG,4,Português,0
+105,Drácula #105,538,2015-04-15,Ficção,114.43,6,ES,9,Português,5
+106,Cem Anos de Solidão #106,204,2015-04-16,Clássico,22.49,6,MG,1,Francês,7
+107,Moby Dick #107,971,2015-04-17,Suspense,120.58,9,MG,8,Francês,1
+108,O Senhor dos Anéis #108,1093,2015-04-18,Ficção Científica,90.37,3,ES,1,Francês,6
+109,O Alquimista #109,698,2015-04-19,Clássico,134.6,1,MG,8,Espanhol,1
+110,O Pequeno Príncipe #110,408,2015-04-20,Romance,111.13,2,SP,3,Inglês,5
+111,O Pequeno Príncipe #111,961,2015-04-21,Ficção,59.14,10,MG,10,Inglês,7
+112,Memórias Póstumas #112,410,2015-04-22,Terror,27.34,8,ES,5,Português,3
+113,A Hora da Estrela #113,239,2015-04-23,Distopia,89.23,6,SP,3,Espanhol,2
+114,Moby Dick #114,638,2015-04-24,Suspense,20.31,6,RJ,12,Espanhol,0
+115,Ensaio Sobre a Cegueira #115,644,2015-04-25,Realismo Mágico,27.44,2,RJ,3,Francês,3
+116,O Pequeno Príncipe #116,564,2015-04-26,Ficção,124.51,10,SP,7,Português,7
+117,O Senhor dos Anéis #117,215,2015-04-27,Romance,117.81,5,RJ,12,Português,3
+118,A Hora da Estrela #118,1191,2015-04-28,Infantil,45.7,5,RJ,6,Português,4
+119,Moby Dick #119,664,2015-04-29,Infantil,87.78,8,ES,3,Francês,6
+120,Ensaio Sobre a Cegueira #120,888,2015-04-30,Ficção Científica,114.02,9,MG,7,Português,2
+121,O Senhor dos Anéis #121,167,2015-05-01,Terror,82.07,10,MG,4,Inglês,1
+122,Memórias Póstumas #122,202,2015-05-02,Fantasia,67.59,8,SP,0,Inglês,2
+123,Dom Casmurro #123,1110,2015-05-03,Suspense,95.89,10,RJ,5,Espanhol,3
+124,Grande Sertão: Veredas #124,1002,2015-05-04,Ficção,29.94,1,RJ,1,Português,6
+125,Ensaio Sobre a Cegueira #125,1025,2015-05-05,Ficção Científica,36.57,2,SP,9,Francês,1
+126,Neuromancer #126,503,2015-05-06,Romance,89.27,4,SP,8,Espanhol,4
+127,It - A Coisa #127,625,2015-05-07,Ficção Científica,93.83,2,SP,11,Espanhol,3
+128,It - A Coisa #128,618,2015-05-08,Romance,85.8,3,SP,6,Francês,4
+129,Harry Potter #129,938,2015-05-09,Ficção Científica,73.19,5,MG,12,Francês,5
+130,Harry Potter #130,318,2015-05-10,Terror,37.46,6,ES,3,Espanhol,6
+131,Dom Casmurro #131,281,2015-05-11,Ficção Científica,140.19,2,SP,7,Francês,7
+132,A Revolução dos Bichos #132,503,2015-05-12,Clássico,43.69,4,SP,7,Português,0
+133,O Alquimista #133,115,2015-05-13,Clássico,108.19,2,MG,4,Português,0
+134,Cem Anos de Solidão #134,1098,2015-05-14,Infantil,59.14,6,RJ,11,Francês,6
+135,It - A Coisa #135,930,2015-05-15,Suspense,122.3,8,ES,0,Espanhol,2
+136,Grande Sertão: Veredas #136,944,2015-05-16,Infantil,22.39,10,RJ,6,Francês,7
+137,1984 #137,858,2015-05-17,Ficção,54.69,9,ES,9,Inglês,2
+138,Dom Casmurro #138,908,2015-05-18,Distopia,131.89,5,SP,11,Português,6
+139,O Alquimista #139,945,2015-05-19,Distopia,109.92,1,SP,7,Português,0
+140,Neuromancer #140,535,2015-05-20,Fantasia,109.52,9,RJ,11,Espanhol,4
+141,Memórias Póstumas #141,438,2015-05-21,Realismo Mágico,77.3,5,SP,9,Espanhol,0
+142,O Alquimista #142,846,2015-05-22,Clássico,94.8,1,RJ,9,Inglês,2
+143,O Pequeno Príncipe #143,221,2015-05-23,Realismo Mágico,130.32,10,SP,8,Francês,7
+144,O Pequeno Príncipe #144,254,2015-05-24,Romance,114.73,7,SP,10,Espanhol,4
+145,O Alquimista #145,182,2015-05-25,Ficção Científica,116.13,7,RJ,7,Francês,0
+146,Drácula #146,1125,2015-05-26,Terror,116.37,5,MG,11,Francês,7
+147,O Alquimista #147,757,2015-05-27,Romance,29.8,6,SP,6,Espanhol,7
+148,A Revolução dos Bichos #148,1041,2015-05-28,Romance,48.52,1,RJ,9,Francês,1
+149,O Hobbit #149,349,2015-05-29,Fantasia,106.87,5,SP,6,Francês,7
+150,Dom Casmurro #150,1181,2015-05-30,Suspense,81.36,2,ES,7,Espanhol,3
+151,Ensaio Sobre a Cegueira #151,613,2015-05-31,Distopia,84.57,3,ES,3,Francês,2
+152,O Código Da Vinci #152,359,2015-06-01,Ficção,92.73,10,MG,6,Inglês,2
+153,A Hora da Estrela #153,951,2015-06-02,Ficção,37.8,8,SP,5,Inglês,1
+154,Moby Dick #154,625,2015-06-03,Infantil,20.54,3,ES,3,Inglês,7
+155,Cem Anos de Solidão #155,913,2015-06-04,Suspense,53.68,5,SP,4,Espanhol,1
+156,O Código Da Vinci #156,271,2015-06-05,Romance,44.29,9,MG,11,Francês,5
+157,Capitães da Areia #157,952,2015-06-06,Distopia,45.63,6,MG,9,Inglês,4
+158,O Senhor dos Anéis #158,1074,2015-06-07,Realismo Mágico,86.64,4,RJ,4,Francês,7
+159,Orgulho e Preconceito #159,396,2015-06-08,Realismo Mágico,109.83,2,ES,6,Português,1
+160,Moby Dick #160,638,2015-06-09,Clássico,106.88,9,ES,10,Inglês,8
+161,It - A Coisa #161,86,2015-06-10,Realismo Mágico,84.22,6,SP,9,Espanhol,7
+162,O Hobbit #162,185,2015-06-11,Distopia,145.57,5,MG,10,Português,0
+163,A Revolução dos Bichos #163,231,2015-06-12,Clássico,99.49,4,ES,7,Português,5
+164,Neuromancer #164,865,2015-06-13,Distopia,136.71,4,ES,0,Espanhol,2
+165,Orgulho e Preconceito #165,282,2015-06-14,Terror,141.09,6,MG,6,Francês,5
+166,O Pequeno Príncipe #166,1046,2015-06-15,Ficção,53.76,2,SP,8,Português,8
+167,O Senhor dos Anéis #167,1055,2015-06-16,Infantil,32.13,5,RJ,5,Inglês,2
+168,Cem Anos de Solidão #168,1113,2015-06-17,Realismo Mágico,82.22,4,MG,0,Espanhol,0
+169,Memórias Póstumas #169,143,2015-06-18,Ficção Científica,100.95,9,MG,5,Português,7
+170,O Código Da Vinci #170,304,2015-06-19,Suspense,67.76,1,RJ,3,Inglês,7
+171,Cem Anos de Solidão #171,1051,2015-06-20,Clássico,82.11,9,MG,10,Português,5
+172,A Hora da Estrela #172,331,2015-06-21,Fantasia,21.91,1,RJ,3,Português,2
+173,Harry Potter #173,406,2015-06-22,Realismo Mágico,20.9,6,ES,3,Francês,2
+174,Orgulho e Preconceito #174,115,2015-06-23,Ficção,36.19,9,SP,8,Português,8
+175,A Revolução dos Bichos #175,1184,2015-06-24,Suspense,39.63,6,ES,6,Espanhol,3
+176,Drácula #176,695,2015-06-25,Infantil,111.76,2,RJ,7,Francês,2
+177,A Hora da Estrela #177,85,2015-06-26,Realismo Mágico,115.17,10,RJ,5,Português,4
+178,O Senhor dos Anéis #178,234,2015-06-27,Realismo Mágico,81.93,9,MG,11,Português,3
+179,O Hobbit #179,369,2015-06-28,Infantil,36.79,3,SP,4,Inglês,1
+180,O Senhor dos Anéis #180,96,2015-06-29,Distopia,123.63,2,MG,1,Espanhol,7
+181,A Hora da Estrela #181,854,2015-06-30,Romance,62.63,6,SP,6,Inglês,1
+182,O Senhor dos Anéis #182,825,2015-07-01,Suspense,140.66,8,ES,8,Espanhol,8
+183,Harry Potter #183,714,2015-07-02,Terror,38.87,8,RJ,2,Espanhol,3
+184,A Revolução dos Bichos #184,94,2015-07-03,Realismo Mágico,28.03,1,ES,9,Espanhol,4
+185,Dom Casmurro #185,221,2015-07-04,Terror,50.76,2,RJ,12,Português,4
+186,O Alquimista #186,851,2015-07-05,Romance,55.32,9,ES,4,Espanhol,1
+187,O Senhor dos Anéis #187,1143,2015-07-06,Clássico,143.41,7,RJ,7,Inglês,0
+188,1984 #188,554,2015-07-07,Suspense,29.59,2,ES,4,Inglês,1
+189,Moby Dick #189,629,2015-07-08,Realismo Mágico,143.24,1,SP,5,Espanhol,4
+190,O Senhor dos Anéis #190,713,2015-07-09,Ficção Científica,44.74,3,MG,3,Francês,3
+191,A Hora da Estrela #191,1118,2015-07-10,Infantil,148.63,8,ES,11,Espanhol,6
+192,A Hora da Estrela #192,324,2015-07-11,Clássico,121.44,5,ES,5,Francês,1
+193,It - A Coisa #193,950,2015-07-12,Ficção Científica,87.21,9,ES,8,Português,8
+194,Ensaio Sobre a Cegueira #194,880,2015-07-13,Suspense,116.23,1,MG,2,Português,0
+195,1984 #195,1104,2015-07-14,Romance,30.65,3,MG,10,Português,7
+196,O Código Da Vinci #196,528,2015-07-15,Clássico,75.56,2,ES,6,Espanhol,5
+197,1984 #197,588,2015-07-16,Ficção Científica,108.75,10,ES,5,Espanhol,0
+198,A Revolução dos Bichos #198,915,2015-07-17,Ficção,69.12,1,RJ,4,Inglês,0
+199,O Senhor dos Anéis #199,838,2015-07-18,Ficção,26.64,4,ES,4,Inglês,5
+200,O Pequeno Príncipe #200,374,2015-07-19,Terror,117.16,5,SP,2,Espanhol,1
+201,It - A Coisa #201,166,2015-07-20,Terror,39.25,4,MG,8,Português,2
+202,A Revolução dos Bichos #202,812,2015-07-21,Fantasia,35.51,3,SP,10,Inglês,1
+203,Ensaio Sobre a Cegueira #203,1083,2015-07-22,Ficção,46.8,1,MG,5,Espanhol,3
+204,Capitães da Areia #204,683,2015-07-23,Suspense,110.08,1,RJ,5,Português,7
+205,It - A Coisa #205,751,2015-07-24,Terror,110.86,9,SP,11,Francês,1
+206,Drácula #206,863,2015-07-25,Infantil,145.1,4,MG,8,Inglês,4
+207,Orgulho e Preconceito #207,786,2015-07-26,Suspense,126.97,5,RJ,8,Francês,2
+208,Dom Casmurro #208,801,2015-07-27,Ficção,27.97,3,SP,10,Espanhol,0
+209,1984 #209,634,2015-07-28,Ficção,136.52,4,SP,12,Francês,2
+210,O Hobbit #210,128,2015-07-29,Suspense,119.44,6,RJ,8,Espanhol,0
+211,Grande Sertão: Veredas #211,742,2015-07-30,Ficção,46.09,5,ES,0,Português,6
+212,Harry Potter #212,836,2015-07-31,Terror,111.58,7,RJ,8,Português,1
+213,O Hobbit #213,273,2015-08-01,Infantil,45.18,4,MG,10,Inglês,4
+214,A Revolução dos Bichos #214,493,2015-08-02,Suspense,86.16,6,RJ,5,Espanhol,0
+215,O Hobbit #215,1191,2015-08-03,Terror,110.42,3,RJ,6,Francês,3
+216,A Hora da Estrela #216,569,2015-08-04,Terror,66.28,8,RJ,11,Francês,6
+217,Ensaio Sobre a Cegueira #217,1152,2015-08-05,Realismo Mágico,25.81,1,RJ,4,Inglês,4
+218,It - A Coisa #218,699,2015-08-06,Clássico,33.3,4,RJ,7,Português,0
+219,Grande Sertão: Veredas #219,1161,2015-08-07,Clássico,95.89,9,MG,1,Português,5
+220,Capitães da Areia #220,582,2015-08-08,Fantasia,40.91,3,RJ,11,Inglês,2
+221,Cem Anos de Solidão #221,919,2015-08-09,Romance,144.13,7,ES,10,Português,5
+222,O Alquimista #222,933,2015-08-10,Distopia,130.34,9,ES,1,Espanhol,5
+223,Grande Sertão: Veredas #223,92,2015-08-11,Clássico,39.82,1,SP,8,Inglês,0
+224,Orgulho e Preconceito #224,363,2015-08-12,Clássico,136.08,5,ES,4,Português,3
+225,Dom Casmurro #225,1059,2015-08-13,Terror,45.28,2,MG,6,Inglês,2
+226,A Revolução dos Bichos #226,887,2015-08-14,Suspense,102.82,3,MG,4,Português,8
+227,Moby Dick #227,271,2015-08-15,Distopia,141.57,3,ES,11,Inglês,4
+228,Moby Dick #228,585,2015-08-16,Fantasia,105.87,3,RJ,3,Francês,3
+229,O Pequeno Príncipe #229,163,2015-08-17,Fantasia,40.9,4,MG,12,Espanhol,2
+230,O Pequeno Príncipe #230,720,2015-08-18,Realismo Mágico,69.16,1,RJ,5,Português,6
+231,Grande Sertão: Veredas #231,182,2015-08-19,Realismo Mágico,100.66,8,MG,1,Francês,3
+232,Capitães da Areia #232,947,2015-08-20,Ficção,119.62,3,RJ,4,Francês,6
+233,O Senhor dos Anéis #233,390,2015-08-21,Suspense,104.08,6,MG,4,Espanhol,5
+234,Cem Anos de Solidão #234,163,2015-08-22,Ficção Científica,133.69,8,SP,3,Inglês,0
+235,Grande Sertão: Veredas #235,902,2015-08-23,Distopia,39.34,9,RJ,6,Português,8
+236,1984 #236,894,2015-08-24,Realismo Mágico,138.79,6,RJ,8,Francês,6
+237,A Hora da Estrela #237,449,2015-08-25,Suspense,69.94,1,SP,10,Português,4
+238,O Hobbit #238,704,2015-08-26,Terror,89.81,3,RJ,3,Francês,3
+239,A Hora da Estrela #239,201,2015-08-27,Terror,69.99,5,RJ,7,Português,2
+240,Dom Casmurro #240,247,2015-08-28,Romance,120.17,5,MG,3,Francês,2
+241,Cem Anos de Solidão #241,861,2015-08-29,Distopia,97.93,6,SP,10,Inglês,0
+242,A Revolução dos Bichos #242,501,2015-08-30,Infantil,86.59,4,MG,4,Inglês,4
+243,A Hora da Estrela #243,967,2015-08-31,Suspense,72.19,2,SP,8,Espanhol,4
+244,1984 #244,428,2015-09-01,Ficção Científica,131.08,3,RJ,4,Francês,2
+245,O Pequeno Príncipe #245,121,2015-09-02,Clássico,122.76,8,RJ,10,Francês,5
+246,1984 #246,830,2015-09-03,Suspense,73.17,9,RJ,10,Português,8
+247,O Alquimista #247,1171,2015-09-04,Distopia,27.29,10,ES,5,Francês,3
+248,O Código Da Vinci #248,1040,2015-09-05,Clássico,46.03,10,SP,10,Francês,6
+249,Memórias Póstumas #249,658,2015-09-06,Clássico,20.4,7,SP,12,Espanhol,3
+250,Cem Anos de Solidão #250,1187,2015-09-07,Realismo Mágico,144.29,4,RJ,12,Português,1
+251,O Hobbit #251,775,2015-09-08,Fantasia,141.19,2,ES,12,Francês,0
+252,Grande Sertão: Veredas #252,508,2015-09-09,Distopia,138.08,3,SP,6,Português,2
+253,Capitães da Areia #253,975,2015-09-10,Infantil,41.19,1,ES,7,Português,0
+254,Drácula #254,296,2015-09-11,Ficção Científica,63.68,7,MG,9,Espanhol,8
+255,It - A Coisa #255,1148,2015-09-12,Terror,105.81,3,SP,1,Francês,7
+256,O Senhor dos Anéis #256,586,2015-09-13,Distopia,80.71,6,MG,2,Francês,3
+257,Dom Casmurro #257,671,2015-09-14,Realismo Mágico,108.34,10,RJ,1,Português,5
+258,Dom Casmurro #258,463,2015-09-15,Ficção,102.72,2,SP,7,Francês,6
+259,O Senhor dos Anéis #259,150,2015-09-16,Terror,20.77,3,ES,9,Espanhol,1
+260,Cem Anos de Solidão #260,724,2015-09-17,Terror,87.2,10,ES,12,Francês,5
+261,Ensaio Sobre a Cegueira #261,758,2015-09-18,Clássico,23.27,3,MG,5,Inglês,4
+262,Cem Anos de Solidão #262,973,2015-09-19,Ficção,26.36,9,ES,10,Inglês,7
+263,A Hora da Estrela #263,383,2015-09-20,Distopia,144.8,5,ES,3,Português,1
+264,Grande Sertão: Veredas #264,1078,2015-09-21,Ficção Científica,148.44,8,ES,4,Inglês,0
+265,Neuromancer #265,979,2015-09-22,Infantil,98.72,5,RJ,2,Português,5
+266,O Hobbit #266,327,2015-09-23,Fantasia,121.73,10,MG,5,Português,6
+267,Capitães da Areia #267,544,2015-09-24,Realismo Mágico,44.88,3,RJ,0,Português,6
+268,Capitães da Areia #268,213,2015-09-25,Distopia,91.95,5,SP,6,Espanhol,2
+269,Capitães da Areia #269,370,2015-09-26,Realismo Mágico,50.14,6,SP,10,Inglês,7
+270,O Hobbit #270,93,2015-09-27,Realismo Mágico,61.46,3,ES,0,Francês,1
+271,Drácula #271,1042,2015-09-28,Ficção,73.85,5,RJ,11,Inglês,5
+272,O Alquimista #272,1116,2015-09-29,Ficção,145.94,4,ES,10,Francês,8
+273,Grande Sertão: Veredas #273,316,2015-09-30,Infantil,69.92,2,RJ,6,Francês,4
+274,Ensaio Sobre a Cegueira #274,1068,2015-10-01,Ficção Científica,96.84,4,SP,5,Inglês,7
+275,Grande Sertão: Veredas #275,254,2015-10-02,Suspense,127.81,7,SP,1,Inglês,3
+276,Memórias Póstumas #276,573,2015-10-03,Distopia,130.79,5,RJ,0,Português,2
+277,Memórias Póstumas #277,758,2015-10-04,Infantil,60.4,6,SP,0,Inglês,8
+278,A Revolução dos Bichos #278,426,2015-10-05,Suspense,87.57,7,ES,0,Espanhol,1
+279,Cem Anos de Solidão #279,131,2015-10-06,Clássico,30.87,4,SP,6,Espanhol,6
+280,Neuromancer #280,237,2015-10-07,Realismo Mágico,21.37,1,MG,0,Espanhol,2
+281,A Revolução dos Bichos #281,708,2015-10-08,Terror,136.17,2,SP,3,Francês,0
+282,A Revolução dos Bichos #282,82,2015-10-09,Terror,83.84,7,MG,8,Português,0
+283,Moby Dick #283,121,2015-10-10,Suspense,123.12,10,ES,6,Inglês,2
+284,Orgulho e Preconceito #284,1134,2015-10-11,Infantil,22.77,4,SP,12,Espanhol,8
+285,Harry Potter #285,929,2015-10-12,Clássico,135.97,10,ES,12,Espanhol,0
+286,Drácula #286,515,2015-10-13,Romance,40.7,3,SP,9,Inglês,3
+287,Harry Potter #287,547,2015-10-14,Ficção,113.68,4,RJ,12,Francês,4
+288,O Código Da Vinci #288,1120,2015-10-15,Ficção Científica,35.82,7,MG,4,Inglês,4
+289,Ensaio Sobre a Cegueira #289,300,2015-10-16,Infantil,146.21,6,ES,6,Inglês,6
+290,O Alquimista #290,634,2015-10-17,Clássico,55.41,1,ES,9,Português,1
+291,Moby Dick #291,379,2015-10-18,Realismo Mágico,43.72,7,ES,5,Português,1
+292,O Senhor dos Anéis #292,407,2015-10-19,Distopia,52.22,6,ES,3,Francês,4
+293,O Código Da Vinci #293,299,2015-10-20,Suspense,32.06,7,ES,10,Inglês,1
+294,1984 #294,138,2015-10-21,Terror,124.98,6,ES,4,Português,3
+295,Dom Casmurro #295,658,2015-10-22,Fantasia,133.46,3,ES,10,Português,5
+296,It - A Coisa #296,823,2015-10-23,Clássico,37.25,8,SP,3,Português,2
+297,Cem Anos de Solidão #297,987,2015-10-24,Suspense,50.89,8,MG,10,Português,3
+298,O Hobbit #298,571,2015-10-25,Suspense,36.91,5,ES,10,Espanhol,5
+299,Grande Sertão: Veredas #299,489,2015-10-26,Romance,20.2,1,SP,2,Português,4
+300,Memórias Póstumas #300,482,2015-10-27,Fantasia,85.99,4,MG,7,Português,7
+301,O Código Da Vinci #301,1134,2015-10-28,Infantil,143.94,4,ES,8,Português,5
+302,A Revolução dos Bichos #302,843,2015-10-29,Ficção,56.75,6,ES,9,Inglês,1
+303,A Revolução dos Bichos #303,731,2015-10-30,Ficção Científica,77.52,3,RJ,7,Espanhol,4
+304,Orgulho e Preconceito #304,1187,2015-10-31,Infantil,57.97,4,ES,3,Português,5
+305,Cem Anos de Solidão #305,647,2015-11-01,Infantil,141.41,5,SP,3,Português,1
+306,Grande Sertão: Veredas #306,598,2015-11-02,Ficção Científica,109.54,8,SP,0,Português,3
+307,Ensaio Sobre a Cegueira #307,106,2015-11-03,Suspense,72.58,3,MG,7,Português,2
+308,Neuromancer #308,89,2015-11-04,Clássico,95.95,4,ES,11,Francês,1
+309,Memórias Póstumas #309,755,2015-11-05,Terror,60.55,5,MG,3,Português,6
+310,O Pequeno Príncipe #310,95,2015-11-06,Romance,54.0,5,ES,6,Português,7
+311,A Revolução dos Bichos #311,252,2015-11-07,Ficção Científica,54.24,6,SP,3,Português,1
+312,Ensaio Sobre a Cegueira #312,552,2015-11-08,Infantil,22.47,4,RJ,6,Português,3
+313,Capitães da Areia #313,271,2015-11-09,Ficção,96.53,1,MG,1,Espanhol,2
+314,A Hora da Estrela #314,1160,2015-11-10,Fantasia,59.06,5,ES,12,Francês,7
+315,A Hora da Estrela #315,1116,2015-11-11,Fantasia,137.14,9,ES,8,Francês,7
+316,Cem Anos de Solidão #316,1180,2015-11-12,Romance,26.72,4,RJ,7,Espanhol,3
+317,Orgulho e Preconceito #317,915,2015-11-13,Infantil,65.4,3,SP,0,Inglês,7
+318,Harry Potter #318,780,2015-11-14,Distopia,103.44,4,ES,3,Português,4
+319,O Senhor dos Anéis #319,234,2015-11-15,Romance,128.5,7,RJ,2,Inglês,1
+320,A Hora da Estrela #320,1118,2015-11-16,Clássico,64.54,4,MG,4,Português,1
+321,Moby Dick #321,1076,2015-11-17,Romance,117.13,1,RJ,1,Espanhol,8
+322,A Hora da Estrela #322,1058,2015-11-18,Infantil,116.17,6,RJ,4,Português,6
+323,Grande Sertão: Veredas #323,1022,2015-11-19,Ficção,73.29,6,MG,1,Espanhol,0
+324,O Hobbit #324,185,2015-11-20,Fantasia,65.47,8,ES,7,Espanhol,2
+325,A Hora da Estrela #325,168,2015-11-21,Infantil,35.49,1,MG,11,Espanhol,2
+326,O Hobbit #326,147,2015-11-22,Fantasia,130.45,8,ES,9,Inglês,7
+327,O Código Da Vinci #327,719,2015-11-23,Terror,113.3,7,MG,8,Espanhol,0
+328,Drácula #328,213,2015-11-24,Terror,48.2,5,MG,1,Português,0
+329,Harry Potter #329,347,2015-11-25,Fantasia,140.78,5,SP,12,Inglês,6
+330,O Senhor dos Anéis #330,268,2015-11-26,Ficção Científica,61.57,3,RJ,4,Inglês,5
+331,O Hobbit #331,515,2015-11-27,Infantil,25.57,6,MG,5,Francês,7
+332,O Senhor dos Anéis #332,553,2015-11-28,Fantasia,121.29,7,ES,12,Espanhol,6
+333,It - A Coisa #333,843,2015-11-29,Terror,102.24,6,SP,2,Português,5
+334,Ensaio Sobre a Cegueira #334,482,2015-11-30,Romance,97.83,3,SP,11,Espanhol,2
+335,O Pequeno Príncipe #335,588,2015-12-01,Terror,56.19,5,SP,4,Espanhol,5
+336,Capitães da Areia #336,191,2015-12-02,Fantasia,24.01,3,ES,6,Inglês,7
+337,Cem Anos de Solidão #337,663,2015-12-03,Terror,21.69,2,MG,7,Inglês,6
+338,O Pequeno Príncipe #338,188,2015-12-04,Clássico,49.01,3,ES,10,Inglês,1
+339,Ensaio Sobre a Cegueira #339,1021,2015-12-05,Infantil,143.22,8,MG,8,Espanhol,2
+340,Ensaio Sobre a Cegueira #340,961,2015-12-06,Realismo Mágico,110.86,4,SP,9,Português,8
+341,O Senhor dos Anéis #341,438,2015-12-07,Terror,71.77,4,ES,9,Espanhol,4
+342,Dom Casmurro #342,941,2015-12-08,Clássico,42.11,2,RJ,0,Espanhol,7
+343,Cem Anos de Solidão #343,1123,2015-12-09,Ficção Científica,56.99,3,MG,5,Inglês,1
+344,Dom Casmurro #344,240,2015-12-10,Suspense,134.37,9,ES,0,Francês,5
+345,Harry Potter #345,172,2015-12-11,Suspense,145.51,5,SP,2,Inglês,4
+346,Neuromancer #346,394,2015-12-12,Fantasia,139.07,10,MG,11,Francês,7
+347,Drácula #347,346,2015-12-13,Terror,147.04,7,SP,9,Português,3
+348,Neuromancer #348,718,2015-12-14,Ficção,129.66,4,MG,12,Português,6
+349,Neuromancer #349,422,2015-12-15,Ficção Científica,91.45,3,ES,3,Francês,6
+350,O Senhor dos Anéis #350,746,2015-12-16,Suspense,55.15,7,MG,4,Francês,4
+351,O Senhor dos Anéis #351,271,2015-12-17,Fantasia,36.62,5,SP,12,Inglês,8
+352,Neuromancer #352,313,2015-12-18,Ficção Científica,113.74,10,RJ,1,Português,7
+353,A Revolução dos Bichos #353,597,2015-12-19,Ficção Científica,144.78,7,RJ,6,Português,6
+354,O Alquimista #354,390,2015-12-20,Ficção Científica,82.05,4,MG,7,Espanhol,4
+355,Harry Potter #355,688,2015-12-21,Suspense,22.01,3,ES,6,Francês,3
+356,A Hora da Estrela #356,513,2015-12-22,Suspense,23.89,7,RJ,2,Espanhol,6
+357,Drácula #357,745,2015-12-23,Ficção Científica,57.6,5,MG,6,Português,0
+358,1984 #358,1199,2015-12-24,Fantasia,133.62,1,ES,2,Português,3
+359,Capitães da Areia #359,148,2015-12-25,Ficção,84.74,5,ES,3,Português,4
+360,Capitães da Areia #360,1026,2015-12-26,Fantasia,127.58,3,MG,8,Português,3
+361,Cem Anos de Solidão #361,1189,2015-12-27,Realismo Mágico,122.11,6,SP,5,Português,6
+362,Orgulho e Preconceito #362,627,2015-12-28,Romance,134.93,4,MG,3,Português,3
+363,Grande Sertão: Veredas #363,1162,2015-12-29,Ficção Científica,79.07,4,SP,10,Inglês,3
+364,Dom Casmurro #364,1019,2015-12-30,Terror,34.96,10,ES,6,Espanhol,0
+365,1984 #365,379,2015-12-31,Clássico,84.08,9,SP,3,Inglês,4
+366,Dom Casmurro #366,343,2016-01-01,Clássico,123.61,8,SP,11,Espanhol,3
+367,Dom Casmurro #367,382,2016-01-02,Fantasia,111.85,3,SP,9,Português,8
+368,O Hobbit #368,272,2016-01-03,Distopia,139.31,4,MG,12,Inglês,3
+369,A Revolução dos Bichos #369,251,2016-01-04,Realismo Mágico,50.98,10,SP,9,Francês,8
+370,Neuromancer #370,235,2016-01-05,Distopia,84.4,1,RJ,10,Espanhol,4
+371,Harry Potter #371,586,2016-01-06,Realismo Mágico,53.12,7,SP,2,Inglês,5
+372,Moby Dick #372,190,2016-01-07,Ficção Científica,35.79,9,RJ,12,Espanhol,6
+373,Drácula #373,870,2016-01-08,Fantasia,101.56,2,MG,10,Espanhol,1
+374,Harry Potter #374,85,2016-01-09,Romance,128.7,4,RJ,6,Inglês,5
+375,Cem Anos de Solidão #375,839,2016-01-10,Fantasia,77.9,3,RJ,11,Português,8
+376,1984 #376,535,2016-01-11,Terror,93.54,3,RJ,6,Português,6
+377,Dom Casmurro #377,802,2016-01-12,Romance,52.15,7,RJ,10,Francês,5
+378,O Alquimista #378,939,2016-01-13,Realismo Mágico,30.29,2,RJ,10,Francês,4
+379,Ensaio Sobre a Cegueira #379,284,2016-01-14,Ficção Científica,144.52,9,ES,4,Francês,6
+380,A Revolução dos Bichos #380,433,2016-01-15,Ficção,31.48,8,ES,2,Espanhol,7
+381,Orgulho e Preconceito #381,795,2016-01-16,Distopia,145.78,2,MG,9,Espanhol,1
+382,Orgulho e Preconceito #382,658,2016-01-17,Suspense,91.34,10,MG,0,Francês,4
+383,Moby Dick #383,538,2016-01-18,Realismo Mágico,97.51,2,ES,4,Português,4
+384,A Revolução dos Bichos #384,507,2016-01-19,Terror,74.13,1,ES,12,Espanhol,4
+385,A Revolução dos Bichos #385,155,2016-01-20,Clássico,22.58,1,ES,4,Inglês,7
+386,Cem Anos de Solidão #386,1115,2016-01-21,Ficção Científica,98.29,7,MG,11,Inglês,4
+387,Memórias Póstumas #387,122,2016-01-22,Clássico,35.51,6,ES,6,Francês,2
+388,O Código Da Vinci #388,934,2016-01-23,Clássico,106.39,9,RJ,12,Francês,2
+389,Harry Potter #389,435,2016-01-24,Clássico,89.69,3,RJ,8,Espanhol,2
+390,Ensaio Sobre a Cegueira #390,85,2016-01-25,Realismo Mágico,74.69,8,SP,11,Inglês,4
+391,O Hobbit #391,234,2016-01-26,Ficção,44.0,8,ES,11,Espanhol,1
+392,Cem Anos de Solidão #392,652,2016-01-27,Fantasia,123.71,6,SP,1,Português,0
+393,O Hobbit #393,759,2016-01-28,Ficção,139.28,1,ES,3,Português,5
+394,Harry Potter #394,140,2016-01-29,Ficção,127.83,3,SP,4,Português,3
+395,Grande Sertão: Veredas #395,957,2016-01-30,Romance,108.17,1,RJ,8,Espanhol,8
+396,Memórias Póstumas #396,573,2016-01-31,Distopia,91.11,6,RJ,1,Português,4
+397,Cem Anos de Solidão #397,1079,2016-02-01,Ficção Científica,32.1,6,SP,7,Inglês,4
+398,Harry Potter #398,529,2016-02-02,Realismo Mágico,105.56,5,RJ,12,Inglês,6
+399,Capitães da Areia #399,408,2016-02-03,Romance,33.02,8,SP,2,Inglês,8
+400,A Revolução dos Bichos #400,892,2016-02-04,Clássico,149.01,4,MG,4,Português,3
+401,1984 #401,797,2016-02-05,Distopia,83.21,9,RJ,10,Espanhol,6
+402,Dom Casmurro #402,118,2016-02-06,Suspense,59.39,5,MG,5,Francês,4
+403,Drácula #403,463,2016-02-07,Ficção,149.09,2,RJ,0,Português,2
+404,Dom Casmurro #404,508,2016-02-08,Infantil,23.01,1,MG,1,Francês,4
+405,O Hobbit #405,887,2016-02-09,Ficção Científica,44.64,10,SP,2,Inglês,2
+406,O Pequeno Príncipe #406,157,2016-02-10,Fantasia,113.78,8,RJ,3,Português,7
+407,Dom Casmurro #407,710,2016-02-11,Ficção Científica,63.58,7,MG,9,Português,4
+408,Grande Sertão: Veredas #408,784,2016-02-12,Ficção Científica,58.43,3,MG,3,Espanhol,7
+409,O Pequeno Príncipe #409,1027,2016-02-13,Romance,99.25,1,SP,12,Francês,7
+410,A Hora da Estrela #410,862,2016-02-14,Distopia,117.91,8,ES,10,Inglês,4
+411,Drácula #411,123,2016-02-15,Fantasia,94.32,3,RJ,4,Português,3
+412,Neuromancer #412,239,2016-02-16,Ficção,43.81,5,MG,7,Português,8
+413,It - A Coisa #413,947,2016-02-17,Terror,49.32,5,RJ,12,Espanhol,0
+414,1984 #414,479,2016-02-18,Realismo Mágico,135.54,4,ES,9,Francês,2
+415,Dom Casmurro #415,689,2016-02-19,Infantil,111.37,6,ES,7,Espanhol,5
+416,A Revolução dos Bichos #416,1037,2016-02-20,Ficção,131.04,5,SP,6,Inglês,7
+417,Harry Potter #417,1146,2016-02-21,Clássico,140.29,3,ES,11,Português,8
+418,A Revolução dos Bichos #418,1006,2016-02-22,Romance,140.62,6,ES,12,Francês,2
+419,O Senhor dos Anéis #419,936,2016-02-23,Ficção,126.35,1,SP,4,Espanhol,3
+420,Ensaio Sobre a Cegueira #420,834,2016-02-24,Ficção,78.3,6,SP,1,Português,8
+421,Cem Anos de Solidão #421,626,2016-02-25,Romance,63.11,5,MG,3,Português,5
+422,Moby Dick #422,974,2016-02-26,Distopia,43.42,2,SP,0,Espanhol,6
+423,Ensaio Sobre a Cegueira #423,391,2016-02-27,Infantil,73.71,8,RJ,3,Português,3
+424,Neuromancer #424,1135,2016-02-28,Ficção Científica,130.66,5,SP,8,Espanhol,7
+425,Grande Sertão: Veredas #425,421,2016-02-29,Fantasia,47.59,7,RJ,5,Francês,4
+426,Drácula #426,1172,2016-03-01,Ficção,128.02,1,MG,8,Espanhol,3
+427,1984 #427,736,2016-03-02,Suspense,92.4,5,SP,2,Francês,6
+428,O Código Da Vinci #428,402,2016-03-03,Infantil,99.2,3,MG,0,Inglês,0
+429,Neuromancer #429,1005,2016-03-04,Realismo Mágico,71.97,2,ES,11,Português,3
+430,Harry Potter #430,942,2016-03-05,Fantasia,111.09,8,RJ,2,Inglês,3
+431,Grande Sertão: Veredas #431,1170,2016-03-06,Fantasia,35.86,3,MG,12,Espanhol,4
+432,Grande Sertão: Veredas #432,971,2016-03-07,Fantasia,120.23,8,ES,12,Francês,4
+433,O Código Da Vinci #433,715,2016-03-08,Ficção,71.08,8,ES,3,Português,2
+434,Memórias Póstumas #434,322,2016-03-09,Ficção Científica,36.07,4,RJ,5,Português,4
+435,O Pequeno Príncipe #435,612,2016-03-10,Fantasia,38.51,8,RJ,0,Inglês,7
+436,Orgulho e Preconceito #436,1106,2016-03-11,Infantil,30.99,4,ES,8,Francês,0
+437,Grande Sertão: Veredas #437,255,2016-03-12,Suspense,132.37,4,RJ,1,Francês,3
+438,It - A Coisa #438,250,2016-03-13,Realismo Mágico,57.47,1,MG,9,Inglês,8
+439,O Pequeno Príncipe #439,419,2016-03-14,Suspense,121.14,2,MG,9,Francês,4
+440,Memórias Póstumas #440,189,2016-03-15,Ficção,111.9,2,MG,7,Francês,1
+441,O Código Da Vinci #441,1047,2016-03-16,Infantil,149.05,7,SP,2,Espanhol,6
+442,It - A Coisa #442,1115,2016-03-17,Fantasia,96.12,1,SP,4,Português,1
+443,Grande Sertão: Veredas #443,1144,2016-03-18,Infantil,103.66,8,RJ,5,Espanhol,6
+444,O Hobbit #444,257,2016-03-19,Terror,71.26,9,MG,10,Inglês,7
+445,1984 #445,233,2016-03-20,Romance,104.52,7,SP,7,Português,8
+446,Neuromancer #446,1140,2016-03-21,Distopia,113.03,2,SP,8,Espanhol,5
+447,Orgulho e Preconceito #447,294,2016-03-22,Terror,30.26,2,MG,6,Português,0
+448,It - A Coisa #448,752,2016-03-23,Suspense,125.26,8,MG,6,Francês,6
+449,Cem Anos de Solidão #449,383,2016-03-24,Terror,39.73,2,MG,6,Português,3
+450,Dom Casmurro #450,684,2016-03-25,Fantasia,81.86,9,SP,12,Espanhol,7
+451,Memórias Póstumas #451,137,2016-03-26,Ficção,109.95,3,MG,4,Francês,0
+452,O Pequeno Príncipe #452,137,2016-03-27,Romance,26.93,5,SP,10,Espanhol,8
+453,O Alquimista #453,584,2016-03-28,Ficção Científica,108.64,5,SP,9,Português,2
+454,1984 #454,1122,2016-03-29,Realismo Mágico,99.71,4,MG,9,Espanhol,4
+455,Cem Anos de Solidão #455,968,2016-03-30,Romance,56.76,7,MG,3,Francês,6
+456,Moby Dick #456,863,2016-03-31,Romance,34.16,3,SP,12,Português,2
+457,It - A Coisa #457,538,2016-04-01,Ficção Científica,29.79,5,MG,5,Português,2
+458,1984 #458,346,2016-04-02,Terror,90.3,9,SP,4,Francês,2
+459,It - A Coisa #459,936,2016-04-03,Clássico,91.86,3,ES,6,Espanhol,8
+460,O Hobbit #460,1019,2016-04-04,Fantasia,48.42,5,MG,2,Português,1
+461,Moby Dick #461,824,2016-04-05,Fantasia,97.7,4,MG,12,Espanhol,5
+462,Dom Casmurro #462,1117,2016-04-06,Terror,27.65,2,ES,6,Português,4
+463,A Revolução dos Bichos #463,1024,2016-04-07,Ficção,132.32,6,MG,7,Inglês,8
+464,Dom Casmurro #464,207,2016-04-08,Terror,98.82,1,MG,1,Espanhol,2
+465,O Pequeno Príncipe #465,832,2016-04-09,Romance,97.29,9,ES,7,Francês,5
+466,Cem Anos de Solidão #466,746,2016-04-10,Infantil,30.91,2,MG,7,Português,2
+467,Ensaio Sobre a Cegueira #467,642,2016-04-11,Romance,103.73,6,SP,7,Francês,4
+468,Capitães da Areia #468,664,2016-04-12,Suspense,25.03,6,MG,1,Francês,7
+469,Ensaio Sobre a Cegueira #469,1144,2016-04-13,Ficção Científica,128.64,8,MG,5,Francês,5
+470,Dom Casmurro #470,876,2016-04-14,Infantil,31.66,7,SP,6,Francês,8
+471,Harry Potter #471,892,2016-04-15,Realismo Mágico,29.0,4,SP,7,Português,7
+472,Dom Casmurro #472,357,2016-04-16,Fantasia,70.05,2,MG,0,Espanhol,8
+473,Ensaio Sobre a Cegueira #473,389,2016-04-17,Distopia,143.96,6,SP,4,Português,8
+474,Moby Dick #474,586,2016-04-18,Fantasia,57.5,1,ES,7,Francês,7
+475,O Código Da Vinci #475,861,2016-04-19,Ficção,77.82,4,MG,5,Francês,2
+476,1984 #476,1011,2016-04-20,Ficção,74.85,3,MG,7,Espanhol,4
+477,O Pequeno Príncipe #477,296,2016-04-21,Suspense,91.35,8,SP,1,Francês,8
+478,Dom Casmurro #478,1127,2016-04-22,Ficção,30.11,2,ES,1,Português,0
+479,Cem Anos de Solidão #479,584,2016-04-23,Realismo Mágico,96.4,2,RJ,12,Espanhol,8
+480,Cem Anos de Solidão #480,1146,2016-04-24,Ficção Científica,46.8,10,SP,4,Inglês,2
+481,O Alquimista #481,176,2016-04-25,Terror,22.8,9,RJ,4,Francês,1
+482,O Hobbit #482,272,2016-04-26,Fantasia,50.95,4,SP,2,Português,0
+483,Dom Casmurro #483,712,2016-04-27,Ficção,41.52,5,SP,10,Francês,7
+484,O Código Da Vinci #484,1021,2016-04-28,Fantasia,62.73,10,ES,3,Inglês,1
+485,O Hobbit #485,317,2016-04-29,Clássico,65.39,9,ES,6,Espanhol,2
+486,O Alquimista #486,1007,2016-04-30,Infantil,73.62,9,SP,10,Português,1
+487,Cem Anos de Solidão #487,534,2016-05-01,Suspense,111.47,3,ES,3,Francês,6
+488,A Revolução dos Bichos #488,505,2016-05-02,Realismo Mágico,123.47,1,SP,3,Francês,5
+489,Ensaio Sobre a Cegueira #489,654,2016-05-03,Realismo Mágico,23.69,7,MG,10,Inglês,7
+490,Cem Anos de Solidão #490,420,2016-05-04,Suspense,98.63,7,SP,11,Francês,8
+491,A Revolução dos Bichos #491,233,2016-05-05,Terror,117.12,6,MG,2,Português,6
+492,Drácula #492,603,2016-05-06,Terror,108.39,1,SP,2,Português,2
+493,O Hobbit #493,309,2016-05-07,Romance,140.76,2,SP,9,Inglês,2
+494,O Código Da Vinci #494,223,2016-05-08,Ficção Científica,98.59,1,RJ,0,Francês,4
+495,O Hobbit #495,439,2016-05-09,Terror,39.5,4,SP,3,Inglês,1
+496,Moby Dick #496,682,2016-05-10,Ficção,83.3,9,RJ,0,Português,7
+497,Harry Potter #497,92,2016-05-11,Clássico,69.32,8,RJ,3,Espanhol,0
+498,Drácula #498,1132,2016-05-12,Ficção,78.75,5,MG,11,Francês,1
+499,Orgulho e Preconceito #499,1072,2016-05-13,Realismo Mágico,129.98,1,ES,5,Francês,2
+500,O Código Da Vinci #500,1136,2016-05-14,Fantasia,35.04,7,MG,5,Espanhol,6
+501,Ensaio Sobre a Cegueira #501,1098,2016-05-15,Ficção,50.17,9,ES,6,Espanhol,0
+502,Memórias Póstumas #502,309,2016-05-16,Infantil,61.87,4,SP,5,Português,0
+503,Moby Dick #503,1085,2016-05-17,Ficção,93.06,2,RJ,4,Francês,0
+504,Grande Sertão: Veredas #504,960,2016-05-18,Ficção Científica,108.66,7,MG,11,Espanhol,5
+505,O Código Da Vinci #505,198,2016-05-19,Realismo Mágico,130.97,9,ES,0,Português,5
+506,A Revolução dos Bichos #506,518,2016-05-20,Infantil,56.1,5,MG,7,Espanhol,0
+507,Cem Anos de Solidão #507,612,2016-05-21,Ficção Científica,92.57,9,RJ,9,Inglês,0
+508,O Pequeno Príncipe #508,1003,2016-05-22,Realismo Mágico,149.85,9,RJ,4,Inglês,6
+509,Drácula #509,1078,2016-05-23,Distopia,43.97,1,SP,12,Espanhol,6
+510,O Código Da Vinci #510,986,2016-05-24,Ficção Científica,126.01,3,RJ,8,Espanhol,4
+511,Grande Sertão: Veredas #511,989,2016-05-25,Suspense,47.66,5,SP,2,Espanhol,2
+512,O Senhor dos Anéis #512,1164,2016-05-26,Fantasia,27.6,9,ES,12,Espanhol,3
+513,Ensaio Sobre a Cegueira #513,387,2016-05-27,Ficção Científica,73.91,3,SP,7,Inglês,3
+514,O Código Da Vinci #514,283,2016-05-28,Ficção,62.73,8,SP,5,Português,5
+515,Memórias Póstumas #515,731,2016-05-29,Terror,125.55,3,MG,7,Inglês,5
+516,O Senhor dos Anéis #516,1074,2016-05-30,Suspense,92.22,4,MG,4,Espanhol,2
+517,1984 #517,766,2016-05-31,Ficção,54.49,3,ES,8,Espanhol,3
+518,A Revolução dos Bichos #518,275,2016-06-01,Ficção Científica,98.68,4,SP,8,Português,7
+519,1984 #519,871,2016-06-02,Ficção,111.57,4,SP,9,Inglês,2
+520,A Hora da Estrela #520,1063,2016-06-03,Suspense,32.79,10,SP,4,Espanhol,7
+521,Dom Casmurro #521,107,2016-06-04,Realismo Mágico,85.62,8,MG,6,Francês,0
+522,O Senhor dos Anéis #522,383,2016-06-05,Infantil,81.81,8,MG,9,Francês,3
+523,O Hobbit #523,158,2016-06-06,Realismo Mágico,87.18,1,ES,7,Inglês,2
+524,Cem Anos de Solidão #524,1045,2016-06-07,Suspense,59.05,2,MG,7,Inglês,8
+525,Harry Potter #525,248,2016-06-08,Infantil,88.5,2,ES,2,Português,4
+526,O Hobbit #526,976,2016-06-09,Ficção,148.48,4,ES,5,Francês,3
+527,O Código Da Vinci #527,817,2016-06-10,Realismo Mágico,141.49,5,ES,9,Inglês,5
+528,A Hora da Estrela #528,847,2016-06-11,Fantasia,82.23,6,SP,3,Inglês,4
+529,O Pequeno Príncipe #529,259,2016-06-12,Ficção Científica,59.51,2,SP,4,Português,6
+530,Drácula #530,1013,2016-06-13,Terror,76.82,10,MG,11,Inglês,8
+531,Ensaio Sobre a Cegueira #531,644,2016-06-14,Realismo Mágico,55.01,8,MG,2,Português,3
+532,Grande Sertão: Veredas #532,1189,2016-06-15,Terror,33.63,5,SP,6,Inglês,8
+533,A Hora da Estrela #533,1086,2016-06-16,Distopia,98.02,7,RJ,0,Português,6
+534,Neuromancer #534,1103,2016-06-17,Romance,84.77,3,SP,1,Português,4
+535,O Alquimista #535,1089,2016-06-18,Ficção,83.43,1,SP,3,Inglês,6
+536,O Senhor dos Anéis #536,644,2016-06-19,Ficção,85.13,4,MG,7,Português,3
+537,It - A Coisa #537,288,2016-06-20,Distopia,146.96,1,SP,10,Espanhol,2
+538,O Senhor dos Anéis #538,830,2016-06-21,Distopia,119.1,1,SP,6,Francês,4
+539,O Senhor dos Anéis #539,633,2016-06-22,Ficção,43.48,5,MG,8,Português,6
+540,Capitães da Areia #540,1170,2016-06-23,Terror,82.13,1,SP,7,Inglês,1
+541,O Pequeno Príncipe #541,240,2016-06-24,Distopia,120.21,4,ES,5,Espanhol,3
+542,Memórias Póstumas #542,207,2016-06-25,Suspense,86.35,3,ES,0,Inglês,6
+543,It - A Coisa #543,999,2016-06-26,Ficção Científica,22.97,7,SP,9,Francês,3
+544,A Hora da Estrela #544,992,2016-06-27,Ficção,51.42,5,MG,9,Espanhol,4
+545,O Pequeno Príncipe #545,749,2016-06-28,Suspense,124.85,5,ES,7,Inglês,2
+546,O Senhor dos Anéis #546,554,2016-06-29,Ficção,52.74,5,SP,0,Inglês,2
+547,Neuromancer #547,179,2016-06-30,Ficção Científica,28.18,6,SP,2,Português,3
+548,Harry Potter #548,133,2016-07-01,Ficção,75.11,9,RJ,0,Português,6
+549,A Revolução dos Bichos #549,842,2016-07-02,Clássico,70.06,6,ES,9,Espanhol,5
+550,Ensaio Sobre a Cegueira #550,618,2016-07-03,Suspense,96.93,4,MG,7,Inglês,3
+551,Grande Sertão: Veredas #551,800,2016-07-04,Suspense,56.87,1,ES,5,Inglês,5
+552,Capitães da Areia #552,244,2016-07-05,Distopia,136.51,4,SP,5,Inglês,0
+553,Cem Anos de Solidão #553,1094,2016-07-06,Ficção,48.85,5,RJ,8,Português,7
+554,Orgulho e Preconceito #554,264,2016-07-07,Terror,43.04,2,MG,6,Inglês,1
+555,A Revolução dos Bichos #555,1126,2016-07-08,Ficção Científica,52.71,10,SP,11,Português,6
+556,O Hobbit #556,664,2016-07-09,Suspense,101.08,3,MG,4,Inglês,1
+557,O Hobbit #557,1196,2016-07-10,Realismo Mágico,56.86,10,MG,2,Inglês,7
+558,O Código Da Vinci #558,936,2016-07-11,Romance,117.24,6,RJ,7,Português,1
+559,Moby Dick #559,1010,2016-07-12,Suspense,104.44,10,SP,9,Espanhol,7
+560,Neuromancer #560,189,2016-07-13,Clássico,69.04,7,SP,9,Português,0
+561,It - A Coisa #561,1198,2016-07-14,Ficção,85.19,4,SP,0,Espanhol,2
+562,O Alquimista #562,306,2016-07-15,Ficção Científica,132.69,6,MG,5,Francês,0
+563,Harry Potter #563,598,2016-07-16,Infantil,138.38,9,RJ,4,Inglês,1
+564,O Código Da Vinci #564,413,2016-07-17,Realismo Mágico,71.92,8,ES,7,Francês,0
+565,Orgulho e Preconceito #565,562,2016-07-18,Realismo Mágico,56.83,10,ES,3,Inglês,3
+566,Moby Dick #566,628,2016-07-19,Distopia,53.32,1,MG,0,Francês,7
+567,Capitães da Areia #567,427,2016-07-20,Fantasia,48.65,10,ES,6,Espanhol,5
+568,1984 #568,412,2016-07-21,Suspense,31.76,5,ES,7,Espanhol,0
+569,A Hora da Estrela #569,895,2016-07-22,Clássico,34.87,10,RJ,10,Português,2
+570,O Pequeno Príncipe #570,232,2016-07-23,Romance,129.15,10,MG,3,Espanhol,6
+571,Cem Anos de Solidão #571,287,2016-07-24,Romance,66.27,10,RJ,2,Português,2
+572,Ensaio Sobre a Cegueira #572,184,2016-07-25,Realismo Mágico,60.51,10,SP,4,Inglês,6
+573,Dom Casmurro #573,475,2016-07-26,Suspense,43.6,4,ES,8,Português,7
+574,Cem Anos de Solidão #574,876,2016-07-27,Distopia,82.78,9,ES,11,Espanhol,6
+575,Orgulho e Preconceito #575,971,2016-07-28,Ficção Científica,101.28,2,RJ,3,Espanhol,5
+576,It - A Coisa #576,689,2016-07-29,Suspense,65.33,7,RJ,3,Espanhol,5
+577,It - A Coisa #577,690,2016-07-30,Clássico,133.18,3,RJ,5,Português,1
+578,Ensaio Sobre a Cegueira #578,127,2016-07-31,Terror,147.08,7,MG,8,Português,0
+579,O Alquimista #579,120,2016-08-01,Fantasia,106.65,1,RJ,10,Espanhol,3
+580,A Hora da Estrela #580,248,2016-08-02,Ficção Científica,20.1,6,RJ,3,Inglês,8
+581,It - A Coisa #581,353,2016-08-03,Fantasia,127.16,5,SP,5,Espanhol,8
+582,Capitães da Areia #582,110,2016-08-04,Distopia,63.83,4,RJ,3,Espanhol,3
+583,O Alquimista #583,776,2016-08-05,Clássico,137.6,4,ES,8,Espanhol,8
+584,O Senhor dos Anéis #584,125,2016-08-06,Ficção,23.96,3,MG,12,Espanhol,3
+585,Orgulho e Preconceito #585,873,2016-08-07,Terror,137.44,9,SP,2,Francês,6
+586,A Revolução dos Bichos #586,824,2016-08-08,Fantasia,92.74,10,MG,4,Francês,3
+587,A Revolução dos Bichos #587,740,2016-08-09,Realismo Mágico,38.04,4,RJ,9,Espanhol,7
+588,Grande Sertão: Veredas #588,953,2016-08-10,Clássico,93.44,4,SP,2,Francês,3
+589,A Hora da Estrela #589,576,2016-08-11,Distopia,71.32,8,ES,3,Espanhol,3
+590,O Senhor dos Anéis #590,241,2016-08-12,Ficção Científica,50.9,5,MG,7,Português,8
+591,Capitães da Areia #591,294,2016-08-13,Romance,109.37,2,MG,9,Inglês,6
+592,It - A Coisa #592,1199,2016-08-14,Suspense,31.95,9,ES,2,Português,6
+593,Cem Anos de Solidão #593,448,2016-08-15,Clássico,144.62,2,ES,9,Português,1
+594,Capitães da Areia #594,1182,2016-08-16,Realismo Mágico,59.11,1,ES,3,Português,6
+595,O Código Da Vinci #595,884,2016-08-17,Infantil,108.03,5,RJ,0,Francês,8
+596,O Senhor dos Anéis #596,1162,2016-08-18,Ficção,98.98,10,RJ,5,Português,0
+597,O Alquimista #597,315,2016-08-19,Fantasia,57.08,2,MG,6,Inglês,6
+598,O Hobbit #598,659,2016-08-20,Romance,33.77,7,MG,9,Espanhol,1
+599,O Pequeno Príncipe #599,538,2016-08-21,Ficção Científica,73.69,6,SP,8,Inglês,7
+600,Memórias Póstumas #600,325,2016-08-22,Distopia,71.48,10,ES,12,Inglês,2
+601,Neuromancer #601,627,2016-08-23,Suspense,149.28,4,SP,10,Espanhol,7
+602,Cem Anos de Solidão #602,844,2016-08-24,Distopia,31.62,8,ES,3,Francês,2
+603,O Senhor dos Anéis #603,799,2016-08-25,Ficção Científica,126.13,3,SP,11,Espanhol,4
+604,A Hora da Estrela #604,1168,2016-08-26,Romance,81.97,6,ES,8,Português,3
+605,A Hora da Estrela #605,701,2016-08-27,Infantil,93.08,1,MG,10,Francês,8
+606,Dom Casmurro #606,1091,2016-08-28,Romance,123.49,6,RJ,1,Francês,0
+607,Harry Potter #607,1105,2016-08-29,Terror,44.11,9,RJ,6,Francês,6
+608,Capitães da Areia #608,1011,2016-08-30,Clássico,142.02,9,ES,0,Espanhol,4
+609,Moby Dick #609,838,2016-08-31,Realismo Mágico,50.54,9,SP,0,Português,3
+610,Memórias Póstumas #610,1192,2016-09-01,Ficção,104.17,3,MG,8,Francês,7
+611,O Hobbit #611,201,2016-09-02,Clássico,86.47,6,RJ,7,Francês,0
+612,Moby Dick #612,1134,2016-09-03,Terror,142.83,10,SP,12,Espanhol,0
+613,Harry Potter #613,673,2016-09-04,Fantasia,141.69,5,ES,3,Francês,6
+614,O Alquimista #614,305,2016-09-05,Distopia,72.71,5,ES,7,Espanhol,6
+615,Harry Potter #615,266,2016-09-06,Fantasia,116.48,9,RJ,9,Francês,2
+616,O Código Da Vinci #616,858,2016-09-07,Clássico,86.74,3,MG,12,Espanhol,1
+617,O Pequeno Príncipe #617,415,2016-09-08,Romance,102.46,3,ES,7,Inglês,7
+618,O Senhor dos Anéis #618,1025,2016-09-09,Infantil,142.21,9,ES,3,Inglês,5
+619,Grande Sertão: Veredas #619,266,2016-09-10,Terror,27.76,9,RJ,11,Inglês,6
+620,Cem Anos de Solidão #620,212,2016-09-11,Realismo Mágico,126.97,4,SP,2,Espanhol,0
+621,O Pequeno Príncipe #621,619,2016-09-12,Ficção,99.21,5,RJ,9,Francês,0
+622,A Hora da Estrela #622,314,2016-09-13,Fantasia,30.41,9,RJ,11,Inglês,2
+623,O Pequeno Príncipe #623,344,2016-09-14,Suspense,96.76,9,SP,6,Francês,4
+624,O Senhor dos Anéis #624,754,2016-09-15,Fantasia,115.17,7,SP,5,Português,2
+625,Neuromancer #625,661,2016-09-16,Fantasia,92.76,3,MG,1,Português,6
+626,Drácula #626,340,2016-09-17,Ficção Científica,52.35,5,SP,1,Espanhol,5
+627,It - A Coisa #627,678,2016-09-18,Suspense,115.59,6,MG,8,Francês,5
+628,It - A Coisa #628,937,2016-09-19,Infantil,145.85,5,ES,5,Inglês,5
+629,Ensaio Sobre a Cegueira #629,1175,2016-09-20,Ficção Científica,118.31,9,MG,5,Francês,4
+630,Orgulho e Preconceito #630,694,2016-09-21,Realismo Mágico,67.02,1,MG,3,Francês,5
+631,Cem Anos de Solidão #631,835,2016-09-22,Suspense,98.42,8,ES,6,Inglês,3
+632,1984 #632,831,2016-09-23,Realismo Mágico,49.24,2,RJ,4,Português,7
+633,O Código Da Vinci #633,930,2016-09-24,Clássico,149.89,10,RJ,10,Inglês,2
+634,1984 #634,908,2016-09-25,Realismo Mágico,25.25,3,RJ,6,Inglês,7
+635,A Revolução dos Bichos #635,167,2016-09-26,Terror,145.83,10,SP,10,Espanhol,0
+636,Grande Sertão: Veredas #636,877,2016-09-27,Clássico,107.01,2,ES,1,Inglês,3
+637,O Senhor dos Anéis #637,109,2016-09-28,Romance,81.89,8,ES,10,Português,2
+638,O Hobbit #638,1154,2016-09-29,Suspense,40.6,2,RJ,5,Português,6
+639,1984 #639,875,2016-09-30,Ficção Científica,36.72,1,MG,3,Português,3
+640,O Pequeno Príncipe #640,133,2016-10-01,Romance,75.77,6,RJ,1,Espanhol,5
+641,Ensaio Sobre a Cegueira #641,982,2016-10-02,Romance,122.85,10,ES,6,Francês,4
+642,Orgulho e Preconceito #642,982,2016-10-03,Realismo Mágico,104.58,10,SP,11,Inglês,0
+643,Harry Potter #643,730,2016-10-04,Ficção,134.22,1,SP,3,Francês,6
+644,O Senhor dos Anéis #644,429,2016-10-05,Distopia,119.8,8,ES,0,Espanhol,4
+645,Drácula #645,882,2016-10-06,Realismo Mágico,135.33,2,RJ,2,Espanhol,0
+646,Orgulho e Preconceito #646,131,2016-10-07,Romance,82.3,5,MG,1,Inglês,2
+647,Dom Casmurro #647,1140,2016-10-08,Distopia,62.55,1,SP,8,Francês,8
+648,Orgulho e Preconceito #648,927,2016-10-09,Fantasia,35.16,8,RJ,6,Francês,8
+649,Grande Sertão: Veredas #649,997,2016-10-10,Distopia,37.43,3,ES,3,Espanhol,0
+650,O Pequeno Príncipe #650,1187,2016-10-11,Suspense,76.6,6,ES,6,Inglês,0
+651,Neuromancer #651,826,2016-10-12,Realismo Mágico,76.64,7,RJ,12,Espanhol,7
+652,Cem Anos de Solidão #652,989,2016-10-13,Clássico,120.23,9,RJ,11,Espanhol,3
+653,Memórias Póstumas #653,497,2016-10-14,Terror,51.34,3,ES,12,Inglês,0
+654,Grande Sertão: Veredas #654,1164,2016-10-15,Ficção Científica,79.56,7,ES,8,Inglês,1
+655,Drácula #655,403,2016-10-16,Romance,111.65,8,MG,12,Francês,6
+656,Drácula #656,680,2016-10-17,Romance,148.03,1,RJ,12,Inglês,8
+657,Drácula #657,336,2016-10-18,Clássico,71.02,5,ES,7,Francês,3
+658,O Senhor dos Anéis #658,188,2016-10-19,Romance,82.69,8,SP,6,Espanhol,7
+659,Cem Anos de Solidão #659,119,2016-10-20,Ficção,39.0,8,SP,7,Espanhol,3
+660,O Hobbit #660,295,2016-10-21,Ficção,124.11,7,MG,1,Português,2
+661,1984 #661,328,2016-10-22,Terror,61.71,10,ES,12,Espanhol,3
+662,Harry Potter #662,281,2016-10-23,Realismo Mágico,133.0,1,SP,4,Francês,2
+663,Ensaio Sobre a Cegueira #663,929,2016-10-24,Ficção Científica,57.91,1,MG,11,Inglês,8
+664,O Código Da Vinci #664,786,2016-10-25,Infantil,129.45,6,RJ,3,Francês,8
+665,Orgulho e Preconceito #665,221,2016-10-26,Fantasia,64.76,5,SP,7,Espanhol,7
+666,Orgulho e Preconceito #666,1135,2016-10-27,Realismo Mágico,27.73,3,RJ,6,Espanhol,0
+667,A Revolução dos Bichos #667,953,2016-10-28,Realismo Mágico,137.94,3,SP,9,Inglês,6
+668,Moby Dick #668,578,2016-10-29,Romance,141.78,2,RJ,9,Francês,2
+669,O Pequeno Príncipe #669,525,2016-10-30,Romance,110.21,2,ES,5,Espanhol,0
+670,Memórias Póstumas #670,1069,2016-10-31,Clássico,54.74,6,MG,5,Francês,7
+671,A Hora da Estrela #671,757,2016-11-01,Ficção,107.2,6,MG,6,Francês,4
+672,Memórias Póstumas #672,1109,2016-11-02,Ficção Científica,101.78,3,RJ,12,Inglês,6
+673,Cem Anos de Solidão #673,822,2016-11-03,Ficção,82.13,2,RJ,6,Português,7
+674,O Alquimista #674,224,2016-11-04,Ficção,134.65,7,SP,5,Português,0
+675,O Pequeno Príncipe #675,742,2016-11-05,Romance,83.62,8,MG,7,Francês,4
+676,O Alquimista #676,115,2016-11-06,Distopia,66.43,5,ES,5,Inglês,1
+677,1984 #677,224,2016-11-07,Ficção,97.46,6,MG,7,Francês,4
+678,Orgulho e Preconceito #678,519,2016-11-08,Ficção,88.52,2,SP,9,Português,0
+679,O Alquimista #679,781,2016-11-09,Distopia,136.22,8,SP,5,Espanhol,6
+680,Dom Casmurro #680,387,2016-11-10,Distopia,66.14,3,RJ,1,Espanhol,7
+681,1984 #681,839,2016-11-11,Ficção,148.4,1,SP,6,Espanhol,6
+682,O Hobbit #682,1052,2016-11-12,Distopia,119.08,10,ES,6,Francês,3
+683,Ensaio Sobre a Cegueira #683,349,2016-11-13,Suspense,76.46,1,ES,5,Francês,5
+684,It - A Coisa #684,737,2016-11-14,Realismo Mágico,41.07,9,SP,3,Espanhol,8
+685,O Hobbit #685,532,2016-11-15,Suspense,84.87,3,RJ,9,Espanhol,5
+686,It - A Coisa #686,968,2016-11-16,Realismo Mágico,30.04,1,MG,8,Francês,4
+687,Ensaio Sobre a Cegueira #687,1171,2016-11-17,Distopia,86.56,8,ES,0,Português,1
+688,O Senhor dos Anéis #688,1081,2016-11-18,Suspense,120.17,2,MG,4,Espanhol,7
+689,O Senhor dos Anéis #689,898,2016-11-19,Ficção Científica,70.33,1,MG,9,Espanhol,7
+690,Neuromancer #690,687,2016-11-20,Romance,74.48,9,RJ,1,Português,5
+691,Harry Potter #691,660,2016-11-21,Distopia,140.91,7,ES,3,Português,5
+692,Moby Dick #692,1088,2016-11-22,Distopia,36.93,4,ES,3,Inglês,4
+693,A Revolução dos Bichos #693,439,2016-11-23,Suspense,48.02,6,MG,5,Inglês,7
+694,It - A Coisa #694,635,2016-11-24,Distopia,119.99,5,SP,3,Inglês,0
+695,O Alquimista #695,319,2016-11-25,Ficção Científica,25.47,10,MG,4,Francês,2
+696,Capitães da Areia #696,401,2016-11-26,Ficção Científica,32.33,1,ES,4,Espanhol,3
+697,1984 #697,286,2016-11-27,Realismo Mágico,76.79,9,MG,5,Inglês,0
+698,Dom Casmurro #698,390,2016-11-28,Ficção,126.16,3,RJ,8,Português,4
+699,O Código Da Vinci #699,367,2016-11-29,Clássico,75.41,7,ES,9,Português,0
+700,Harry Potter #700,943,2016-11-30,Distopia,122.37,1,ES,4,Inglês,3
+701,A Revolução dos Bichos #701,241,2016-12-01,Fantasia,117.84,8,ES,7,Inglês,6
+702,O Alquimista #702,847,2016-12-02,Realismo Mágico,108.51,1,MG,10,Espanhol,8
+703,A Revolução dos Bichos #703,846,2016-12-03,Infantil,71.91,9,RJ,2,Inglês,8
+704,Ensaio Sobre a Cegueira #704,436,2016-12-04,Fantasia,71.56,2,RJ,0,Espanhol,0
+705,It - A Coisa #705,278,2016-12-05,Distopia,110.28,9,MG,1,Francês,7
+706,Memórias Póstumas #706,657,2016-12-06,Ficção Científica,105.52,9,RJ,6,Inglês,8
+707,A Revolução dos Bichos #707,494,2016-12-07,Distopia,140.56,1,MG,5,Português,7
+708,Orgulho e Preconceito #708,1179,2016-12-08,Fantasia,37.37,8,MG,6,Francês,4
+709,A Hora da Estrela #709,594,2016-12-09,Realismo Mágico,34.62,5,MG,0,Espanhol,6
+710,It - A Coisa #710,1086,2016-12-10,Distopia,33.7,1,ES,2,Espanhol,0
+711,O Alquimista #711,466,2016-12-11,Realismo Mágico,44.79,9,MG,9,Inglês,6
+712,A Hora da Estrela #712,248,2016-12-12,Ficção,40.85,4,MG,6,Inglês,8
+713,Harry Potter #713,226,2016-12-13,Fantasia,117.06,3,MG,0,Francês,2
+714,Ensaio Sobre a Cegueira #714,832,2016-12-14,Realismo Mágico,41.16,4,RJ,10,Inglês,3
+715,Grande Sertão: Veredas #715,703,2016-12-15,Terror,111.69,10,RJ,9,Inglês,3
+716,Dom Casmurro #716,631,2016-12-16,Fantasia,117.04,6,SP,10,Francês,6
+717,O Alquimista #717,257,2016-12-17,Terror,34.17,2,ES,6,Inglês,4
+718,O Alquimista #718,377,2016-12-18,Infantil,122.83,4,MG,4,Português,2
+719,Moby Dick #719,170,2016-12-19,Terror,142.9,5,MG,5,Espanhol,5
+720,O Código Da Vinci #720,490,2016-12-20,Romance,75.49,4,ES,7,Francês,5
+721,Ensaio Sobre a Cegueira #721,184,2016-12-21,Infantil,136.93,2,SP,8,Francês,4
+722,Capitães da Areia #722,528,2016-12-22,Fantasia,26.99,3,ES,9,Espanhol,1
+723,A Revolução dos Bichos #723,916,2016-12-23,Fantasia,44.84,4,MG,10,Francês,2
+724,Orgulho e Preconceito #724,858,2016-12-24,Realismo Mágico,68.32,8,MG,5,Inglês,0
+725,O Hobbit #725,103,2016-12-25,Ficção,46.42,2,SP,7,Espanhol,1
+726,Neuromancer #726,494,2016-12-26,Ficção Científica,28.45,7,ES,6,Inglês,3
+727,A Revolução dos Bichos #727,575,2016-12-27,Terror,146.68,5,ES,11,Espanhol,2
+728,Harry Potter #728,824,2016-12-28,Suspense,139.76,5,ES,9,Francês,8
+729,O Código Da Vinci #729,1184,2016-12-29,Ficção,71.6,2,MG,11,Espanhol,1
+730,Grande Sertão: Veredas #730,750,2016-12-30,Ficção,100.78,7,MG,2,Inglês,8
+731,1984 #731,591,2016-12-31,Distopia,113.69,3,ES,4,Inglês,5
+732,O Hobbit #732,1127,2017-01-01,Distopia,87.19,8,MG,1,Inglês,0
+733,Drácula #733,920,2017-01-02,Romance,136.93,2,MG,7,Espanhol,3
+734,Drácula #734,1064,2017-01-03,Suspense,46.91,8,MG,9,Português,5
+735,O Alquimista #735,820,2017-01-04,Ficção Científica,121.26,2,RJ,11,Inglês,8
+736,Dom Casmurro #736,1007,2017-01-05,Realismo Mágico,50.77,7,ES,0,Inglês,5
+737,Harry Potter #737,511,2017-01-06,Distopia,91.65,6,SP,5,Inglês,1
+738,1984 #738,233,2017-01-07,Distopia,58.05,2,RJ,10,Francês,3
+739,1984 #739,618,2017-01-08,Suspense,59.65,10,MG,10,Francês,8
+740,Drácula #740,720,2017-01-09,Realismo Mágico,98.4,6,RJ,5,Português,8
+741,O Pequeno Príncipe #741,893,2017-01-10,Ficção,91.81,8,ES,7,Francês,7
+742,Dom Casmurro #742,196,2017-01-11,Ficção,92.71,10,SP,5,Inglês,2
+743,1984 #743,602,2017-01-12,Infantil,21.77,1,MG,4,Inglês,4
+744,Harry Potter #744,402,2017-01-13,Romance,127.7,3,RJ,5,Inglês,4
+745,It - A Coisa #745,663,2017-01-14,Romance,118.66,6,RJ,7,Francês,0
+746,O Alquimista #746,763,2017-01-15,Fantasia,149.06,1,RJ,1,Francês,1
+747,Orgulho e Preconceito #747,442,2017-01-16,Romance,148.3,2,RJ,12,Espanhol,6
+748,O Alquimista #748,342,2017-01-17,Fantasia,22.12,3,RJ,0,Espanhol,4
+749,Harry Potter #749,864,2017-01-18,Realismo Mágico,99.46,5,MG,1,Inglês,6
+750,Harry Potter #750,1105,2017-01-19,Clássico,122.04,7,MG,8,Inglês,1
+751,O Alquimista #751,613,2017-01-20,Infantil,125.06,9,MG,1,Espanhol,1
+752,O Pequeno Príncipe #752,194,2017-01-21,Infantil,98.21,5,MG,9,Francês,7
+753,Grande Sertão: Veredas #753,978,2017-01-22,Fantasia,75.33,3,ES,4,Espanhol,4
+754,O Pequeno Príncipe #754,236,2017-01-23,Distopia,24.71,6,SP,5,Francês,8
+755,O Senhor dos Anéis #755,197,2017-01-24,Clássico,109.17,9,RJ,11,Inglês,3
+756,O Hobbit #756,595,2017-01-25,Distopia,127.29,7,ES,2,Português,5
+757,Moby Dick #757,80,2017-01-26,Distopia,64.62,8,ES,4,Espanhol,6
+758,A Revolução dos Bichos #758,837,2017-01-27,Clássico,132.96,8,MG,12,Espanhol,1
+759,Harry Potter #759,754,2017-01-28,Ficção Científica,86.36,4,MG,3,Português,1
+760,O Hobbit #760,834,2017-01-29,Romance,139.17,8,SP,5,Espanhol,1
+761,O Alquimista #761,183,2017-01-30,Suspense,83.43,1,MG,3,Francês,8
+762,O Pequeno Príncipe #762,765,2017-01-31,Ficção Científica,115.53,7,ES,11,Francês,0
+763,1984 #763,489,2017-02-01,Romance,96.46,1,SP,4,Espanhol,4
+764,O Pequeno Príncipe #764,758,2017-02-02,Infantil,71.99,5,ES,3,Inglês,0
+765,It - A Coisa #765,351,2017-02-03,Ficção Científica,120.82,10,MG,11,Inglês,1
+766,Capitães da Areia #766,370,2017-02-04,Clássico,53.53,7,ES,5,Espanhol,3
+767,Neuromancer #767,507,2017-02-05,Ficção,36.31,8,MG,1,Inglês,2
+768,Neuromancer #768,862,2017-02-06,Suspense,36.05,1,MG,3,Português,5
+769,Drácula #769,148,2017-02-07,Suspense,94.25,6,MG,12,Espanhol,6
+770,Harry Potter #770,259,2017-02-08,Suspense,76.71,8,RJ,8,Espanhol,6
+771,O Código Da Vinci #771,407,2017-02-09,Romance,109.88,6,SP,3,Português,4
+772,Capitães da Areia #772,634,2017-02-10,Distopia,31.72,7,ES,7,Português,5
+773,Neuromancer #773,141,2017-02-11,Romance,128.96,5,ES,7,Português,2
+774,Moby Dick #774,565,2017-02-12,Infantil,129.85,6,SP,11,Português,1
+775,O Pequeno Príncipe #775,739,2017-02-13,Realismo Mágico,21.37,5,MG,10,Espanhol,6
+776,Capitães da Areia #776,793,2017-02-14,Ficção,59.09,1,SP,2,Inglês,2
+777,Grande Sertão: Veredas #777,128,2017-02-15,Ficção,66.47,6,ES,11,Português,1
+778,O Código Da Vinci #778,1137,2017-02-16,Clássico,93.72,7,ES,8,Português,0
+779,A Revolução dos Bichos #779,501,2017-02-17,Distopia,48.17,2,RJ,5,Português,6
+780,Ensaio Sobre a Cegueira #780,1200,2017-02-18,Infantil,36.51,7,MG,0,Espanhol,4
+781,O Hobbit #781,792,2017-02-19,Fantasia,59.75,7,MG,12,Inglês,6
+782,A Revolução dos Bichos #782,1040,2017-02-20,Clássico,89.28,6,MG,6,Português,2
+783,Cem Anos de Solidão #783,800,2017-02-21,Infantil,46.8,7,ES,3,Português,7
+784,Dom Casmurro #784,609,2017-02-22,Distopia,103.98,1,RJ,4,Inglês,7
+785,Ensaio Sobre a Cegueira #785,630,2017-02-23,Realismo Mágico,41.3,4,RJ,4,Inglês,1
+786,A Hora da Estrela #786,353,2017-02-24,Infantil,21.17,1,MG,9,Espanhol,7
+787,1984 #787,388,2017-02-25,Distopia,24.29,4,SP,11,Inglês,1
+788,O Hobbit #788,972,2017-02-26,Fantasia,119.32,8,SP,12,Inglês,0
+789,Cem Anos de Solidão #789,641,2017-02-27,Realismo Mágico,73.79,10,ES,6,Inglês,4
+790,Dom Casmurro #790,559,2017-02-28,Ficção Científica,28.2,3,MG,6,Espanhol,7
+791,O Pequeno Príncipe #791,317,2017-03-01,Infantil,35.72,5,MG,5,Inglês,3
+792,A Revolução dos Bichos #792,120,2017-03-02,Romance,130.28,9,RJ,12,Inglês,8
+793,A Hora da Estrela #793,235,2017-03-03,Fantasia,99.36,3,MG,2,Inglês,2
+794,It - A Coisa #794,525,2017-03-04,Distopia,46.93,5,MG,1,Português,8
+795,Cem Anos de Solidão #795,531,2017-03-05,Terror,80.31,2,ES,10,Inglês,6
+796,A Revolução dos Bichos #796,985,2017-03-06,Fantasia,130.79,2,MG,4,Português,8
+797,Grande Sertão: Veredas #797,916,2017-03-07,Ficção,149.35,6,SP,10,Português,2
+798,Drácula #798,486,2017-03-08,Romance,82.93,9,MG,8,Português,8
+799,O Código Da Vinci #799,88,2017-03-09,Realismo Mágico,90.52,10,MG,10,Inglês,8
+800,Moby Dick #800,439,2017-03-10,Distopia,131.99,9,SP,2,Espanhol,6
+801,Cem Anos de Solidão #801,785,2017-03-11,Romance,57.13,4,SP,5,Português,7
+802,Dom Casmurro #802,557,2017-03-12,Realismo Mágico,123.81,4,RJ,2,Espanhol,4
+803,O Senhor dos Anéis #803,456,2017-03-13,Ficção Científica,66.81,4,SP,7,Espanhol,1
+804,O Alquimista #804,582,2017-03-14,Terror,139.06,2,ES,7,Espanhol,3
+805,Moby Dick #805,795,2017-03-15,Romance,138.7,2,SP,8,Espanhol,5
+806,It - A Coisa #806,387,2017-03-16,Ficção Científica,126.66,7,RJ,9,Espanhol,6
+807,Grande Sertão: Veredas #807,1094,2017-03-17,Clássico,38.08,7,ES,2,Inglês,0
+808,Harry Potter #808,1048,2017-03-18,Ficção Científica,76.18,1,RJ,8,Inglês,2
+809,Cem Anos de Solidão #809,340,2017-03-19,Romance,133.92,5,ES,5,Português,7
+810,Harry Potter #810,181,2017-03-20,Romance,108.02,4,MG,1,Inglês,2
+811,Harry Potter #811,199,2017-03-21,Clássico,110.2,6,MG,8,Inglês,4
+812,A Hora da Estrela #812,1179,2017-03-22,Terror,50.55,7,MG,2,Português,6
+813,A Hora da Estrela #813,1144,2017-03-23,Infantil,140.29,7,RJ,9,Inglês,7
+814,O Pequeno Príncipe #814,726,2017-03-24,Romance,92.58,9,MG,5,Português,0
+815,Cem Anos de Solidão #815,918,2017-03-25,Suspense,64.71,4,RJ,7,Espanhol,8
+816,O Hobbit #816,392,2017-03-26,Suspense,98.49,9,MG,8,Português,2
+817,Orgulho e Preconceito #817,803,2017-03-27,Ficção Científica,35.68,5,RJ,7,Português,2
+818,Cem Anos de Solidão #818,146,2017-03-28,Suspense,131.08,10,ES,2,Espanhol,3
+819,Ensaio Sobre a Cegueira #819,1007,2017-03-29,Romance,88.81,3,SP,4,Inglês,4
+820,A Hora da Estrela #820,766,2017-03-30,Realismo Mágico,76.99,4,SP,3,Português,0
+821,A Revolução dos Bichos #821,922,2017-03-31,Realismo Mágico,66.08,3,RJ,7,Espanhol,1
+822,A Revolução dos Bichos #822,300,2017-04-01,Fantasia,30.5,8,SP,9,Português,4
+823,Cem Anos de Solidão #823,463,2017-04-02,Fantasia,120.87,2,ES,6,Espanhol,1
+824,Drácula #824,604,2017-04-03,Fantasia,148.01,1,RJ,4,Francês,4
+825,Cem Anos de Solidão #825,824,2017-04-04,Infantil,137.59,4,RJ,4,Espanhol,1
+826,Memórias Póstumas #826,272,2017-04-05,Romance,76.94,3,SP,8,Português,5
+827,Ensaio Sobre a Cegueira #827,296,2017-04-06,Ficção Científica,126.88,5,SP,6,Francês,7
+828,Neuromancer #828,801,2017-04-07,Terror,117.46,6,MG,9,Espanhol,6
+829,1984 #829,588,2017-04-08,Clássico,136.57,10,MG,12,Inglês,0
+830,Harry Potter #830,531,2017-04-09,Distopia,109.06,4,SP,7,Espanhol,7
+831,A Hora da Estrela #831,672,2017-04-10,Romance,104.21,5,SP,3,Inglês,3
+832,Cem Anos de Solidão #832,1126,2017-04-11,Clássico,113.01,10,SP,0,Espanhol,6
+833,A Revolução dos Bichos #833,654,2017-04-12,Terror,133.92,10,ES,5,Inglês,5
+834,O Alquimista #834,533,2017-04-13,Romance,149.83,10,RJ,0,Espanhol,4
+835,It - A Coisa #835,720,2017-04-14,Suspense,54.2,2,MG,9,Português,6
+836,Capitães da Areia #836,358,2017-04-15,Ficção,120.71,1,SP,7,Espanhol,0
+837,Neuromancer #837,1012,2017-04-16,Ficção,45.89,2,SP,6,Espanhol,5
+838,O Código Da Vinci #838,344,2017-04-17,Suspense,103.97,10,ES,9,Português,6
+839,Moby Dick #839,274,2017-04-18,Ficção,52.76,5,SP,10,Francês,1
+840,Ensaio Sobre a Cegueira #840,458,2017-04-19,Infantil,58.22,1,RJ,12,Espanhol,2
+841,Dom Casmurro #841,232,2017-04-20,Clássico,87.04,6,MG,6,Espanhol,7
+842,Harry Potter #842,434,2017-04-21,Ficção,144.43,4,MG,11,Inglês,6
+843,Drácula #843,768,2017-04-22,Suspense,80.02,5,MG,6,Francês,2
+844,O Pequeno Príncipe #844,1071,2017-04-23,Infantil,41.08,9,MG,7,Espanhol,0
+845,O Código Da Vinci #845,936,2017-04-24,Clássico,35.54,8,RJ,5,Espanhol,3
+846,Drácula #846,407,2017-04-25,Fantasia,93.65,5,ES,2,Espanhol,1
+847,Orgulho e Preconceito #847,733,2017-04-26,Terror,95.28,7,MG,10,Português,0
+848,Moby Dick #848,533,2017-04-27,Ficção Científica,110.87,9,SP,4,Português,6
+849,Grande Sertão: Veredas #849,358,2017-04-28,Ficção Científica,137.41,3,RJ,10,Português,2
+850,1984 #850,764,2017-04-29,Terror,143.52,3,ES,6,Português,1
+851,Neuromancer #851,848,2017-04-30,Realismo Mágico,77.72,4,MG,2,Inglês,2
+852,Memórias Póstumas #852,999,2017-05-01,Realismo Mágico,63.3,1,RJ,12,Português,6
+853,1984 #853,1110,2017-05-02,Ficção,35.64,9,RJ,4,Português,7
+854,Capitães da Areia #854,888,2017-05-03,Suspense,121.19,4,MG,0,Português,0
+855,O Pequeno Príncipe #855,590,2017-05-04,Infantil,100.26,8,SP,12,Francês,1
+856,O Pequeno Príncipe #856,599,2017-05-05,Ficção,116.08,3,RJ,10,Espanhol,5
+857,Moby Dick #857,407,2017-05-06,Ficção,72.32,4,MG,8,Francês,1
+858,Moby Dick #858,131,2017-05-07,Romance,29.85,3,SP,6,Espanhol,1
+859,A Hora da Estrela #859,843,2017-05-08,Fantasia,38.28,2,MG,4,Português,0
+860,Cem Anos de Solidão #860,286,2017-05-09,Fantasia,37.41,5,SP,9,Francês,2
+861,O Código Da Vinci #861,349,2017-05-10,Terror,72.63,8,RJ,7,Espanhol,3
+862,A Hora da Estrela #862,331,2017-05-11,Ficção,140.24,9,RJ,5,Português,4
+863,Ensaio Sobre a Cegueira #863,222,2017-05-12,Suspense,129.31,5,MG,2,Espanhol,2
+864,Ensaio Sobre a Cegueira #864,621,2017-05-13,Distopia,21.93,6,SP,11,Inglês,1
+865,A Hora da Estrela #865,236,2017-05-14,Distopia,145.14,3,RJ,1,Francês,3
+866,Orgulho e Preconceito #866,1046,2017-05-15,Infantil,122.21,6,SP,0,Espanhol,6
+867,Neuromancer #867,456,2017-05-16,Realismo Mágico,34.89,4,RJ,2,Inglês,5
+868,O Código Da Vinci #868,1043,2017-05-17,Romance,120.58,4,RJ,10,Espanhol,3
+869,Capitães da Areia #869,440,2017-05-18,Suspense,40.15,8,RJ,5,Espanhol,3
+870,1984 #870,719,2017-05-19,Distopia,37.03,3,MG,12,Espanhol,6
+871,O Hobbit #871,433,2017-05-20,Romance,82.61,2,RJ,10,Português,3
+872,Neuromancer #872,852,2017-05-21,Realismo Mágico,141.31,4,RJ,9,Inglês,3
+873,Capitães da Areia #873,507,2017-05-22,Distopia,60.89,1,MG,7,Português,1
+874,O Hobbit #874,440,2017-05-23,Clássico,141.52,9,SP,1,Inglês,7
+875,A Hora da Estrela #875,614,2017-05-24,Realismo Mágico,104.2,8,ES,7,Inglês,4
+876,Harry Potter #876,863,2017-05-25,Terror,50.44,5,ES,11,Português,7
+877,Harry Potter #877,628,2017-05-26,Romance,88.77,2,RJ,9,Português,2
+878,It - A Coisa #878,602,2017-05-27,Realismo Mágico,46.28,9,MG,9,Espanhol,2
+879,It - A Coisa #879,479,2017-05-28,Romance,37.28,1,MG,10,Espanhol,8
+880,Orgulho e Preconceito #880,591,2017-05-29,Infantil,106.78,10,SP,7,Espanhol,2
+881,Ensaio Sobre a Cegueira #881,816,2017-05-30,Clássico,45.17,5,SP,0,Francês,0
+882,Ensaio Sobre a Cegueira #882,529,2017-05-31,Ficção,56.28,9,RJ,3,Português,8
+883,A Hora da Estrela #883,804,2017-06-01,Clássico,146.23,4,RJ,4,Português,7
+884,Capitães da Areia #884,948,2017-06-02,Terror,144.97,7,RJ,2,Francês,7
+885,Moby Dick #885,178,2017-06-03,Fantasia,61.86,7,MG,8,Francês,1
+886,A Hora da Estrela #886,853,2017-06-04,Ficção,21.62,3,RJ,9,Inglês,5
+887,Orgulho e Preconceito #887,643,2017-06-05,Distopia,38.04,5,ES,9,Espanhol,4
+888,Drácula #888,628,2017-06-06,Ficção Científica,62.75,5,ES,6,Inglês,7
+889,A Revolução dos Bichos #889,418,2017-06-07,Ficção Científica,144.28,9,SP,8,Português,0
+890,Neuromancer #890,1093,2017-06-08,Suspense,137.52,7,ES,6,Inglês,8
+891,Dom Casmurro #891,712,2017-06-09,Terror,80.71,1,RJ,5,Espanhol,2
+892,Drácula #892,1036,2017-06-10,Ficção,71.95,2,ES,10,Francês,2
+893,Grande Sertão: Veredas #893,1146,2017-06-11,Infantil,113.54,10,SP,1,Inglês,6
+894,Dom Casmurro #894,832,2017-06-12,Fantasia,45.11,1,ES,8,Espanhol,7
+895,Harry Potter #895,280,2017-06-13,Ficção,139.34,5,MG,12,Espanhol,5
+896,It - A Coisa #896,815,2017-06-14,Romance,42.42,2,MG,10,Português,8
+897,Ensaio Sobre a Cegueira #897,83,2017-06-15,Ficção,146.13,5,ES,1,Inglês,5
+898,Grande Sertão: Veredas #898,1061,2017-06-16,Ficção,67.46,8,ES,0,Espanhol,8
+899,A Hora da Estrela #899,784,2017-06-17,Fantasia,149.97,10,SP,10,Português,7
+900,O Código Da Vinci #900,250,2017-06-18,Suspense,117.95,5,MG,10,Francês,7
+901,Moby Dick #901,931,2017-06-19,Terror,79.86,9,SP,3,Português,8
+902,Capitães da Areia #902,473,2017-06-20,Fantasia,129.23,2,ES,2,Espanhol,0
+903,Cem Anos de Solidão #903,1178,2017-06-21,Ficção,82.03,10,ES,12,Português,1
+904,Capitães da Areia #904,1185,2017-06-22,Ficção Científica,138.86,9,MG,12,Inglês,6
+905,Drácula #905,986,2017-06-23,Suspense,134.26,8,SP,7,Francês,3
+906,O Código Da Vinci #906,315,2017-06-24,Terror,89.48,8,ES,6,Português,5
+907,Dom Casmurro #907,480,2017-06-25,Fantasia,140.02,1,ES,9,Inglês,5
+908,A Hora da Estrela #908,80,2017-06-26,Ficção,99.73,5,SP,2,Espanhol,6
+909,O Pequeno Príncipe #909,1028,2017-06-27,Terror,61.52,5,MG,1,Francês,8
+910,Capitães da Areia #910,340,2017-06-28,Realismo Mágico,78.94,4,RJ,2,Espanhol,5
+911,Orgulho e Preconceito #911,797,2017-06-29,Ficção,46.94,1,MG,8,Inglês,1
+912,O Alquimista #912,369,2017-06-30,Clássico,70.84,2,MG,7,Francês,5
+913,It - A Coisa #913,254,2017-07-01,Fantasia,137.75,10,RJ,12,Espanhol,5
+914,Moby Dick #914,699,2017-07-02,Clássico,127.61,9,MG,11,Francês,4
+915,It - A Coisa #915,912,2017-07-03,Romance,34.48,4,MG,10,Português,0
+916,Capitães da Areia #916,1081,2017-07-04,Fantasia,147.68,5,ES,10,Inglês,3
+917,A Hora da Estrela #917,327,2017-07-05,Terror,103.27,4,SP,3,Inglês,7
+918,Drácula #918,789,2017-07-06,Suspense,39.11,7,RJ,5,Português,4
+919,Neuromancer #919,142,2017-07-07,Ficção Científica,34.51,8,MG,1,Inglês,3
+920,O Senhor dos Anéis #920,385,2017-07-08,Terror,102.2,7,SP,8,Inglês,3
+921,O Pequeno Príncipe #921,115,2017-07-09,Romance,31.67,8,SP,0,Inglês,2
+922,Dom Casmurro #922,1127,2017-07-10,Suspense,108.05,7,MG,2,Francês,6
+923,O Alquimista #923,324,2017-07-11,Realismo Mágico,91.56,6,RJ,11,Francês,7
+924,O Senhor dos Anéis #924,487,2017-07-12,Romance,115.99,10,SP,1,Espanhol,8
+925,1984 #925,556,2017-07-13,Ficção Científica,72.01,9,RJ,7,Espanhol,3
+926,Ensaio Sobre a Cegueira #926,688,2017-07-14,Fantasia,65.91,4,RJ,6,Espanhol,7
+927,Grande Sertão: Veredas #927,787,2017-07-15,Infantil,149.28,1,SP,2,Francês,4
+928,A Revolução dos Bichos #928,224,2017-07-16,Clássico,35.12,8,RJ,2,Francês,3
+929,It - A Coisa #929,797,2017-07-17,Terror,45.15,5,MG,6,Português,3
+930,O Pequeno Príncipe #930,249,2017-07-18,Suspense,69.85,10,ES,10,Espanhol,3
+931,Moby Dick #931,772,2017-07-19,Ficção,55.29,10,SP,8,Espanhol,4
+932,O Senhor dos Anéis #932,766,2017-07-20,Romance,120.07,5,ES,7,Português,4
+933,It - A Coisa #933,808,2017-07-21,Distopia,138.33,9,RJ,8,Espanhol,7
+934,O Pequeno Príncipe #934,404,2017-07-22,Distopia,57.92,6,SP,0,Espanhol,7
+935,Grande Sertão: Veredas #935,1043,2017-07-23,Distopia,139.15,7,ES,9,Português,8
+936,O Alquimista #936,451,2017-07-24,Distopia,72.49,9,MG,7,Espanhol,3
+937,Drácula #937,981,2017-07-25,Terror,60.89,10,MG,9,Francês,7
+938,O Senhor dos Anéis #938,125,2017-07-26,Romance,42.85,10,MG,5,Inglês,8
+939,O Código Da Vinci #939,600,2017-07-27,Realismo Mágico,112.46,2,SP,2,Francês,8
+940,Moby Dick #940,1045,2017-07-28,Infantil,114.53,8,MG,3,Português,2
+941,Drácula #941,753,2017-07-29,Terror,77.84,10,RJ,2,Francês,8
+942,Moby Dick #942,529,2017-07-30,Distopia,136.76,4,ES,10,Espanhol,0
+943,Ensaio Sobre a Cegueira #943,600,2017-07-31,Infantil,141.87,8,ES,11,Espanhol,7
+944,Grande Sertão: Veredas #944,1131,2017-08-01,Ficção Científica,95.11,8,ES,4,Inglês,8
+945,Dom Casmurro #945,286,2017-08-02,Terror,81.46,4,SP,6,Inglês,7
+946,O Senhor dos Anéis #946,391,2017-08-03,Ficção,98.42,9,MG,8,Inglês,8
+947,Capitães da Areia #947,142,2017-08-04,Ficção,97.65,3,MG,0,Inglês,3
+948,Harry Potter #948,647,2017-08-05,Distopia,107.21,2,MG,11,Espanhol,8
+949,Cem Anos de Solidão #949,262,2017-08-06,Ficção,85.93,3,MG,6,Espanhol,6
+950,Dom Casmurro #950,907,2017-08-07,Ficção,118.44,7,RJ,10,Português,2
+951,Dom Casmurro #951,640,2017-08-08,Clássico,46.56,5,ES,4,Espanhol,3
+952,O Alquimista #952,311,2017-08-09,Ficção Científica,26.29,4,MG,11,Espanhol,0
+953,O Hobbit #953,1177,2017-08-10,Clássico,71.43,3,ES,1,Espanhol,6
+954,1984 #954,1002,2017-08-11,Romance,71.25,3,MG,8,Espanhol,6
+955,O Hobbit #955,655,2017-08-12,Ficção Científica,22.6,4,MG,1,Inglês,0
+956,A Revolução dos Bichos #956,1054,2017-08-13,Ficção,61.45,3,MG,3,Inglês,5
+957,Dom Casmurro #957,510,2017-08-14,Clássico,74.14,2,SP,8,Inglês,5
+958,A Revolução dos Bichos #958,962,2017-08-15,Clássico,96.49,8,RJ,12,Inglês,5
+959,Neuromancer #959,1048,2017-08-16,Romance,31.44,9,RJ,8,Português,8
+960,O Hobbit #960,974,2017-08-17,Suspense,69.79,6,RJ,5,Espanhol,1
+961,Grande Sertão: Veredas #961,802,2017-08-18,Terror,21.02,6,RJ,7,Inglês,0
+962,Neuromancer #962,106,2017-08-19,Fantasia,90.35,5,RJ,0,Francês,4
+963,Moby Dick #963,1008,2017-08-20,Terror,128.29,5,RJ,11,Espanhol,7
+964,Cem Anos de Solidão #964,262,2017-08-21,Ficção,67.31,8,SP,12,Inglês,5
+965,1984 #965,675,2017-08-22,Distopia,45.66,8,SP,4,Português,4
+966,Harry Potter #966,1011,2017-08-23,Romance,78.66,4,MG,3,Francês,2
+967,Orgulho e Preconceito #967,366,2017-08-24,Distopia,29.08,1,RJ,0,Espanhol,0
+968,1984 #968,637,2017-08-25,Clássico,32.73,1,MG,6,Francês,2
+969,O Hobbit #969,172,2017-08-26,Distopia,93.92,8,ES,11,Português,4
+970,Orgulho e Preconceito #970,916,2017-08-27,Infantil,83.66,8,MG,3,Inglês,8
+971,Harry Potter #971,984,2017-08-28,Realismo Mágico,98.54,9,RJ,11,Inglês,0
+972,A Revolução dos Bichos #972,979,2017-08-29,Ficção,130.3,1,MG,10,Espanhol,4
+973,Grande Sertão: Veredas #973,520,2017-08-30,Romance,23.34,5,SP,9,Português,7
+974,Grande Sertão: Veredas #974,885,2017-08-31,Fantasia,120.11,3,MG,4,Inglês,0
+975,Capitães da Areia #975,776,2017-09-01,Ficção,146.01,9,MG,9,Espanhol,4
+976,O Pequeno Príncipe #976,680,2017-09-02,Romance,72.66,9,RJ,1,Espanhol,3
+977,Grande Sertão: Veredas #977,928,2017-09-03,Infantil,117.86,10,ES,8,Francês,3
+978,It - A Coisa #978,541,2017-09-04,Terror,73.16,10,MG,10,Francês,1
+979,Grande Sertão: Veredas #979,673,2017-09-05,Infantil,22.41,9,SP,4,Inglês,7
+980,Cem Anos de Solidão #980,188,2017-09-06,Ficção Científica,147.26,5,SP,8,Francês,2
+981,Capitães da Areia #981,177,2017-09-07,Realismo Mágico,96.36,1,ES,10,Francês,4
+982,O Código Da Vinci #982,309,2017-09-08,Realismo Mágico,49.77,2,ES,6,Português,4
+983,O Alquimista #983,766,2017-09-09,Romance,115.97,9,MG,12,Francês,5
+984,A Hora da Estrela #984,595,2017-09-10,Suspense,108.95,1,RJ,0,Espanhol,0
+985,O Pequeno Príncipe #985,153,2017-09-11,Infantil,105.47,1,ES,6,Espanhol,0
+986,Capitães da Areia #986,293,2017-09-12,Realismo Mágico,112.86,8,MG,0,Português,2
+987,1984 #987,1061,2017-09-13,Romance,120.28,2,RJ,5,Inglês,4
+988,O Senhor dos Anéis #988,246,2017-09-14,Clássico,22.63,5,RJ,11,Português,3
+989,Dom Casmurro #989,991,2017-09-15,Infantil,80.43,3,MG,5,Espanhol,5
+990,Moby Dick #990,390,2017-09-16,Infantil,117.52,2,ES,8,Francês,7
+991,Neuromancer #991,1142,2017-09-17,Infantil,129.04,7,RJ,3,Português,7
+992,A Hora da Estrela #992,855,2017-09-18,Realismo Mágico,68.81,8,SP,4,Espanhol,4
+993,A Revolução dos Bichos #993,669,2017-09-19,Terror,57.1,9,MG,3,Inglês,7
+994,Dom Casmurro #994,167,2017-09-20,Romance,72.09,3,ES,6,Espanhol,5
+995,Ensaio Sobre a Cegueira #995,274,2017-09-21,Realismo Mágico,42.47,5,RJ,11,Espanhol,6
+996,Capitães da Areia #996,919,2017-09-22,Romance,100.74,4,SP,11,Espanhol,4
+997,Moby Dick #997,1050,2017-09-23,Infantil,42.8,3,RJ,12,Espanhol,6
+998,A Hora da Estrela #998,1068,2017-09-24,Suspense,77.66,2,RJ,3,Inglês,0
+999,Cem Anos de Solidão #999,559,2017-09-25,Ficção Científica,89.28,3,MG,8,Espanhol,0
+1000,Ensaio Sobre a Cegueira #1000,394,2017-09-26,Realismo Mágico,44.55,7,MG,5,Francês,5
+1001,A Hora da Estrela #1001,968,2017-09-27,Ficção Científica,143.93,7,RJ,4,Francês,5
+1002,Grande Sertão: Veredas #1002,170,2017-09-28,Romance,89.24,5,MG,11,Francês,6
+1003,O Hobbit #1003,331,2017-09-29,Clássico,23.58,8,SP,3,Inglês,5
+1004,O Senhor dos Anéis #1004,637,2017-09-30,Romance,91.13,6,MG,8,Francês,2
+1005,Dom Casmurro #1005,719,2017-10-01,Realismo Mágico,130.17,9,MG,4,Português,8
+1006,Capitães da Areia #1006,430,2017-10-02,Ficção,124.37,10,ES,0,Francês,7
+1007,A Hora da Estrela #1007,338,2017-10-03,Distopia,79.28,6,ES,2,Inglês,7
+1008,It - A Coisa #1008,461,2017-10-04,Ficção,104.97,8,ES,12,Português,8
+1009,Dom Casmurro #1009,437,2017-10-05,Distopia,129.1,4,SP,8,Espanhol,5
+1010,1984 #1010,187,2017-10-06,Romance,37.79,7,RJ,1,Espanhol,1
+1011,A Revolução dos Bichos #1011,358,2017-10-07,Distopia,108.98,3,RJ,6,Português,5
+1012,Neuromancer #1012,1104,2017-10-08,Realismo Mágico,74.29,2,RJ,1,Inglês,6
+1013,Ensaio Sobre a Cegueira #1013,986,2017-10-09,Romance,145.81,10,MG,8,Espanhol,7
+1014,Neuromancer #1014,1066,2017-10-10,Ficção Científica,104.65,7,RJ,12,Inglês,4
+1015,Capitães da Areia #1015,691,2017-10-11,Clássico,54.45,4,MG,7,Inglês,0
+1016,Cem Anos de Solidão #1016,393,2017-10-12,Clássico,99.21,7,SP,6,Português,8
+1017,A Hora da Estrela #1017,146,2017-10-13,Suspense,97.87,8,SP,0,Espanhol,1
+1018,It - A Coisa #1018,959,2017-10-14,Infantil,113.78,3,SP,10,Espanhol,2
+1019,O Código Da Vinci #1019,786,2017-10-15,Ficção Científica,89.14,5,ES,6,Francês,1
+1020,Orgulho e Preconceito #1020,262,2017-10-16,Clássico,78.77,1,MG,3,Português,8
+1021,A Hora da Estrela #1021,1177,2017-10-17,Ficção,92.94,6,ES,0,Inglês,0
+1022,Ensaio Sobre a Cegueira #1022,509,2017-10-18,Infantil,137.63,10,MG,10,Inglês,4
+1023,Harry Potter #1023,904,2017-10-19,Ficção,77.47,5,RJ,0,Português,7
+1024,Drácula #1024,290,2017-10-20,Fantasia,51.68,1,MG,3,Português,4
+1025,O Senhor dos Anéis #1025,762,2017-10-21,Clássico,28.28,4,RJ,1,Espanhol,1
+1026,Ensaio Sobre a Cegueira #1026,1192,2017-10-22,Realismo Mágico,148.11,4,MG,2,Português,4
+1027,Capitães da Areia #1027,372,2017-10-23,Infantil,76.57,7,MG,12,Espanhol,4
+1028,Memórias Póstumas #1028,318,2017-10-24,Realismo Mágico,93.31,2,RJ,11,Português,1
+1029,A Hora da Estrela #1029,193,2017-10-25,Clássico,79.06,4,MG,10,Espanhol,0
+1030,Neuromancer #1030,848,2017-10-26,Distopia,130.32,9,MG,8,Inglês,3
+1031,A Hora da Estrela #1031,487,2017-10-27,Ficção,129.19,5,MG,2,Português,0
+1032,O Pequeno Príncipe #1032,1120,2017-10-28,Clássico,58.38,3,ES,1,Espanhol,0
+1033,Capitães da Areia #1033,1070,2017-10-29,Terror,140.03,2,MG,12,Português,4
+1034,Capitães da Areia #1034,466,2017-10-30,Terror,149.18,8,ES,10,Inglês,4
+1035,O Alquimista #1035,1003,2017-10-31,Ficção,29.16,4,SP,5,Espanhol,0
+1036,O Pequeno Príncipe #1036,1162,2017-11-01,Clássico,130.94,9,SP,0,Inglês,0
+1037,1984 #1037,1084,2017-11-02,Ficção,102.64,2,SP,1,Espanhol,3
+1038,O Senhor dos Anéis #1038,1076,2017-11-03,Ficção Científica,118.48,7,RJ,4,Inglês,2
+1039,O Código Da Vinci #1039,1152,2017-11-04,Realismo Mágico,20.74,8,ES,5,Espanhol,4
+1040,O Código Da Vinci #1040,259,2017-11-05,Ficção Científica,97.37,10,MG,12,Francês,5
+1041,O Senhor dos Anéis #1041,251,2017-11-06,Fantasia,98.96,10,MG,10,Francês,2
+1042,It - A Coisa #1042,1003,2017-11-07,Ficção Científica,83.92,3,RJ,0,Português,4
+1043,O Alquimista #1043,1189,2017-11-08,Infantil,64.86,8,SP,11,Espanhol,3
+1044,Cem Anos de Solidão #1044,754,2017-11-09,Infantil,24.96,1,ES,12,Português,8
+1045,It - A Coisa #1045,894,2017-11-10,Romance,67.29,5,ES,1,Português,3
+1046,Cem Anos de Solidão #1046,747,2017-11-11,Ficção Científica,36.44,2,ES,11,Francês,6
+1047,O Hobbit #1047,270,2017-11-12,Clássico,124.11,7,RJ,1,Inglês,6
+1048,Dom Casmurro #1048,945,2017-11-13,Suspense,121.05,8,ES,2,Português,0
+1049,Cem Anos de Solidão #1049,1074,2017-11-14,Ficção Científica,91.72,2,MG,8,Português,0
+1050,O Pequeno Príncipe #1050,938,2017-11-15,Ficção,84.48,2,MG,11,Português,1
+1051,Orgulho e Preconceito #1051,391,2017-11-16,Distopia,32.56,1,RJ,5,Inglês,0
+1052,Memórias Póstumas #1052,106,2017-11-17,Terror,23.28,2,SP,10,Inglês,2
+1053,Neuromancer #1053,1164,2017-11-18,Distopia,87.81,3,SP,0,Espanhol,0
+1054,O Código Da Vinci #1054,1181,2017-11-19,Distopia,83.75,1,SP,9,Espanhol,0
+1055,O Pequeno Príncipe #1055,266,2017-11-20,Suspense,98.41,4,MG,5,Português,1
+1056,It - A Coisa #1056,789,2017-11-21,Ficção,79.66,3,MG,3,Francês,6
+1057,Dom Casmurro #1057,1080,2017-11-22,Fantasia,79.2,9,RJ,3,Espanhol,2
+1058,Orgulho e Preconceito #1058,355,2017-11-23,Ficção,42.02,6,MG,4,Francês,2
+1059,O Código Da Vinci #1059,446,2017-11-24,Clássico,114.87,6,ES,6,Português,6
+1060,Neuromancer #1060,205,2017-11-25,Distopia,102.58,10,ES,2,Espanhol,1
+1061,Harry Potter #1061,748,2017-11-26,Realismo Mágico,118.11,3,RJ,1,Espanhol,5
+1062,Dom Casmurro #1062,444,2017-11-27,Clássico,88.04,6,ES,2,Francês,2
+1063,Cem Anos de Solidão #1063,931,2017-11-28,Realismo Mágico,101.86,1,SP,2,Francês,2
+1064,1984 #1064,1194,2017-11-29,Realismo Mágico,57.7,6,ES,3,Espanhol,5
+1065,O Senhor dos Anéis #1065,990,2017-11-30,Ficção,38.39,4,MG,11,Inglês,5
+1066,Cem Anos de Solidão #1066,757,2017-12-01,Distopia,26.8,3,SP,6,Inglês,8
+1067,O Senhor dos Anéis #1067,1017,2017-12-02,Clássico,57.94,1,SP,7,Francês,7
+1068,O Pequeno Príncipe #1068,351,2017-12-03,Fantasia,91.29,9,ES,12,Português,6
+1069,A Hora da Estrela #1069,393,2017-12-04,Romance,144.85,9,SP,7,Inglês,2
+1070,Capitães da Areia #1070,486,2017-12-05,Romance,72.75,10,ES,1,Inglês,6
+1071,Memórias Póstumas #1071,382,2017-12-06,Clássico,111.91,5,RJ,7,Espanhol,0
+1072,Capitães da Areia #1072,521,2017-12-07,Realismo Mágico,84.69,10,SP,8,Francês,5
+1073,Ensaio Sobre a Cegueira #1073,1128,2017-12-08,Romance,48.96,8,MG,5,Inglês,0
+1074,1984 #1074,928,2017-12-09,Infantil,106.2,6,ES,1,Francês,6
+1075,Dom Casmurro #1075,821,2017-12-10,Realismo Mágico,117.94,2,SP,2,Espanhol,4
+1076,Dom Casmurro #1076,591,2017-12-11,Clássico,123.89,2,ES,9,Francês,3
+1077,A Revolução dos Bichos #1077,1049,2017-12-12,Terror,58.56,2,MG,6,Português,1
+1078,Dom Casmurro #1078,685,2017-12-13,Terror,74.19,1,ES,1,Inglês,6
+1079,Grande Sertão: Veredas #1079,651,2017-12-14,Clássico,109.23,3,ES,2,Espanhol,7
+1080,Drácula #1080,740,2017-12-15,Clássico,23.54,1,SP,9,Português,3
+1081,Cem Anos de Solidão #1081,356,2017-12-16,Ficção Científica,121.08,2,MG,5,Espanhol,4
+1082,O Alquimista #1082,422,2017-12-17,Ficção Científica,95.14,8,RJ,12,Espanhol,8
+1083,Moby Dick #1083,660,2017-12-18,Terror,20.74,8,ES,9,Francês,1
+1084,Grande Sertão: Veredas #1084,799,2017-12-19,Romance,71.68,5,MG,8,Francês,1
+1085,Neuromancer #1085,282,2017-12-20,Distopia,128.5,5,MG,10,Espanhol,0
+1086,Orgulho e Preconceito #1086,818,2017-12-21,Infantil,42.6,8,RJ,6,Espanhol,8
+1087,O Alquimista #1087,738,2017-12-22,Fantasia,43.93,5,MG,6,Português,0
+1088,O Senhor dos Anéis #1088,181,2017-12-23,Infantil,96.01,4,ES,11,Francês,1
+1089,O Hobbit #1089,362,2017-12-24,Ficção Científica,76.92,9,MG,3,Francês,1
+1090,A Revolução dos Bichos #1090,488,2017-12-25,Ficção Científica,146.53,1,ES,0,Português,0
+1091,Harry Potter #1091,782,2017-12-26,Romance,92.84,3,RJ,3,Português,5
+1092,Memórias Póstumas #1092,271,2017-12-27,Ficção Científica,56.51,4,SP,7,Francês,6
+1093,O Senhor dos Anéis #1093,614,2017-12-28,Romance,145.21,7,RJ,10,Português,4
+1094,1984 #1094,852,2017-12-29,Terror,135.28,7,MG,8,Português,2
+1095,Neuromancer #1095,968,2017-12-30,Clássico,120.1,4,MG,11,Espanhol,0
+1096,O Senhor dos Anéis #1096,585,2017-12-31,Realismo Mágico,122.34,10,MG,6,Português,4
+1097,Grande Sertão: Veredas #1097,342,2018-01-01,Infantil,112.62,7,MG,0,Português,0
+1098,O Código Da Vinci #1098,558,2018-01-02,Realismo Mágico,29.23,5,MG,3,Português,1
+1099,Neuromancer #1099,390,2018-01-03,Romance,142.4,3,ES,6,Francês,1
+1100,Harry Potter #1100,144,2018-01-04,Romance,67.54,6,SP,6,Francês,8
+1101,O Código Da Vinci #1101,1158,2018-01-05,Ficção,44.32,10,ES,7,Português,2
+1102,Ensaio Sobre a Cegueira #1102,1138,2018-01-06,Clássico,137.21,3,SP,0,Inglês,0
+1103,Capitães da Areia #1103,120,2018-01-07,Infantil,109.67,6,RJ,10,Francês,7
+1104,Cem Anos de Solidão #1104,614,2018-01-08,Ficção,136.95,5,RJ,3,Espanhol,3
+1105,Moby Dick #1105,716,2018-01-09,Ficção Científica,34.25,9,MG,11,Espanhol,8
+1106,O Alquimista #1106,194,2018-01-10,Clássico,126.5,7,MG,11,Inglês,7
+1107,Moby Dick #1107,646,2018-01-11,Clássico,52.85,10,ES,12,Francês,6
+1108,Drácula #1108,566,2018-01-12,Terror,30.9,10,RJ,5,Português,6
+1109,Orgulho e Preconceito #1109,297,2018-01-13,Clássico,64.07,2,MG,0,Inglês,1
+1110,Dom Casmurro #1110,1151,2018-01-14,Ficção,143.58,10,RJ,10,Inglês,4
+1111,A Revolução dos Bichos #1111,497,2018-01-15,Suspense,140.5,7,ES,9,Francês,7
+1112,O Senhor dos Anéis #1112,672,2018-01-16,Romance,96.38,7,SP,10,Francês,5
+1113,Dom Casmurro #1113,377,2018-01-17,Clássico,126.95,2,MG,11,Inglês,3
+1114,Ensaio Sobre a Cegueira #1114,1188,2018-01-18,Clássico,120.67,4,MG,7,Espanhol,1
+1115,O Hobbit #1115,148,2018-01-19,Romance,71.46,1,ES,8,Inglês,1
+1116,Capitães da Areia #1116,317,2018-01-20,Infantil,149.85,3,MG,3,Francês,1
+1117,Neuromancer #1117,855,2018-01-21,Ficção,126.4,4,SP,1,Espanhol,2
+1118,1984 #1118,345,2018-01-22,Suspense,149.13,1,SP,6,Português,1
+1119,Drácula #1119,683,2018-01-23,Suspense,25.67,7,RJ,0,Português,1
+1120,O Código Da Vinci #1120,173,2018-01-24,Ficção Científica,111.59,5,RJ,6,Espanhol,2
+1121,Memórias Póstumas #1121,622,2018-01-25,Suspense,126.79,4,MG,3,Espanhol,2
+1122,Moby Dick #1122,754,2018-01-26,Ficção Científica,121.58,8,MG,7,Português,8
+1123,Memórias Póstumas #1123,1162,2018-01-27,Clássico,98.93,3,SP,0,Francês,0
+1124,Grande Sertão: Veredas #1124,762,2018-01-28,Fantasia,39.78,3,MG,7,Português,6
+1125,Neuromancer #1125,792,2018-01-29,Distopia,125.16,9,ES,6,Português,2
+1126,A Revolução dos Bichos #1126,502,2018-01-30,Infantil,51.47,9,MG,10,Espanhol,4
+1127,Orgulho e Preconceito #1127,270,2018-01-31,Ficção Científica,38.63,4,MG,10,Inglês,0
+1128,A Revolução dos Bichos #1128,134,2018-02-01,Suspense,78.28,8,RJ,9,Inglês,3
+1129,O Código Da Vinci #1129,361,2018-02-02,Romance,84.01,1,MG,4,Inglês,4
+1130,Neuromancer #1130,875,2018-02-03,Fantasia,81.14,10,RJ,8,Inglês,5
+1131,Neuromancer #1131,180,2018-02-04,Ficção Científica,101.14,9,ES,11,Português,2
+1132,Harry Potter #1132,159,2018-02-05,Ficção,109.83,9,SP,10,Inglês,5
+1133,Cem Anos de Solidão #1133,613,2018-02-06,Suspense,56.59,10,RJ,6,Português,3
+1134,O Código Da Vinci #1134,166,2018-02-07,Terror,83.7,10,ES,12,Espanhol,1
+1135,Capitães da Areia #1135,615,2018-02-08,Terror,148.81,8,RJ,3,Português,1
+1136,Ensaio Sobre a Cegueira #1136,689,2018-02-09,Fantasia,135.06,9,ES,8,Inglês,4
+1137,Dom Casmurro #1137,822,2018-02-10,Infantil,112.2,6,MG,2,Inglês,0
+1138,Moby Dick #1138,1126,2018-02-11,Clássico,124.34,6,RJ,3,Inglês,6
+1139,Neuromancer #1139,231,2018-02-12,Fantasia,57.97,9,SP,2,Português,4
+1140,A Revolução dos Bichos #1140,338,2018-02-13,Infantil,53.01,9,ES,6,Francês,6
+1141,A Revolução dos Bichos #1141,689,2018-02-14,Terror,62.49,7,RJ,2,Francês,6
+1142,Moby Dick #1142,404,2018-02-15,Fantasia,141.53,2,SP,11,Francês,4
+1143,Grande Sertão: Veredas #1143,790,2018-02-16,Romance,92.51,1,ES,12,Português,0
+1144,O Hobbit #1144,797,2018-02-17,Infantil,143.89,7,ES,3,Português,3
+1145,O Pequeno Príncipe #1145,999,2018-02-18,Fantasia,138.15,5,MG,10,Francês,4
+1146,Dom Casmurro #1146,468,2018-02-19,Romance,132.92,2,ES,11,Francês,8
+1147,Cem Anos de Solidão #1147,433,2018-02-20,Realismo Mágico,64.68,2,ES,4,Inglês,5
+1148,O Senhor dos Anéis #1148,1019,2018-02-21,Distopia,65.64,6,SP,5,Inglês,2
+1149,O Hobbit #1149,876,2018-02-22,Romance,126.67,3,ES,5,Francês,0
+1150,Neuromancer #1150,254,2018-02-23,Ficção Científica,118.78,3,ES,1,Espanhol,0
+1151,O Senhor dos Anéis #1151,135,2018-02-24,Terror,125.55,8,MG,12,Inglês,0
+1152,Memórias Póstumas #1152,565,2018-02-25,Fantasia,136.73,1,ES,1,Inglês,0
+1153,It - A Coisa #1153,478,2018-02-26,Infantil,130.81,5,SP,4,Inglês,5
+1154,Neuromancer #1154,871,2018-02-27,Realismo Mágico,64.8,9,SP,2,Inglês,3
+1155,A Revolução dos Bichos #1155,107,2018-02-28,Romance,97.47,3,MG,11,Inglês,6
+1156,Capitães da Areia #1156,172,2018-03-01,Romance,77.92,8,RJ,4,Espanhol,3
+1157,A Hora da Estrela #1157,1185,2018-03-02,Distopia,148.04,6,ES,6,Inglês,3
+1158,O Hobbit #1158,1043,2018-03-03,Terror,49.86,6,SP,7,Francês,6
+1159,Harry Potter #1159,395,2018-03-04,Romance,137.12,2,ES,9,Francês,3
+1160,O Pequeno Príncipe #1160,832,2018-03-05,Distopia,31.52,8,MG,10,Francês,0
+1161,Grande Sertão: Veredas #1161,698,2018-03-06,Terror,70.58,2,RJ,6,Francês,4
+1162,O Alquimista #1162,1195,2018-03-07,Suspense,63.32,7,MG,2,Português,0
+1163,O Código Da Vinci #1163,186,2018-03-08,Clássico,76.86,2,ES,12,Francês,8
+1164,Harry Potter #1164,966,2018-03-09,Fantasia,138.67,2,MG,3,Espanhol,8
+1165,O Código Da Vinci #1165,229,2018-03-10,Infantil,138.0,3,SP,9,Inglês,3
+1166,Memórias Póstumas #1166,1017,2018-03-11,Clássico,123.22,9,SP,10,Francês,8
+1167,Memórias Póstumas #1167,1187,2018-03-12,Infantil,48.01,3,RJ,8,Francês,7
+1168,Moby Dick #1168,1164,2018-03-13,Terror,91.91,5,SP,0,Português,0
+1169,Memórias Póstumas #1169,387,2018-03-14,Clássico,59.09,7,MG,4,Espanhol,5
+1170,Harry Potter #1170,1056,2018-03-15,Fantasia,109.91,7,RJ,9,Francês,6
+1171,O Pequeno Príncipe #1171,800,2018-03-16,Realismo Mágico,72.22,9,ES,12,Inglês,1
+1172,Drácula #1172,307,2018-03-17,Fantasia,103.55,7,MG,12,Francês,7
+1173,Orgulho e Preconceito #1173,963,2018-03-18,Romance,46.21,4,ES,1,Espanhol,8
+1174,Cem Anos de Solidão #1174,162,2018-03-19,Distopia,132.31,10,ES,1,Português,4
+1175,O Senhor dos Anéis #1175,667,2018-03-20,Fantasia,135.63,2,MG,0,Espanhol,7
+1176,Drácula #1176,825,2018-03-21,Suspense,40.36,10,SP,10,Inglês,3
+1177,Grande Sertão: Veredas #1177,498,2018-03-22,Distopia,81.41,3,ES,3,Espanhol,4
+1178,O Hobbit #1178,284,2018-03-23,Ficção,136.43,9,ES,10,Português,6
+1179,O Código Da Vinci #1179,251,2018-03-24,Ficção Científica,22.39,2,RJ,11,Português,2
+1180,O Senhor dos Anéis #1180,1194,2018-03-25,Distopia,128.04,3,MG,1,Inglês,1
+1181,Dom Casmurro #1181,332,2018-03-26,Clássico,104.74,2,MG,5,Inglês,0
+1182,O Pequeno Príncipe #1182,723,2018-03-27,Terror,45.81,7,MG,3,Francês,2
+1183,Neuromancer #1183,1094,2018-03-28,Realismo Mágico,30.4,4,RJ,10,Inglês,1
+1184,Capitães da Areia #1184,116,2018-03-29,Clássico,115.98,10,ES,9,Inglês,3
+1185,Neuromancer #1185,175,2018-03-30,Terror,64.85,9,MG,9,Português,8
+1186,Moby Dick #1186,82,2018-03-31,Fantasia,57.4,6,ES,4,Espanhol,7
+1187,Capitães da Areia #1187,799,2018-04-01,Suspense,141.92,2,RJ,12,Português,7
+1188,Memórias Póstumas #1188,365,2018-04-02,Infantil,120.81,4,RJ,9,Francês,1
+1189,It - A Coisa #1189,1180,2018-04-03,Distopia,49.1,4,RJ,10,Português,3
+1190,O Senhor dos Anéis #1190,829,2018-04-04,Realismo Mágico,93.6,7,ES,4,Inglês,6
+1191,1984 #1191,336,2018-04-05,Infantil,79.58,7,ES,10,Inglês,3
+1192,Neuromancer #1192,1099,2018-04-06,Ficção Científica,140.26,9,MG,7,Francês,4
+1193,Ensaio Sobre a Cegueira #1193,254,2018-04-07,Fantasia,125.63,1,MG,0,Espanhol,3
+1194,Capitães da Areia #1194,311,2018-04-08,Ficção Científica,113.87,10,SP,0,Francês,3
+1195,O Código Da Vinci #1195,259,2018-04-09,Distopia,24.61,6,RJ,2,Português,2
+1196,Grande Sertão: Veredas #1196,295,2018-04-10,Terror,122.0,10,MG,6,Francês,2
+1197,O Alquimista #1197,203,2018-04-11,Romance,49.9,10,RJ,0,Francês,7
+1198,O Código Da Vinci #1198,344,2018-04-12,Distopia,75.65,8,ES,12,Espanhol,7
+1199,1984 #1199,919,2018-04-13,Fantasia,108.86,4,SP,9,Inglês,3
+1200,Harry Potter #1200,833,2018-04-14,Romance,146.97,10,SP,4,Português,0
+1201,Harry Potter #1201,1159,2018-04-15,Suspense,119.58,4,RJ,8,Português,5
+1202,Capitães da Areia #1202,220,2018-04-16,Ficção Científica,35.42,6,RJ,1,Espanhol,6
+1203,Neuromancer #1203,280,2018-04-17,Fantasia,51.13,3,ES,12,Inglês,4
+1204,O Hobbit #1204,473,2018-04-18,Clássico,84.64,8,RJ,1,Português,1
+1205,O Código Da Vinci #1205,842,2018-04-19,Realismo Mágico,51.95,7,ES,9,Espanhol,1
+1206,Cem Anos de Solidão #1206,918,2018-04-20,Clássico,105.13,5,RJ,0,Espanhol,7
+1207,It - A Coisa #1207,354,2018-04-21,Ficção,53.35,5,MG,0,Espanhol,0
+1208,O Hobbit #1208,1165,2018-04-22,Clássico,139.18,9,ES,8,Espanhol,5
+1209,Dom Casmurro #1209,995,2018-04-23,Clássico,52.06,9,RJ,4,Espanhol,8
+1210,Neuromancer #1210,1003,2018-04-24,Terror,70.25,7,SP,2,Francês,4
+1211,O Alquimista #1211,904,2018-04-25,Romance,51.63,2,MG,10,Espanhol,8
+1212,A Revolução dos Bichos #1212,95,2018-04-26,Fantasia,125.2,3,SP,7,Inglês,2
+1213,A Revolução dos Bichos #1213,901,2018-04-27,Infantil,96.49,10,SP,0,Inglês,7
+1214,Grande Sertão: Veredas #1214,953,2018-04-28,Ficção,44.9,6,RJ,12,Inglês,4
+1215,A Hora da Estrela #1215,340,2018-04-29,Terror,39.49,6,RJ,1,Espanhol,3
+1216,A Revolução dos Bichos #1216,1093,2018-04-30,Realismo Mágico,128.33,8,RJ,3,Espanhol,3
+1217,O Senhor dos Anéis #1217,294,2018-05-01,Clássico,96.27,7,RJ,9,Espanhol,8
+1218,Ensaio Sobre a Cegueira #1218,595,2018-05-02,Infantil,97.14,8,ES,5,Espanhol,3
+1219,A Revolução dos Bichos #1219,470,2018-05-03,Ficção Científica,114.54,9,SP,10,Português,8
+1220,Harry Potter #1220,621,2018-05-04,Terror,108.81,3,MG,9,Francês,1
+1221,Neuromancer #1221,195,2018-05-05,Fantasia,65.98,2,ES,6,Francês,5
+1222,Cem Anos de Solidão #1222,1101,2018-05-06,Suspense,72.17,2,RJ,9,Espanhol,1
+1223,O Alquimista #1223,529,2018-05-07,Realismo Mágico,149.11,1,ES,8,Português,8
+1224,Ensaio Sobre a Cegueira #1224,657,2018-05-08,Ficção,99.39,7,MG,3,Inglês,2
+1225,O Hobbit #1225,164,2018-05-09,Romance,90.38,1,MG,10,Inglês,4
+1226,Dom Casmurro #1226,1052,2018-05-10,Terror,82.46,8,SP,11,Inglês,7
+1227,O Código Da Vinci #1227,603,2018-05-11,Clássico,88.43,4,SP,1,Francês,7
+1228,Harry Potter #1228,959,2018-05-12,Realismo Mágico,137.86,9,MG,8,Português,2
+1229,1984 #1229,895,2018-05-13,Clássico,70.88,3,RJ,9,Francês,5
+1230,Neuromancer #1230,675,2018-05-14,Suspense,44.62,9,RJ,6,Inglês,3
+1231,O Senhor dos Anéis #1231,442,2018-05-15,Infantil,55.9,4,MG,7,Francês,5
+1232,Orgulho e Preconceito #1232,1197,2018-05-16,Fantasia,100.37,8,RJ,2,Inglês,4
+1233,Capitães da Areia #1233,377,2018-05-17,Distopia,46.44,2,ES,3,Inglês,8
+1234,It - A Coisa #1234,383,2018-05-18,Distopia,146.85,2,MG,1,Inglês,1
+1235,O Código Da Vinci #1235,603,2018-05-19,Clássico,39.83,1,SP,3,Inglês,8
+1236,Orgulho e Preconceito #1236,676,2018-05-20,Distopia,132.07,8,MG,10,Inglês,8
+1237,O Alquimista #1237,881,2018-05-21,Romance,100.96,6,ES,7,Português,1
+1238,O Pequeno Príncipe #1238,509,2018-05-22,Suspense,28.0,3,SP,0,Português,4
+1239,Grande Sertão: Veredas #1239,1185,2018-05-23,Fantasia,68.39,5,SP,6,Espanhol,7
+1240,1984 #1240,1133,2018-05-24,Fantasia,48.27,10,SP,6,Espanhol,6
+1241,A Hora da Estrela #1241,85,2018-05-25,Infantil,90.81,10,RJ,7,Francês,3
+1242,Dom Casmurro #1242,908,2018-05-26,Suspense,115.29,10,ES,6,Espanhol,2
+1243,O Código Da Vinci #1243,550,2018-05-27,Romance,49.57,5,SP,5,Espanhol,3
+1244,Orgulho e Preconceito #1244,278,2018-05-28,Distopia,36.45,6,MG,6,Inglês,2
+1245,Ensaio Sobre a Cegueira #1245,311,2018-05-29,Realismo Mágico,99.66,5,ES,11,Português,8
+1246,O Hobbit #1246,834,2018-05-30,Realismo Mágico,20.87,9,RJ,9,Espanhol,1
+1247,Neuromancer #1247,86,2018-05-31,Suspense,110.42,5,ES,6,Inglês,1
+1248,Drácula #1248,820,2018-06-01,Romance,140.06,9,SP,6,Português,1
+1249,1984 #1249,247,2018-06-02,Fantasia,58.16,5,MG,11,Espanhol,7
+1250,O Código Da Vinci #1250,477,2018-06-03,Suspense,63.02,9,SP,1,Português,3
+1251,O Alquimista #1251,506,2018-06-04,Suspense,89.42,2,MG,2,Português,1
+1252,Cem Anos de Solidão #1252,331,2018-06-05,Romance,77.22,2,RJ,10,Espanhol,7
+1253,O Pequeno Príncipe #1253,154,2018-06-06,Ficção,31.6,3,ES,5,Francês,3
+1254,It - A Coisa #1254,1112,2018-06-07,Romance,26.54,8,RJ,2,Português,1
+1255,1984 #1255,630,2018-06-08,Distopia,141.03,3,SP,10,Francês,5
+1256,Dom Casmurro #1256,602,2018-06-09,Suspense,130.6,2,ES,4,Inglês,1
+1257,Harry Potter #1257,872,2018-06-10,Ficção Científica,115.8,6,RJ,10,Espanhol,2
+1258,A Hora da Estrela #1258,396,2018-06-11,Clássico,26.95,4,ES,11,Francês,2
+1259,O Pequeno Príncipe #1259,206,2018-06-12,Ficção,86.0,2,MG,5,Espanhol,1
+1260,O Hobbit #1260,169,2018-06-13,Infantil,57.1,7,SP,6,Inglês,3
+1261,A Revolução dos Bichos #1261,1128,2018-06-14,Terror,124.92,1,SP,10,Francês,4
+1262,O Alquimista #1262,1165,2018-06-15,Ficção Científica,37.25,5,MG,0,Espanhol,6
+1263,It - A Coisa #1263,85,2018-06-16,Clássico,79.78,7,MG,4,Português,3
+1264,Grande Sertão: Veredas #1264,931,2018-06-17,Ficção Científica,84.27,3,SP,0,Inglês,5
+1265,A Revolução dos Bichos #1265,1126,2018-06-18,Ficção,97.24,9,MG,5,Espanhol,2
+1266,Drácula #1266,1187,2018-06-19,Suspense,32.44,5,MG,7,Espanhol,6
+1267,It - A Coisa #1267,781,2018-06-20,Romance,68.43,6,SP,9,Francês,4
+1268,Ensaio Sobre a Cegueira #1268,245,2018-06-21,Romance,57.48,1,SP,3,Português,2
+1269,Harry Potter #1269,195,2018-06-22,Fantasia,94.99,3,ES,1,Espanhol,8
+1270,Dom Casmurro #1270,883,2018-06-23,Distopia,21.99,8,SP,6,Inglês,6
+1271,O Hobbit #1271,407,2018-06-24,Infantil,108.9,4,RJ,7,Espanhol,1
+1272,Neuromancer #1272,669,2018-06-25,Terror,120.38,6,ES,11,Francês,7
+1273,Ensaio Sobre a Cegueira #1273,286,2018-06-26,Distopia,94.44,3,RJ,1,Francês,2
+1274,Moby Dick #1274,712,2018-06-27,Realismo Mágico,36.85,1,RJ,4,Português,1
+1275,Ensaio Sobre a Cegueira #1275,312,2018-06-28,Ficção,102.64,3,MG,11,Espanhol,8
+1276,Harry Potter #1276,918,2018-06-29,Distopia,136.85,9,SP,6,Inglês,1
+1277,Ensaio Sobre a Cegueira #1277,125,2018-06-30,Fantasia,117.54,2,RJ,3,Espanhol,7
+1278,O Hobbit #1278,827,2018-07-01,Fantasia,22.91,9,ES,7,Espanhol,7
+1279,A Revolução dos Bichos #1279,390,2018-07-02,Ficção,47.38,10,ES,6,Português,2
+1280,Ensaio Sobre a Cegueira #1280,970,2018-07-03,Infantil,69.24,3,RJ,7,Português,0
+1281,O Pequeno Príncipe #1281,940,2018-07-04,Fantasia,103.75,6,ES,0,Espanhol,0
+1282,It - A Coisa #1282,980,2018-07-05,Ficção,114.26,4,SP,5,Francês,5
+1283,Drácula #1283,145,2018-07-06,Distopia,106.54,8,MG,6,Inglês,3
+1284,Drácula #1284,234,2018-07-07,Romance,21.64,1,ES,3,Português,7
+1285,1984 #1285,500,2018-07-08,Realismo Mágico,28.6,6,MG,7,Francês,4
+1286,O Pequeno Príncipe #1286,966,2018-07-09,Romance,140.32,3,SP,2,Espanhol,3
+1287,Dom Casmurro #1287,913,2018-07-10,Clássico,44.79,8,RJ,3,Português,4
+1288,A Revolução dos Bichos #1288,632,2018-07-11,Infantil,131.09,4,RJ,3,Português,8
+1289,Cem Anos de Solidão #1289,947,2018-07-12,Clássico,26.82,5,SP,6,Português,6
+1290,Orgulho e Preconceito #1290,649,2018-07-13,Romance,70.36,3,RJ,10,Francês,6
+1291,Ensaio Sobre a Cegueira #1291,544,2018-07-14,Terror,82.22,3,MG,1,Português,7
+1292,Drácula #1292,732,2018-07-15,Clássico,108.09,10,RJ,9,Espanhol,6
+1293,O Pequeno Príncipe #1293,479,2018-07-16,Realismo Mágico,114.84,9,MG,12,Espanhol,6
+1294,Capitães da Areia #1294,997,2018-07-17,Ficção,95.96,8,RJ,2,Espanhol,7
+1295,A Revolução dos Bichos #1295,225,2018-07-18,Realismo Mágico,144.43,3,SP,4,Francês,4
+1296,Cem Anos de Solidão #1296,113,2018-07-19,Ficção,82.83,1,RJ,9,Francês,8
+1297,Harry Potter #1297,1026,2018-07-20,Distopia,90.57,5,SP,7,Francês,1
+1298,O Senhor dos Anéis #1298,743,2018-07-21,Distopia,97.69,5,RJ,4,Francês,6
+1299,Cem Anos de Solidão #1299,975,2018-07-22,Terror,142.36,9,RJ,11,Espanhol,5
+1300,Dom Casmurro #1300,528,2018-07-23,Clássico,111.34,8,ES,12,Francês,5
+1301,O Hobbit #1301,371,2018-07-24,Suspense,21.87,4,RJ,8,Espanhol,6
+1302,Capitães da Areia #1302,656,2018-07-25,Infantil,102.86,5,SP,3,Inglês,7
+1303,Ensaio Sobre a Cegueira #1303,1048,2018-07-26,Suspense,98.82,1,ES,2,Português,5
+1304,Ensaio Sobre a Cegueira #1304,1167,2018-07-27,Ficção,96.88,5,MG,2,Francês,8
+1305,Capitães da Areia #1305,150,2018-07-28,Realismo Mágico,101.66,4,RJ,9,Francês,8
+1306,O Hobbit #1306,828,2018-07-29,Fantasia,122.92,4,ES,8,Francês,7
+1307,Ensaio Sobre a Cegueira #1307,321,2018-07-30,Infantil,74.19,4,RJ,5,Francês,4
+1308,Ensaio Sobre a Cegueira #1308,114,2018-07-31,Distopia,94.43,3,RJ,10,Francês,1
+1309,Orgulho e Preconceito #1309,448,2018-08-01,Fantasia,84.38,6,MG,7,Inglês,1
+1310,Moby Dick #1310,934,2018-08-02,Infantil,121.82,4,RJ,8,Francês,3
+1311,1984 #1311,89,2018-08-03,Distopia,39.37,1,MG,10,Português,2
+1312,Cem Anos de Solidão #1312,655,2018-08-04,Ficção Científica,55.47,4,RJ,12,Francês,3
+1313,O Pequeno Príncipe #1313,1072,2018-08-05,Romance,143.22,9,SP,10,Francês,1
+1314,Neuromancer #1314,117,2018-08-06,Ficção Científica,68.14,2,SP,5,Espanhol,3
+1315,Grande Sertão: Veredas #1315,792,2018-08-07,Ficção,76.06,1,RJ,12,Francês,4
+1316,It - A Coisa #1316,603,2018-08-08,Ficção Científica,147.38,6,ES,8,Espanhol,6
+1317,O Senhor dos Anéis #1317,928,2018-08-09,Distopia,95.27,7,ES,9,Português,3
+1318,1984 #1318,556,2018-08-10,Fantasia,134.4,4,RJ,11,Português,6
+1319,Harry Potter #1319,1181,2018-08-11,Ficção,64.74,8,RJ,11,Espanhol,0
+1320,O Hobbit #1320,1194,2018-08-12,Fantasia,58.95,6,SP,4,Português,8
+1321,Dom Casmurro #1321,710,2018-08-13,Fantasia,28.06,4,MG,12,Espanhol,1
+1322,Grande Sertão: Veredas #1322,1029,2018-08-14,Ficção,83.17,2,MG,9,Português,3
+1323,Memórias Póstumas #1323,748,2018-08-15,Romance,118.62,9,SP,2,Português,5
+1324,O Senhor dos Anéis #1324,535,2018-08-16,Ficção Científica,22.06,10,MG,0,Português,4
+1325,Capitães da Areia #1325,774,2018-08-17,Ficção Científica,83.19,3,MG,8,Português,2
+1326,Capitães da Areia #1326,297,2018-08-18,Ficção,52.27,8,SP,11,Espanhol,8
+1327,Grande Sertão: Veredas #1327,740,2018-08-19,Infantil,54.25,2,MG,6,Francês,4
+1328,Ensaio Sobre a Cegueira #1328,905,2018-08-20,Ficção,71.82,7,MG,3,Português,2
+1329,1984 #1329,860,2018-08-21,Clássico,75.03,8,SP,7,Espanhol,7
+1330,A Hora da Estrela #1330,872,2018-08-22,Romance,84.97,8,RJ,4,Espanhol,0
+1331,Capitães da Areia #1331,232,2018-08-23,Fantasia,84.45,4,SP,1,Francês,4
+1332,Cem Anos de Solidão #1332,744,2018-08-24,Ficção,119.06,1,RJ,8,Inglês,3
+1333,1984 #1333,758,2018-08-25,Realismo Mágico,65.01,9,RJ,9,Português,4
+1334,Dom Casmurro #1334,138,2018-08-26,Ficção Científica,29.34,1,RJ,2,Inglês,0
+1335,Capitães da Areia #1335,1022,2018-08-27,Fantasia,47.44,1,ES,6,Português,3
+1336,O Senhor dos Anéis #1336,215,2018-08-28,Infantil,36.92,9,RJ,6,Português,5
+1337,Capitães da Areia #1337,640,2018-08-29,Clássico,93.83,8,MG,6,Inglês,8
+1338,A Revolução dos Bichos #1338,813,2018-08-30,Romance,44.58,10,SP,0,Inglês,8
+1339,Cem Anos de Solidão #1339,330,2018-08-31,Infantil,139.03,3,SP,2,Francês,1
+1340,Grande Sertão: Veredas #1340,645,2018-09-01,Fantasia,37.64,5,MG,11,Francês,0
+1341,Drácula #1341,530,2018-09-02,Suspense,141.07,6,ES,5,Espanhol,2
+1342,Moby Dick #1342,1031,2018-09-03,Ficção Científica,100.35,8,SP,8,Português,6
+1343,O Alquimista #1343,877,2018-09-04,Ficção Científica,48.7,4,SP,8,Espanhol,2
+1344,Harry Potter #1344,1166,2018-09-05,Ficção,20.82,3,ES,1,Inglês,6
+1345,Ensaio Sobre a Cegueira #1345,679,2018-09-06,Romance,131.03,2,RJ,3,Francês,4
+1346,Dom Casmurro #1346,537,2018-09-07,Fantasia,97.67,8,MG,12,Francês,1
+1347,A Hora da Estrela #1347,652,2018-09-08,Realismo Mágico,65.78,9,SP,10,Inglês,6
+1348,Orgulho e Preconceito #1348,375,2018-09-09,Distopia,65.14,3,MG,0,Português,1
+1349,Memórias Póstumas #1349,905,2018-09-10,Infantil,139.42,5,SP,11,Inglês,4
+1350,Moby Dick #1350,103,2018-09-11,Distopia,130.12,9,ES,10,Português,1
+1351,A Revolução dos Bichos #1351,1056,2018-09-12,Fantasia,24.99,8,ES,11,Espanhol,5
+1352,Ensaio Sobre a Cegueira #1352,183,2018-09-13,Clássico,78.69,6,RJ,6,Inglês,0
+1353,Moby Dick #1353,1124,2018-09-14,Ficção,110.85,6,SP,1,Inglês,7
+1354,Harry Potter #1354,442,2018-09-15,Ficção,28.05,2,ES,10,Espanhol,6
+1355,Orgulho e Preconceito #1355,473,2018-09-16,Distopia,78.48,9,ES,1,Francês,5
+1356,O Hobbit #1356,466,2018-09-17,Suspense,96.38,2,RJ,9,Espanhol,7
+1357,1984 #1357,214,2018-09-18,Romance,62.68,5,ES,7,Francês,7
+1358,O Hobbit #1358,1130,2018-09-19,Fantasia,72.74,4,MG,8,Português,3
+1359,Dom Casmurro #1359,166,2018-09-20,Ficção Científica,148.63,10,MG,8,Francês,1
+1360,O Senhor dos Anéis #1360,1136,2018-09-21,Infantil,91.44,3,RJ,4,Inglês,7
+1361,A Hora da Estrela #1361,763,2018-09-22,Infantil,99.41,3,ES,12,Francês,0
+1362,Moby Dick #1362,788,2018-09-23,Fantasia,145.04,4,RJ,2,Francês,4
+1363,Cem Anos de Solidão #1363,242,2018-09-24,Distopia,59.62,10,RJ,12,Espanhol,1
+1364,Orgulho e Preconceito #1364,595,2018-09-25,Suspense,88.55,5,ES,11,Espanhol,6
+1365,O Código Da Vinci #1365,939,2018-09-26,Distopia,83.14,1,RJ,10,Espanhol,4
+1366,Grande Sertão: Veredas #1366,754,2018-09-27,Clássico,48.69,2,RJ,3,Inglês,5
+1367,Grande Sertão: Veredas #1367,936,2018-09-28,Romance,21.47,2,MG,8,Espanhol,0
+1368,Cem Anos de Solidão #1368,1179,2018-09-29,Romance,130.55,6,ES,8,Inglês,0
+1369,O Pequeno Príncipe #1369,551,2018-09-30,Realismo Mágico,37.24,1,MG,4,Francês,2
+1370,Capitães da Areia #1370,1056,2018-10-01,Romance,60.84,5,MG,2,Português,5
+1371,Grande Sertão: Veredas #1371,693,2018-10-02,Fantasia,142.23,7,MG,6,Francês,5
+1372,O Código Da Vinci #1372,144,2018-10-03,Infantil,92.17,5,RJ,8,Espanhol,6
+1373,O Hobbit #1373,880,2018-10-04,Realismo Mágico,138.75,6,RJ,3,Inglês,7
+1374,Cem Anos de Solidão #1374,381,2018-10-05,Ficção,26.1,1,ES,1,Português,5
+1375,Orgulho e Preconceito #1375,1022,2018-10-06,Distopia,136.03,9,ES,11,Inglês,1
+1376,Neuromancer #1376,1016,2018-10-07,Terror,121.56,2,RJ,8,Inglês,0
+1377,O Pequeno Príncipe #1377,607,2018-10-08,Distopia,86.36,6,RJ,5,Inglês,4
+1378,O Hobbit #1378,109,2018-10-09,Realismo Mágico,46.02,4,RJ,11,Inglês,6
+1379,Grande Sertão: Veredas #1379,1012,2018-10-10,Terror,93.4,8,SP,4,Espanhol,8
+1380,O Senhor dos Anéis #1380,624,2018-10-11,Clássico,42.78,4,SP,0,Inglês,4
+1381,O Hobbit #1381,542,2018-10-12,Ficção,124.59,1,RJ,11,Espanhol,1
+1382,O Hobbit #1382,870,2018-10-13,Suspense,73.98,10,MG,12,Inglês,2
+1383,1984 #1383,585,2018-10-14,Ficção Científica,52.26,7,SP,6,Francês,8
+1384,O Alquimista #1384,537,2018-10-15,Ficção,57.42,5,MG,10,Francês,7
+1385,A Hora da Estrela #1385,1116,2018-10-16,Fantasia,87.82,10,ES,8,Inglês,6
+1386,Capitães da Areia #1386,1032,2018-10-17,Fantasia,130.38,2,ES,5,Inglês,0
+1387,O Código Da Vinci #1387,1197,2018-10-18,Clássico,120.86,8,ES,5,Francês,4
+1388,O Alquimista #1388,736,2018-10-19,Distopia,145.65,10,MG,8,Espanhol,3
+1389,A Revolução dos Bichos #1389,551,2018-10-20,Clássico,145.38,4,SP,0,Português,5
+1390,O Código Da Vinci #1390,541,2018-10-21,Ficção Científica,86.56,10,ES,11,Espanhol,8
+1391,Moby Dick #1391,88,2018-10-22,Ficção Científica,96.2,3,MG,10,Português,1
+1392,Orgulho e Preconceito #1392,429,2018-10-23,Ficção Científica,82.0,9,ES,10,Inglês,8
+1393,1984 #1393,799,2018-10-24,Romance,92.74,8,RJ,2,Inglês,4
+1394,Memórias Póstumas #1394,144,2018-10-25,Ficção,63.09,7,MG,5,Português,5
+1395,O Senhor dos Anéis #1395,941,2018-10-26,Ficção,63.77,6,MG,11,Francês,6
+1396,Ensaio Sobre a Cegueira #1396,712,2018-10-27,Infantil,70.22,7,RJ,3,Inglês,2
+1397,Neuromancer #1397,327,2018-10-28,Romance,84.47,6,RJ,8,Francês,6
+1398,A Hora da Estrela #1398,912,2018-10-29,Ficção,76.31,2,RJ,10,Inglês,0
+1399,Harry Potter #1399,199,2018-10-30,Ficção Científica,83.07,3,ES,0,Francês,5
+1400,Dom Casmurro #1400,394,2018-10-31,Distopia,55.59,3,RJ,9,Espanhol,0
+1401,O Pequeno Príncipe #1401,711,2018-11-01,Suspense,149.64,9,ES,3,Português,0
+1402,Harry Potter #1402,616,2018-11-02,Distopia,106.69,4,SP,10,Espanhol,3
+1403,Memórias Póstumas #1403,944,2018-11-03,Infantil,75.23,9,RJ,11,Francês,2
+1404,Capitães da Areia #1404,933,2018-11-04,Ficção Científica,83.84,5,SP,2,Francês,3
+1405,Drácula #1405,434,2018-11-05,Ficção,73.76,10,SP,0,Inglês,5
+1406,O Pequeno Príncipe #1406,531,2018-11-06,Infantil,146.81,5,SP,8,Francês,4
+1407,Dom Casmurro #1407,1038,2018-11-07,Ficção Científica,28.0,1,ES,7,Inglês,8
+1408,1984 #1408,1127,2018-11-08,Clássico,47.24,5,MG,11,Português,6
+1409,Capitães da Areia #1409,1085,2018-11-09,Suspense,77.25,6,MG,8,Espanhol,0
+1410,It - A Coisa #1410,1088,2018-11-10,Ficção,99.92,7,RJ,5,Francês,6
+1411,Memórias Póstumas #1411,229,2018-11-11,Ficção Científica,56.32,3,RJ,3,Francês,7
+1412,Capitães da Areia #1412,310,2018-11-12,Distopia,52.8,5,ES,11,Português,0
+1413,O Código Da Vinci #1413,794,2018-11-13,Ficção Científica,62.58,10,SP,5,Português,5
+1414,Capitães da Areia #1414,548,2018-11-14,Realismo Mágico,133.8,1,ES,9,Português,4
+1415,O Alquimista #1415,1099,2018-11-15,Fantasia,67.66,4,ES,3,Português,3
+1416,O Pequeno Príncipe #1416,996,2018-11-16,Fantasia,128.52,2,ES,9,Espanhol,8
+1417,O Código Da Vinci #1417,692,2018-11-17,Distopia,45.06,1,ES,9,Francês,8
+1418,O Código Da Vinci #1418,1033,2018-11-18,Infantil,79.62,3,ES,3,Inglês,4
+1419,O Hobbit #1419,463,2018-11-19,Realismo Mágico,44.18,9,MG,7,Inglês,7
+1420,1984 #1420,552,2018-11-20,Realismo Mágico,88.86,3,MG,7,Espanhol,2
+1421,A Revolução dos Bichos #1421,807,2018-11-21,Infantil,40.52,1,MG,4,Francês,7
+1422,It - A Coisa #1422,467,2018-11-22,Infantil,80.39,10,ES,6,Espanhol,5
+1423,O Alquimista #1423,619,2018-11-23,Suspense,32.49,8,ES,10,Espanhol,0
+1424,1984 #1424,1174,2018-11-24,Infantil,144.26,4,SP,0,Espanhol,8
+1425,Dom Casmurro #1425,851,2018-11-25,Suspense,36.85,10,MG,5,Espanhol,2
+1426,Memórias Póstumas #1426,377,2018-11-26,Infantil,103.93,6,SP,8,Português,3
+1427,1984 #1427,367,2018-11-27,Suspense,145.25,8,SP,7,Francês,2
+1428,O Alquimista #1428,844,2018-11-28,Suspense,48.99,10,RJ,9,Inglês,0
+1429,Orgulho e Preconceito #1429,1008,2018-11-29,Distopia,86.92,6,MG,4,Espanhol,1
+1430,Grande Sertão: Veredas #1430,821,2018-11-30,Fantasia,79.44,7,ES,8,Francês,2
+1431,Memórias Póstumas #1431,673,2018-12-01,Distopia,145.38,7,ES,4,Francês,5
+1432,Grande Sertão: Veredas #1432,1037,2018-12-02,Infantil,115.96,10,MG,0,Francês,8
+1433,O Senhor dos Anéis #1433,1086,2018-12-03,Fantasia,57.53,8,SP,12,Francês,8
+1434,A Revolução dos Bichos #1434,161,2018-12-04,Romance,78.25,10,SP,4,Francês,7
+1435,Capitães da Areia #1435,302,2018-12-05,Suspense,26.5,1,ES,7,Inglês,6
+1436,Capitães da Areia #1436,388,2018-12-06,Ficção,107.77,8,SP,11,Espanhol,1
+1437,It - A Coisa #1437,274,2018-12-07,Romance,106.1,1,MG,2,Português,8
+1438,It - A Coisa #1438,382,2018-12-08,Ficção Científica,93.43,8,RJ,6,Francês,7
+1439,Dom Casmurro #1439,541,2018-12-09,Suspense,35.94,2,ES,7,Espanhol,2
+1440,Grande Sertão: Veredas #1440,468,2018-12-10,Fantasia,113.93,7,SP,12,Português,3
+1441,Ensaio Sobre a Cegueira #1441,920,2018-12-11,Distopia,55.17,3,MG,6,Espanhol,5
+1442,Harry Potter #1442,442,2018-12-12,Clássico,131.19,4,RJ,7,Inglês,1
+1443,Dom Casmurro #1443,809,2018-12-13,Ficção Científica,117.59,10,ES,7,Francês,0
+1444,O Senhor dos Anéis #1444,1200,2018-12-14,Infantil,109.16,5,RJ,11,Inglês,6
+1445,Cem Anos de Solidão #1445,1017,2018-12-15,Infantil,142.08,6,MG,2,Português,5
+1446,1984 #1446,1015,2018-12-16,Clássico,139.17,2,SP,0,Português,8
+1447,O Código Da Vinci #1447,471,2018-12-17,Ficção,102.54,4,ES,11,Francês,0
+1448,O Código Da Vinci #1448,709,2018-12-18,Terror,87.29,5,RJ,0,Português,0
+1449,Neuromancer #1449,416,2018-12-19,Terror,58.13,8,RJ,0,Espanhol,1
+1450,A Revolução dos Bichos #1450,909,2018-12-20,Romance,46.14,9,SP,11,Francês,3
+1451,Orgulho e Preconceito #1451,188,2018-12-21,Fantasia,83.1,5,MG,12,Inglês,3
+1452,O Senhor dos Anéis #1452,738,2018-12-22,Ficção Científica,143.24,5,ES,6,Francês,6
+1453,Capitães da Areia #1453,1143,2018-12-23,Clássico,139.75,3,ES,7,Francês,6
+1454,O Pequeno Príncipe #1454,358,2018-12-24,Ficção Científica,111.44,3,MG,12,Espanhol,2
+1455,Cem Anos de Solidão #1455,202,2018-12-25,Suspense,27.32,5,SP,4,Inglês,5
+1456,O Hobbit #1456,233,2018-12-26,Ficção,119.77,2,ES,3,Espanhol,6
+1457,Orgulho e Preconceito #1457,965,2018-12-27,Clássico,84.62,3,RJ,11,Inglês,2
+1458,O Código Da Vinci #1458,123,2018-12-28,Distopia,73.67,4,SP,11,Inglês,1
+1459,O Alquimista #1459,1165,2018-12-29,Suspense,80.03,8,MG,0,Inglês,7
+1460,O Alquimista #1460,1162,2018-12-30,Fantasia,117.94,5,SP,11,Inglês,6
+1461,A Hora da Estrela #1461,186,2018-12-31,Suspense,142.85,3,SP,5,Espanhol,2
+1462,O Hobbit #1462,1019,2019-01-01,Clássico,138.48,5,RJ,11,Português,8
+1463,Cem Anos de Solidão #1463,158,2019-01-02,Ficção,123.57,6,RJ,10,Português,0
+1464,Drácula #1464,1175,2019-01-03,Romance,88.73,2,ES,6,Francês,4
+1465,Grande Sertão: Veredas #1465,419,2019-01-04,Clássico,147.26,5,RJ,11,Espanhol,7
+1466,Capitães da Areia #1466,589,2019-01-05,Ficção,66.21,6,RJ,3,Francês,0
+1467,O Código Da Vinci #1467,126,2019-01-06,Ficção Científica,88.72,5,RJ,5,Francês,3
+1468,1984 #1468,1052,2019-01-07,Infantil,65.81,1,RJ,5,Inglês,2
+1469,Moby Dick #1469,1072,2019-01-08,Terror,134.8,5,RJ,6,Inglês,8
+1470,Cem Anos de Solidão #1470,516,2019-01-09,Terror,68.09,8,SP,6,Francês,1
+1471,O Senhor dos Anéis #1471,254,2019-01-10,Fantasia,43.05,5,ES,9,Inglês,5
+1472,O Código Da Vinci #1472,1133,2019-01-11,Clássico,22.5,3,SP,4,Espanhol,2
+1473,Cem Anos de Solidão #1473,219,2019-01-12,Infantil,48.8,3,ES,7,Português,5
+1474,Memórias Póstumas #1474,706,2019-01-13,Terror,25.17,7,SP,8,Espanhol,4
+1475,Memórias Póstumas #1475,836,2019-01-14,Distopia,112.55,6,RJ,4,Português,8
+1476,Harry Potter #1476,103,2019-01-15,Clássico,92.12,7,RJ,10,Espanhol,5
+1477,1984 #1477,777,2019-01-16,Distopia,75.13,4,MG,5,Português,1
+1478,Orgulho e Preconceito #1478,272,2019-01-17,Distopia,131.38,1,SP,4,Inglês,2
+1479,Ensaio Sobre a Cegueira #1479,178,2019-01-18,Suspense,29.98,5,SP,6,Português,4
+1480,Cem Anos de Solidão #1480,713,2019-01-19,Realismo Mágico,142.29,6,ES,10,Português,2
+1481,Neuromancer #1481,295,2019-01-20,Distopia,24.19,8,SP,0,Espanhol,0
+1482,A Revolução dos Bichos #1482,439,2019-01-21,Ficção,28.87,8,MG,4,Inglês,0
+1483,O Hobbit #1483,1092,2019-01-22,Distopia,51.53,2,ES,4,Francês,1
+1484,It - A Coisa #1484,762,2019-01-23,Suspense,146.67,10,SP,11,Português,4
+1485,Dom Casmurro #1485,1048,2019-01-24,Ficção,45.15,10,RJ,5,Português,1
+1486,O Pequeno Príncipe #1486,203,2019-01-25,Clássico,21.64,9,SP,9,Francês,7
+1487,A Hora da Estrela #1487,859,2019-01-26,Ficção,87.16,1,MG,2,Francês,4
+1488,Ensaio Sobre a Cegueira #1488,357,2019-01-27,Fantasia,106.93,4,ES,6,Inglês,1
+1489,O Código Da Vinci #1489,666,2019-01-28,Terror,89.45,10,ES,6,Francês,4
+1490,Ensaio Sobre a Cegueira #1490,425,2019-01-29,Infantil,51.94,2,RJ,10,Francês,1
+1491,O Senhor dos Anéis #1491,1053,2019-01-30,Fantasia,109.41,3,MG,1,Português,8
+1492,It - A Coisa #1492,112,2019-01-31,Terror,74.92,7,SP,3,Inglês,4
+1493,O Hobbit #1493,1132,2019-02-01,Terror,49.03,7,MG,8,Português,0
+1494,A Revolução dos Bichos #1494,471,2019-02-02,Clássico,126.37,8,MG,3,Espanhol,0
+1495,O Senhor dos Anéis #1495,436,2019-02-03,Clássico,142.79,7,RJ,6,Espanhol,4
+1496,Cem Anos de Solidão #1496,230,2019-02-04,Romance,65.11,8,RJ,10,Português,1
+1497,Ensaio Sobre a Cegueira #1497,1056,2019-02-05,Ficção,44.94,6,MG,3,Inglês,2
+1498,A Revolução dos Bichos #1498,781,2019-02-06,Ficção,80.25,10,RJ,6,Português,8
+1499,O Código Da Vinci #1499,1106,2019-02-07,Fantasia,37.38,7,MG,4,Inglês,5
+1500,O Pequeno Príncipe #1500,411,2019-02-08,Clássico,129.35,5,MG,2,Inglês,7
+1501,Neuromancer #1501,279,2019-02-09,Ficção,77.44,7,RJ,8,Inglês,7
+1502,O Alquimista #1502,850,2019-02-10,Suspense,51.48,10,ES,6,Francês,8
+1503,1984 #1503,990,2019-02-11,Romance,84.97,2,SP,0,Português,1
+1504,Dom Casmurro #1504,1183,2019-02-12,Ficção Científica,106.13,2,ES,3,Inglês,6
+1505,Memórias Póstumas #1505,546,2019-02-13,Ficção,138.35,6,ES,7,Espanhol,1
+1506,O Senhor dos Anéis #1506,348,2019-02-14,Romance,112.65,7,ES,12,Português,0
+1507,Cem Anos de Solidão #1507,1077,2019-02-15,Distopia,135.93,9,ES,3,Espanhol,6
+1508,It - A Coisa #1508,952,2019-02-16,Ficção Científica,144.17,4,ES,2,Inglês,3
+1509,1984 #1509,1022,2019-02-17,Romance,104.63,4,MG,4,Espanhol,0
+1510,O Senhor dos Anéis #1510,1157,2019-02-18,Fantasia,69.09,9,SP,5,Espanhol,6
+1511,A Revolução dos Bichos #1511,536,2019-02-19,Clássico,62.06,1,SP,2,Português,6
+1512,Grande Sertão: Veredas #1512,266,2019-02-20,Distopia,48.96,10,RJ,1,Francês,5
+1513,O Senhor dos Anéis #1513,956,2019-02-21,Clássico,106.61,8,RJ,5,Francês,5
+1514,Drácula #1514,561,2019-02-22,Realismo Mágico,63.25,9,ES,12,Português,5
+1515,O Pequeno Príncipe #1515,221,2019-02-23,Ficção Científica,134.52,7,ES,7,Português,3
+1516,Grande Sertão: Veredas #1516,378,2019-02-24,Romance,120.51,4,SP,7,Espanhol,3
+1517,Memórias Póstumas #1517,417,2019-02-25,Romance,103.39,1,MG,3,Francês,0
+1518,O Hobbit #1518,274,2019-02-26,Fantasia,134.1,4,RJ,5,Português,2
+1519,Moby Dick #1519,230,2019-02-27,Ficção Científica,98.99,7,ES,6,Português,5
+1520,Capitães da Areia #1520,140,2019-02-28,Clássico,108.29,6,ES,0,Português,1
+1521,Neuromancer #1521,653,2019-03-01,Romance,133.71,4,MG,4,Espanhol,5
+1522,Grande Sertão: Veredas #1522,849,2019-03-02,Realismo Mágico,116.51,6,MG,2,Português,0
+1523,O Código Da Vinci #1523,647,2019-03-03,Ficção,143.15,7,MG,4,Espanhol,3
+1524,Ensaio Sobre a Cegueira #1524,397,2019-03-04,Romance,67.04,4,MG,12,Francês,6
+1525,It - A Coisa #1525,541,2019-03-05,Fantasia,37.55,6,SP,8,Espanhol,3
+1526,Capitães da Areia #1526,866,2019-03-06,Clássico,111.18,2,MG,10,Francês,2
+1527,It - A Coisa #1527,380,2019-03-07,Romance,99.21,5,SP,10,Francês,8
+1528,O Alquimista #1528,773,2019-03-08,Clássico,113.76,3,RJ,6,Espanhol,3
+1529,It - A Coisa #1529,587,2019-03-09,Romance,36.53,6,MG,0,Português,3
+1530,O Hobbit #1530,813,2019-03-10,Distopia,128.78,3,ES,4,Francês,6
+1531,Cem Anos de Solidão #1531,515,2019-03-11,Clássico,121.68,6,ES,10,Espanhol,8
+1532,Ensaio Sobre a Cegueira #1532,417,2019-03-12,Distopia,20.78,8,SP,3,Espanhol,1
+1533,Ensaio Sobre a Cegueira #1533,237,2019-03-13,Infantil,128.44,8,SP,7,Francês,0
+1534,O Código Da Vinci #1534,650,2019-03-14,Ficção Científica,95.39,1,ES,10,Inglês,3
+1535,O Hobbit #1535,308,2019-03-15,Fantasia,81.25,3,RJ,12,Espanhol,3
+1536,Capitães da Areia #1536,256,2019-03-16,Terror,64.87,8,SP,1,Inglês,7
+1537,Memórias Póstumas #1537,996,2019-03-17,Ficção Científica,146.91,6,RJ,2,Português,8
+1538,Grande Sertão: Veredas #1538,374,2019-03-18,Realismo Mágico,106.74,7,RJ,7,Português,2
+1539,Orgulho e Preconceito #1539,1113,2019-03-19,Ficção Científica,97.13,7,RJ,5,Português,1
+1540,Drácula #1540,132,2019-03-20,Terror,51.74,7,RJ,7,Português,4
+1541,Harry Potter #1541,1052,2019-03-21,Clássico,27.68,6,ES,11,Espanhol,6
+1542,Drácula #1542,154,2019-03-22,Infantil,73.08,8,SP,6,Espanhol,1
+1543,Grande Sertão: Veredas #1543,83,2019-03-23,Ficção Científica,88.91,5,SP,12,Português,8
+1544,1984 #1544,737,2019-03-24,Romance,146.26,10,RJ,2,Inglês,0
+1545,A Hora da Estrela #1545,550,2019-03-25,Fantasia,87.53,10,MG,6,Português,4
+1546,A Revolução dos Bichos #1546,453,2019-03-26,Romance,117.16,1,MG,8,Português,0
+1547,Memórias Póstumas #1547,1166,2019-03-27,Fantasia,121.29,6,SP,11,Português,5
+1548,Memórias Póstumas #1548,950,2019-03-28,Ficção,107.35,4,ES,5,Português,2
+1549,Memórias Póstumas #1549,695,2019-03-29,Ficção Científica,23.22,10,SP,3,Espanhol,6
+1550,Drácula #1550,902,2019-03-30,Clássico,145.7,8,RJ,11,Inglês,8
+1551,Dom Casmurro #1551,647,2019-03-31,Fantasia,31.18,7,SP,6,Francês,4
+1552,O Código Da Vinci #1552,91,2019-04-01,Romance,29.66,5,ES,4,Português,5
+1553,A Hora da Estrela #1553,541,2019-04-02,Infantil,146.88,4,SP,2,Espanhol,4
+1554,Grande Sertão: Veredas #1554,145,2019-04-03,Infantil,116.51,3,ES,0,Francês,2
+1555,O Pequeno Príncipe #1555,764,2019-04-04,Suspense,147.46,7,RJ,4,Português,7
+1556,Ensaio Sobre a Cegueira #1556,804,2019-04-05,Ficção Científica,59.25,3,MG,9,Espanhol,7
+1557,Cem Anos de Solidão #1557,418,2019-04-06,Realismo Mágico,113.34,1,RJ,6,Inglês,0
+1558,Grande Sertão: Veredas #1558,946,2019-04-07,Fantasia,88.7,1,MG,5,Espanhol,0
+1559,O Pequeno Príncipe #1559,360,2019-04-08,Realismo Mágico,139.9,8,SP,9,Espanhol,4
+1560,O Senhor dos Anéis #1560,1026,2019-04-09,Ficção,41.55,4,RJ,7,Espanhol,1
+1561,Drácula #1561,901,2019-04-10,Terror,40.1,3,SP,4,Espanhol,3
+1562,Orgulho e Preconceito #1562,517,2019-04-11,Infantil,114.1,1,SP,9,Francês,4
+1563,Ensaio Sobre a Cegueira #1563,903,2019-04-12,Realismo Mágico,142.28,9,SP,0,Inglês,6
+1564,Orgulho e Preconceito #1564,1068,2019-04-13,Infantil,36.93,1,RJ,12,Francês,4
+1565,Dom Casmurro #1565,893,2019-04-14,Clássico,122.53,7,RJ,5,Inglês,1
+1566,It - A Coisa #1566,1198,2019-04-15,Infantil,41.18,10,RJ,7,Francês,5
+1567,Cem Anos de Solidão #1567,92,2019-04-16,Clássico,54.12,3,RJ,6,Inglês,6
+1568,A Hora da Estrela #1568,307,2019-04-17,Clássico,88.08,3,MG,8,Francês,7
+1569,Grande Sertão: Veredas #1569,1041,2019-04-18,Realismo Mágico,112.18,9,ES,6,Espanhol,1
+1570,Memórias Póstumas #1570,138,2019-04-19,Infantil,134.67,1,SP,2,Português,0
+1571,Ensaio Sobre a Cegueira #1571,804,2019-04-20,Clássico,47.5,7,SP,12,Português,6
+1572,1984 #1572,1029,2019-04-21,Terror,148.68,8,SP,1,Espanhol,3
+1573,Memórias Póstumas #1573,748,2019-04-22,Ficção,82.63,8,SP,11,Francês,5
+1574,Cem Anos de Solidão #1574,1078,2019-04-23,Realismo Mágico,44.72,5,ES,1,Português,4
+1575,Ensaio Sobre a Cegueira #1575,720,2019-04-24,Fantasia,41.78,4,SP,11,Francês,6
+1576,Harry Potter #1576,132,2019-04-25,Clássico,107.59,2,MG,5,Francês,4
+1577,1984 #1577,622,2019-04-26,Realismo Mágico,92.89,5,MG,6,Espanhol,4
+1578,Moby Dick #1578,926,2019-04-27,Clássico,81.73,7,SP,9,Espanhol,1
+1579,Memórias Póstumas #1579,378,2019-04-28,Realismo Mágico,22.06,2,MG,9,Inglês,4
+1580,Ensaio Sobre a Cegueira #1580,866,2019-04-29,Distopia,101.0,7,MG,5,Espanhol,6
+1581,Memórias Póstumas #1581,788,2019-04-30,Romance,25.01,6,SP,10,Espanhol,4
+1582,O Pequeno Príncipe #1582,506,2019-05-01,Terror,67.16,9,ES,9,Inglês,0
+1583,O Alquimista #1583,207,2019-05-02,Clássico,52.54,2,RJ,5,Francês,7
+1584,O Hobbit #1584,835,2019-05-03,Infantil,140.48,2,RJ,8,Espanhol,8
+1585,Dom Casmurro #1585,435,2019-05-04,Suspense,77.74,2,ES,9,Português,0
+1586,O Alquimista #1586,331,2019-05-05,Clássico,54.01,9,ES,1,Português,6
+1587,A Revolução dos Bichos #1587,971,2019-05-06,Ficção Científica,142.93,2,ES,3,Espanhol,1
+1588,O Senhor dos Anéis #1588,332,2019-05-07,Fantasia,126.55,6,SP,1,Inglês,8
+1589,Drácula #1589,593,2019-05-08,Terror,26.52,8,SP,2,Português,5
+1590,O Código Da Vinci #1590,391,2019-05-09,Terror,41.93,7,ES,10,Inglês,8
+1591,O Hobbit #1591,840,2019-05-10,Ficção,57.2,7,RJ,10,Inglês,8
+1592,Harry Potter #1592,1184,2019-05-11,Realismo Mágico,46.92,5,ES,7,Inglês,0
+1593,Dom Casmurro #1593,494,2019-05-12,Terror,130.55,1,ES,3,Inglês,6
+1594,Capitães da Areia #1594,893,2019-05-13,Clássico,88.17,7,RJ,7,Inglês,4
+1595,Orgulho e Preconceito #1595,452,2019-05-14,Romance,107.28,7,RJ,11,Português,6
+1596,A Revolução dos Bichos #1596,721,2019-05-15,Ficção,78.9,8,MG,2,Espanhol,4
+1597,Memórias Póstumas #1597,237,2019-05-16,Suspense,44.16,2,RJ,6,Inglês,1
+1598,Moby Dick #1598,765,2019-05-17,Terror,41.77,10,RJ,2,Francês,1
+1599,Cem Anos de Solidão #1599,339,2019-05-18,Suspense,109.64,2,ES,2,Espanhol,1
+1600,Neuromancer #1600,228,2019-05-19,Distopia,45.09,3,RJ,2,Espanhol,1
+1601,A Revolução dos Bichos #1601,263,2019-05-20,Infantil,120.07,7,MG,6,Inglês,1
+1602,Ensaio Sobre a Cegueira #1602,558,2019-05-21,Terror,86.45,2,RJ,1,Espanhol,0
+1603,Dom Casmurro #1603,753,2019-05-22,Realismo Mágico,68.95,7,SP,0,Português,2
+1604,A Hora da Estrela #1604,898,2019-05-23,Ficção Científica,129.26,6,MG,5,Francês,7
+1605,O Código Da Vinci #1605,118,2019-05-24,Suspense,103.94,2,RJ,12,Inglês,6
+1606,Capitães da Areia #1606,1063,2019-05-25,Terror,121.64,8,RJ,10,Francês,5
+1607,Moby Dick #1607,406,2019-05-26,Fantasia,24.96,3,ES,1,Espanhol,5
+1608,O Pequeno Príncipe #1608,690,2019-05-27,Terror,82.1,6,ES,4,Francês,5
+1609,Neuromancer #1609,839,2019-05-28,Clássico,123.26,1,ES,5,Inglês,0
+1610,1984 #1610,252,2019-05-29,Terror,50.68,8,ES,6,Inglês,1
+1611,O Alquimista #1611,787,2019-05-30,Romance,82.89,1,MG,1,Francês,1
+1612,Ensaio Sobre a Cegueira #1612,209,2019-05-31,Fantasia,63.65,4,ES,0,Francês,0
+1613,O Código Da Vinci #1613,1197,2019-06-01,Terror,56.34,3,RJ,4,Francês,5
+1614,Grande Sertão: Veredas #1614,196,2019-06-02,Ficção Científica,40.16,8,SP,7,Inglês,6
+1615,Capitães da Areia #1615,857,2019-06-03,Clássico,28.13,1,RJ,6,Francês,8
+1616,Grande Sertão: Veredas #1616,407,2019-06-04,Distopia,142.92,3,RJ,8,Inglês,0
+1617,1984 #1617,342,2019-06-05,Infantil,56.21,6,SP,12,Inglês,8
+1618,Grande Sertão: Veredas #1618,198,2019-06-06,Ficção Científica,114.29,7,MG,11,Espanhol,0
+1619,O Código Da Vinci #1619,464,2019-06-07,Infantil,138.55,6,MG,7,Inglês,3
+1620,1984 #1620,855,2019-06-08,Suspense,103.08,5,MG,10,Inglês,3
+1621,O Senhor dos Anéis #1621,482,2019-06-09,Realismo Mágico,111.1,7,ES,2,Inglês,4
+1622,Orgulho e Preconceito #1622,405,2019-06-10,Romance,74.26,5,MG,2,Espanhol,1
+1623,O Senhor dos Anéis #1623,200,2019-06-11,Distopia,119.58,9,RJ,0,Espanhol,7
+1624,O Hobbit #1624,387,2019-06-12,Ficção Científica,90.34,1,ES,11,Português,7
+1625,A Hora da Estrela #1625,471,2019-06-13,Suspense,28.29,5,RJ,0,Português,3
+1626,1984 #1626,432,2019-06-14,Ficção,77.01,10,SP,8,Francês,3
+1627,Ensaio Sobre a Cegueira #1627,103,2019-06-15,Ficção,85.62,7,RJ,9,Inglês,0
+1628,Moby Dick #1628,519,2019-06-16,Distopia,146.98,7,MG,11,Português,5
+1629,Grande Sertão: Veredas #1629,852,2019-06-17,Distopia,65.87,1,ES,7,Português,5
+1630,Cem Anos de Solidão #1630,520,2019-06-18,Clássico,62.41,9,SP,2,Francês,3
+1631,O Senhor dos Anéis #1631,1173,2019-06-19,Fantasia,32.38,4,RJ,7,Inglês,0
+1632,Cem Anos de Solidão #1632,923,2019-06-20,Ficção,148.08,3,ES,7,Francês,5
+1633,Ensaio Sobre a Cegueira #1633,397,2019-06-21,Terror,53.64,8,SP,7,Francês,8
+1634,Moby Dick #1634,537,2019-06-22,Infantil,68.77,4,ES,4,Espanhol,1
+1635,O Senhor dos Anéis #1635,637,2019-06-23,Ficção,129.48,8,ES,10,Francês,0
+1636,It - A Coisa #1636,494,2019-06-24,Distopia,139.57,9,ES,4,Inglês,8
+1637,Dom Casmurro #1637,824,2019-06-25,Realismo Mágico,102.79,9,MG,10,Inglês,7
+1638,It - A Coisa #1638,875,2019-06-26,Ficção,134.1,2,RJ,2,Inglês,7
+1639,Dom Casmurro #1639,718,2019-06-27,Suspense,61.37,2,ES,10,Espanhol,0
+1640,O Código Da Vinci #1640,394,2019-06-28,Ficção Científica,129.49,1,RJ,8,Português,6
+1641,Memórias Póstumas #1641,146,2019-06-29,Ficção Científica,133.09,8,ES,10,Espanhol,0
+1642,Drácula #1642,973,2019-06-30,Ficção,125.49,5,SP,6,Português,7
+1643,O Pequeno Príncipe #1643,206,2019-07-01,Romance,53.09,3,RJ,3,Inglês,4
+1644,A Hora da Estrela #1644,526,2019-07-02,Infantil,25.92,8,SP,1,Francês,4
+1645,Neuromancer #1645,454,2019-07-03,Suspense,86.64,2,MG,7,Inglês,0
+1646,Dom Casmurro #1646,1022,2019-07-04,Fantasia,128.28,2,MG,11,Inglês,4
+1647,Neuromancer #1647,390,2019-07-05,Ficção Científica,74.32,2,MG,5,Inglês,8
+1648,Neuromancer #1648,631,2019-07-06,Romance,84.3,4,SP,7,Francês,4
+1649,A Hora da Estrela #1649,307,2019-07-07,Fantasia,24.52,2,RJ,12,Português,3
+1650,O Senhor dos Anéis #1650,739,2019-07-08,Fantasia,109.13,10,RJ,10,Francês,5
+1651,Memórias Póstumas #1651,483,2019-07-09,Realismo Mágico,80.53,2,MG,2,Português,0
+1652,Memórias Póstumas #1652,704,2019-07-10,Clássico,59.89,5,RJ,4,Português,0
+1653,O Código Da Vinci #1653,520,2019-07-11,Ficção,120.64,2,SP,2,Português,8
+1654,O Hobbit #1654,581,2019-07-12,Ficção Científica,127.5,1,RJ,1,Francês,5
+1655,Moby Dick #1655,1092,2019-07-13,Romance,52.58,8,SP,12,Francês,5
+1656,O Hobbit #1656,508,2019-07-14,Distopia,30.57,6,SP,4,Francês,8
+1657,Orgulho e Preconceito #1657,985,2019-07-15,Ficção Científica,38.19,7,ES,12,Francês,7
+1658,A Hora da Estrela #1658,84,2019-07-16,Distopia,99.91,5,MG,8,Francês,3
+1659,O Pequeno Príncipe #1659,868,2019-07-17,Terror,124.14,4,RJ,12,Espanhol,1
+1660,It - A Coisa #1660,1061,2019-07-18,Realismo Mágico,61.48,1,MG,4,Inglês,7
+1661,O Pequeno Príncipe #1661,974,2019-07-19,Infantil,77.88,3,SP,9,Inglês,2
+1662,Drácula #1662,92,2019-07-20,Ficção Científica,98.92,6,SP,4,Espanhol,6
+1663,Ensaio Sobre a Cegueira #1663,561,2019-07-21,Ficção,80.11,7,SP,0,Francês,0
+1664,Orgulho e Preconceito #1664,1178,2019-07-22,Suspense,130.27,4,MG,1,Inglês,0
+1665,Grande Sertão: Veredas #1665,519,2019-07-23,Infantil,102.54,9,MG,2,Espanhol,6
+1666,Dom Casmurro #1666,92,2019-07-24,Romance,126.44,4,RJ,3,Inglês,1
+1667,Capitães da Areia #1667,153,2019-07-25,Realismo Mágico,127.91,6,SP,0,Espanhol,4
+1668,Moby Dick #1668,101,2019-07-26,Romance,49.55,5,MG,1,Inglês,7
+1669,O Pequeno Príncipe #1669,462,2019-07-27,Ficção Científica,79.65,2,MG,3,Francês,3
+1670,O Hobbit #1670,485,2019-07-28,Romance,46.73,7,MG,3,Espanhol,7
+1671,O Pequeno Príncipe #1671,495,2019-07-29,Ficção Científica,25.43,5,RJ,0,Português,4
+1672,It - A Coisa #1672,842,2019-07-30,Ficção Científica,108.84,4,SP,0,Inglês,7
+1673,Ensaio Sobre a Cegueira #1673,319,2019-07-31,Infantil,34.83,3,SP,6,Espanhol,7
+1674,O Hobbit #1674,660,2019-08-01,Clássico,71.04,6,RJ,2,Espanhol,0
+1675,A Hora da Estrela #1675,994,2019-08-02,Ficção,121.26,3,SP,9,Português,3
+1676,A Revolução dos Bichos #1676,481,2019-08-03,Realismo Mágico,123.95,7,MG,7,Francês,4
+1677,Drácula #1677,756,2019-08-04,Ficção Científica,109.97,10,SP,1,Inglês,7
+1678,O Hobbit #1678,440,2019-08-05,Ficção Científica,98.1,5,SP,0,Francês,7
+1679,O Código Da Vinci #1679,1107,2019-08-06,Suspense,144.74,3,MG,6,Inglês,5
+1680,A Revolução dos Bichos #1680,388,2019-08-07,Distopia,20.87,2,RJ,2,Português,5
+1681,A Hora da Estrela #1681,1200,2019-08-08,Distopia,56.4,7,ES,8,Português,4
+1682,Dom Casmurro #1682,288,2019-08-09,Ficção,96.82,1,MG,4,Espanhol,1
+1683,1984 #1683,439,2019-08-10,Fantasia,58.18,6,SP,7,Português,8
+1684,Moby Dick #1684,1051,2019-08-11,Ficção Científica,86.8,4,ES,6,Inglês,1
+1685,1984 #1685,401,2019-08-12,Clássico,91.99,7,SP,6,Espanhol,0
+1686,O Código Da Vinci #1686,400,2019-08-13,Infantil,122.06,4,RJ,4,Francês,0
+1687,Dom Casmurro #1687,1018,2019-08-14,Ficção,119.46,3,MG,9,Português,6
+1688,Drácula #1688,309,2019-08-15,Infantil,41.2,2,SP,1,Português,6
+1689,A Revolução dos Bichos #1689,882,2019-08-16,Infantil,141.02,9,RJ,5,Espanhol,3
+1690,Orgulho e Preconceito #1690,241,2019-08-17,Suspense,136.81,5,ES,3,Francês,5
+1691,Cem Anos de Solidão #1691,1007,2019-08-18,Infantil,22.02,7,MG,5,Espanhol,0
+1692,O Pequeno Príncipe #1692,404,2019-08-19,Ficção Científica,66.87,9,RJ,11,Inglês,1
+1693,Drácula #1693,1067,2019-08-20,Suspense,90.36,1,MG,5,Francês,8
+1694,O Pequeno Príncipe #1694,944,2019-08-21,Distopia,82.5,7,RJ,4,Francês,8
+1695,A Hora da Estrela #1695,876,2019-08-22,Suspense,145.04,1,ES,10,Português,8
+1696,Moby Dick #1696,398,2019-08-23,Distopia,51.8,2,SP,8,Inglês,2
+1697,O Senhor dos Anéis #1697,805,2019-08-24,Clássico,21.5,4,RJ,8,Francês,0
+1698,A Revolução dos Bichos #1698,654,2019-08-25,Realismo Mágico,109.92,5,RJ,10,Espanhol,7
+1699,Moby Dick #1699,1172,2019-08-26,Distopia,93.1,9,SP,10,Português,0
+1700,Drácula #1700,424,2019-08-27,Ficção Científica,93.52,10,ES,4,Português,8
+1701,Harry Potter #1701,1098,2019-08-28,Infantil,62.73,3,RJ,2,Espanhol,0
+1702,O Código Da Vinci #1702,535,2019-08-29,Ficção Científica,127.1,1,SP,4,Francês,2
+1703,1984 #1703,1054,2019-08-30,Terror,142.94,5,ES,4,Inglês,7
+1704,Cem Anos de Solidão #1704,720,2019-08-31,Ficção Científica,72.43,8,MG,5,Inglês,6
+1705,Drácula #1705,357,2019-09-01,Terror,121.26,2,ES,6,Francês,2
+1706,A Hora da Estrela #1706,479,2019-09-02,Clássico,114.87,5,RJ,10,Francês,8
+1707,Moby Dick #1707,1186,2019-09-03,Clássico,51.3,5,MG,12,Espanhol,6
+1708,O Hobbit #1708,1136,2019-09-04,Ficção,143.94,3,MG,6,Inglês,6
+1709,O Senhor dos Anéis #1709,471,2019-09-05,Clássico,47.19,5,ES,4,Espanhol,2
+1710,O Alquimista #1710,1155,2019-09-06,Infantil,61.0,7,SP,11,Espanhol,4
+1711,O Pequeno Príncipe #1711,860,2019-09-07,Ficção Científica,131.64,3,RJ,5,Francês,5
+1712,Capitães da Areia #1712,1046,2019-09-08,Clássico,82.91,8,SP,10,Espanhol,8
+1713,Dom Casmurro #1713,594,2019-09-09,Ficção,70.15,4,RJ,10,Português,7
+1714,Dom Casmurro #1714,264,2019-09-10,Ficção,115.28,2,ES,9,Inglês,2
+1715,A Hora da Estrela #1715,1071,2019-09-11,Ficção Científica,103.25,4,RJ,5,Espanhol,8
+1716,It - A Coisa #1716,704,2019-09-12,Romance,57.75,9,SP,12,Português,5
+1717,Harry Potter #1717,605,2019-09-13,Realismo Mágico,33.45,6,RJ,10,Português,4
+1718,Dom Casmurro #1718,681,2019-09-14,Realismo Mágico,74.23,6,ES,3,Inglês,2
+1719,1984 #1719,489,2019-09-15,Suspense,98.08,10,MG,1,Espanhol,7
+1720,A Hora da Estrela #1720,291,2019-09-16,Fantasia,121.93,2,SP,7,Português,8
+1721,Drácula #1721,1065,2019-09-17,Distopia,143.45,6,MG,3,Inglês,0
+1722,Cem Anos de Solidão #1722,977,2019-09-18,Infantil,27.96,4,SP,7,Espanhol,4
+1723,Memórias Póstumas #1723,705,2019-09-19,Realismo Mágico,66.52,5,SP,3,Português,5
+1724,Grande Sertão: Veredas #1724,827,2019-09-20,Infantil,60.36,4,ES,7,Francês,5
+1725,O Senhor dos Anéis #1725,168,2019-09-21,Ficção,133.78,6,MG,0,Português,4
+1726,Orgulho e Preconceito #1726,1158,2019-09-22,Distopia,147.84,2,MG,7,Espanhol,8
+1727,Drácula #1727,603,2019-09-23,Distopia,64.45,5,MG,12,Português,6
+1728,Neuromancer #1728,231,2019-09-24,Ficção,128.2,10,ES,11,Francês,5
+1729,A Hora da Estrela #1729,922,2019-09-25,Infantil,90.94,8,RJ,9,Espanhol,5
+1730,Grande Sertão: Veredas #1730,302,2019-09-26,Suspense,119.54,2,SP,11,Espanhol,3
+1731,Ensaio Sobre a Cegueira #1731,618,2019-09-27,Terror,133.95,6,RJ,1,Português,4
+1732,A Revolução dos Bichos #1732,806,2019-09-28,Infantil,61.88,7,ES,4,Português,7
+1733,O Pequeno Príncipe #1733,766,2019-09-29,Clássico,35.36,9,SP,1,Francês,8
+1734,A Revolução dos Bichos #1734,320,2019-09-30,Fantasia,74.79,10,ES,1,Espanhol,8
+1735,O Senhor dos Anéis #1735,1024,2019-10-01,Ficção Científica,131.71,3,ES,10,Francês,1
+1736,Drácula #1736,779,2019-10-02,Distopia,111.61,9,ES,0,Inglês,4
+1737,A Revolução dos Bichos #1737,911,2019-10-03,Terror,134.84,1,SP,2,Espanhol,3
+1738,Neuromancer #1738,891,2019-10-04,Distopia,45.17,10,SP,5,Inglês,8
+1739,Capitães da Areia #1739,1090,2019-10-05,Ficção,32.37,4,MG,7,Inglês,7
+1740,O Pequeno Príncipe #1740,766,2019-10-06,Ficção,29.94,4,ES,7,Francês,5
+1741,1984 #1741,1091,2019-10-07,Fantasia,38.22,3,SP,9,Português,6
+1742,O Código Da Vinci #1742,816,2019-10-08,Clássico,20.83,10,SP,5,Inglês,2
+1743,Neuromancer #1743,841,2019-10-09,Romance,146.08,7,SP,9,Francês,6
+1744,Orgulho e Preconceito #1744,732,2019-10-10,Romance,59.93,1,RJ,9,Espanhol,1
+1745,Ensaio Sobre a Cegueira #1745,899,2019-10-11,Clássico,75.53,4,MG,2,Francês,8
+1746,O Alquimista #1746,89,2019-10-12,Fantasia,67.43,9,RJ,8,Português,3
+1747,Memórias Póstumas #1747,90,2019-10-13,Romance,37.64,5,MG,0,Francês,3
+1748,It - A Coisa #1748,1135,2019-10-14,Ficção Científica,45.57,5,SP,2,Português,2
+1749,Moby Dick #1749,1008,2019-10-15,Clássico,112.76,10,ES,1,Francês,5
+1750,Memórias Póstumas #1750,993,2019-10-16,Fantasia,132.51,1,MG,1,Inglês,0
+1751,1984 #1751,211,2019-10-17,Distopia,23.27,5,MG,0,Inglês,5
+1752,A Revolução dos Bichos #1752,614,2019-10-18,Ficção Científica,119.51,1,ES,9,Espanhol,2
+1753,A Hora da Estrela #1753,500,2019-10-19,Clássico,86.24,6,SP,7,Inglês,1
+1754,Cem Anos de Solidão #1754,412,2019-10-20,Infantil,145.32,7,MG,8,Espanhol,2
+1755,A Hora da Estrela #1755,1122,2019-10-21,Realismo Mágico,109.97,1,MG,12,Espanhol,0
+1756,O Alquimista #1756,440,2019-10-22,Romance,114.88,1,MG,9,Espanhol,7
+1757,Orgulho e Preconceito #1757,454,2019-10-23,Ficção,79.3,3,RJ,7,Espanhol,6
+1758,O Código Da Vinci #1758,597,2019-10-24,Clássico,40.76,6,SP,0,Francês,6
+1759,Orgulho e Preconceito #1759,384,2019-10-25,Suspense,97.65,1,ES,7,Português,8
+1760,Cem Anos de Solidão #1760,757,2019-10-26,Clássico,89.33,9,MG,0,Inglês,0
+1761,Capitães da Areia #1761,977,2019-10-27,Suspense,35.95,3,MG,11,Português,5
+1762,O Hobbit #1762,735,2019-10-28,Fantasia,127.09,2,SP,7,Francês,2
+1763,O Senhor dos Anéis #1763,184,2019-10-29,Distopia,84.78,6,ES,1,Francês,2
+1764,O Pequeno Príncipe #1764,442,2019-10-30,Clássico,131.56,1,ES,7,Francês,4
+1765,1984 #1765,437,2019-10-31,Suspense,104.65,3,ES,1,Francês,2
+1766,Harry Potter #1766,587,2019-11-01,Clássico,120.26,5,MG,7,Inglês,2
+1767,Moby Dick #1767,720,2019-11-02,Infantil,70.67,6,RJ,6,Francês,0
+1768,O Hobbit #1768,267,2019-11-03,Distopia,101.68,2,SP,0,Português,4
+1769,O Código Da Vinci #1769,1118,2019-11-04,Romance,53.36,6,SP,1,Espanhol,0
+1770,Cem Anos de Solidão #1770,175,2019-11-05,Distopia,103.82,8,RJ,8,Inglês,8
+1771,Dom Casmurro #1771,91,2019-11-06,Realismo Mágico,113.42,1,ES,12,Francês,2
+1772,O Alquimista #1772,750,2019-11-07,Fantasia,97.46,3,MG,1,Francês,5
+1773,Ensaio Sobre a Cegueira #1773,231,2019-11-08,Romance,48.2,3,SP,10,Francês,4
+1774,A Revolução dos Bichos #1774,175,2019-11-09,Suspense,55.65,8,SP,3,Espanhol,8
+1775,Cem Anos de Solidão #1775,155,2019-11-10,Infantil,63.62,3,ES,10,Português,1
+1776,Moby Dick #1776,135,2019-11-11,Realismo Mágico,97.03,2,MG,7,Português,1
+1777,O Pequeno Príncipe #1777,652,2019-11-12,Romance,49.7,5,ES,1,Francês,5
+1778,Dom Casmurro #1778,309,2019-11-13,Fantasia,109.53,5,SP,1,Espanhol,4
+1779,Harry Potter #1779,554,2019-11-14,Romance,24.06,1,SP,0,Espanhol,6
+1780,O Senhor dos Anéis #1780,153,2019-11-15,Distopia,56.58,2,MG,4,Espanhol,3
+1781,Grande Sertão: Veredas #1781,880,2019-11-16,Fantasia,145.2,10,ES,8,Inglês,0
+1782,Grande Sertão: Veredas #1782,610,2019-11-17,Ficção Científica,123.86,2,RJ,3,Português,7
+1783,O Senhor dos Anéis #1783,339,2019-11-18,Infantil,126.11,7,RJ,8,Português,2
+1784,Harry Potter #1784,987,2019-11-19,Fantasia,30.01,9,MG,7,Inglês,2
+1785,Dom Casmurro #1785,456,2019-11-20,Ficção Científica,36.45,9,RJ,7,Espanhol,6
+1786,Memórias Póstumas #1786,579,2019-11-21,Clássico,132.68,8,ES,9,Português,1
+1787,Cem Anos de Solidão #1787,99,2019-11-22,Realismo Mágico,21.48,8,SP,4,Inglês,4
+1788,Dom Casmurro #1788,231,2019-11-23,Fantasia,142.28,4,MG,12,Francês,8
+1789,A Hora da Estrela #1789,943,2019-11-24,Infantil,60.74,9,ES,10,Inglês,2
+1790,Ensaio Sobre a Cegueira #1790,865,2019-11-25,Romance,49.4,2,ES,11,Português,2
+1791,A Revolução dos Bichos #1791,324,2019-11-26,Infantil,54.76,7,ES,9,Inglês,4
+1792,O Código Da Vinci #1792,782,2019-11-27,Terror,122.73,7,RJ,1,Português,1
+1793,Cem Anos de Solidão #1793,579,2019-11-28,Suspense,36.87,2,ES,9,Francês,8
+1794,Ensaio Sobre a Cegueira #1794,976,2019-11-29,Infantil,134.15,9,SP,11,Francês,2
+1795,Orgulho e Preconceito #1795,1050,2019-11-30,Suspense,70.83,9,MG,3,Francês,8
+1796,Harry Potter #1796,534,2019-12-01,Infantil,74.24,5,RJ,9,Espanhol,2
+1797,1984 #1797,166,2019-12-02,Ficção Científica,131.99,3,SP,1,Inglês,8
+1798,A Revolução dos Bichos #1798,311,2019-12-03,Terror,37.19,1,ES,6,Português,1
+1799,A Revolução dos Bichos #1799,1006,2019-12-04,Romance,34.41,10,SP,9,Francês,1
+1800,O Alquimista #1800,412,2019-12-05,Romance,34.99,2,ES,6,Francês,0
+1801,Capitães da Areia #1801,879,2019-12-06,Clássico,140.29,6,ES,6,Português,8
+1802,Capitães da Areia #1802,109,2019-12-07,Terror,90.72,2,ES,12,Português,3
+1803,Orgulho e Preconceito #1803,306,2019-12-08,Distopia,47.23,4,MG,12,Português,3
+1804,O Alquimista #1804,291,2019-12-09,Romance,55.44,8,SP,0,Inglês,0
+1805,Moby Dick #1805,430,2019-12-10,Terror,79.39,1,MG,8,Português,1
+1806,Grande Sertão: Veredas #1806,1136,2019-12-11,Fantasia,83.76,7,ES,11,Português,8
+1807,Capitães da Areia #1807,495,2019-12-12,Fantasia,35.16,10,ES,6,Francês,2
+1808,O Senhor dos Anéis #1808,384,2019-12-13,Clássico,94.41,6,RJ,1,Espanhol,7
+1809,Orgulho e Preconceito #1809,995,2019-12-14,Fantasia,84.28,3,ES,0,Inglês,4
+1810,Ensaio Sobre a Cegueira #1810,594,2019-12-15,Infantil,138.24,7,SP,2,Espanhol,8
+1811,O Hobbit #1811,118,2019-12-16,Suspense,37.72,5,SP,4,Francês,5
+1812,1984 #1812,484,2019-12-17,Distopia,126.98,6,MG,12,Português,7
+1813,A Revolução dos Bichos #1813,934,2019-12-18,Romance,136.85,5,SP,4,Francês,7
+1814,O Pequeno Príncipe #1814,1109,2019-12-19,Distopia,71.43,6,MG,6,Francês,1
+1815,Grande Sertão: Veredas #1815,220,2019-12-20,Ficção Científica,149.11,7,MG,0,Inglês,7
+1816,O Alquimista #1816,293,2019-12-21,Terror,110.15,6,SP,3,Português,6
+1817,Cem Anos de Solidão #1817,164,2019-12-22,Suspense,126.15,5,ES,1,Inglês,8
+1818,Orgulho e Preconceito #1818,149,2019-12-23,Ficção,141.82,7,MG,4,Francês,0
+1819,Harry Potter #1819,104,2019-12-24,Romance,116.27,9,RJ,8,Francês,2
+1820,Dom Casmurro #1820,978,2019-12-25,Terror,50.67,6,MG,10,Inglês,1
+1821,O Pequeno Príncipe #1821,1079,2019-12-26,Fantasia,121.77,6,SP,5,Espanhol,1
+1822,O Código Da Vinci #1822,286,2019-12-27,Infantil,68.87,10,ES,2,Português,1
+1823,O Código Da Vinci #1823,232,2019-12-28,Romance,118.79,10,MG,7,Francês,4
+1824,1984 #1824,520,2019-12-29,Suspense,88.39,4,SP,8,Espanhol,4
+1825,Grande Sertão: Veredas #1825,832,2019-12-30,Ficção,80.46,7,SP,7,Português,4
+1826,Grande Sertão: Veredas #1826,1157,2019-12-31,Realismo Mágico,128.78,8,RJ,7,Inglês,2
+1827,Neuromancer #1827,976,2020-01-01,Distopia,136.46,3,SP,9,Inglês,0
+1828,O Alquimista #1828,1164,2020-01-02,Infantil,80.6,4,SP,4,Espanhol,0
+1829,A Hora da Estrela #1829,777,2020-01-03,Ficção,34.89,9,RJ,1,Português,8
+1830,It - A Coisa #1830,332,2020-01-04,Realismo Mágico,42.96,2,MG,8,Inglês,6
+1831,Neuromancer #1831,109,2020-01-05,Ficção,93.01,9,ES,11,Francês,8
+1832,Drácula #1832,1143,2020-01-06,Terror,27.69,2,RJ,7,Inglês,1
+1833,Cem Anos de Solidão #1833,1006,2020-01-07,Suspense,148.38,6,MG,10,Espanhol,0
+1834,Neuromancer #1834,859,2020-01-08,Terror,22.87,2,SP,5,Espanhol,2
+1835,Harry Potter #1835,145,2020-01-09,Terror,63.52,3,MG,0,Inglês,5
+1836,O Alquimista #1836,209,2020-01-10,Clássico,109.38,9,MG,9,Espanhol,6
+1837,Orgulho e Preconceito #1837,150,2020-01-11,Realismo Mágico,44.65,9,RJ,0,Inglês,0
+1838,A Hora da Estrela #1838,803,2020-01-12,Terror,133.05,10,RJ,4,Português,7
+1839,Capitães da Areia #1839,736,2020-01-13,Realismo Mágico,33.59,1,RJ,6,Português,7
+1840,A Revolução dos Bichos #1840,563,2020-01-14,Infantil,30.92,7,ES,4,Francês,7
+1841,O Pequeno Príncipe #1841,621,2020-01-15,Ficção,112.86,3,SP,4,Espanhol,3
+1842,1984 #1842,936,2020-01-16,Ficção,83.16,7,ES,11,Espanhol,2
+1843,O Alquimista #1843,377,2020-01-17,Clássico,100.07,8,ES,8,Português,1
+1844,Dom Casmurro #1844,397,2020-01-18,Romance,80.32,3,ES,1,Inglês,4
+1845,Drácula #1845,291,2020-01-19,Fantasia,31.44,5,ES,9,Espanhol,7
+1846,O Senhor dos Anéis #1846,171,2020-01-20,Terror,52.4,10,MG,9,Português,8
+1847,1984 #1847,1012,2020-01-21,Romance,66.62,10,ES,7,Português,6
+1848,Memórias Póstumas #1848,117,2020-01-22,Infantil,104.43,9,RJ,0,Francês,4
+1849,Ensaio Sobre a Cegueira #1849,179,2020-01-23,Romance,106.73,5,MG,1,Português,2
+1850,Ensaio Sobre a Cegueira #1850,327,2020-01-24,Suspense,132.32,6,RJ,10,Inglês,2
+1851,Neuromancer #1851,831,2020-01-25,Realismo Mágico,56.66,6,RJ,6,Espanhol,6
+1852,1984 #1852,525,2020-01-26,Ficção,24.75,4,RJ,5,Espanhol,5
+1853,O Alquimista #1853,935,2020-01-27,Infantil,148.62,9,SP,5,Francês,6
+1854,A Revolução dos Bichos #1854,251,2020-01-28,Realismo Mágico,64.96,9,MG,5,Inglês,0
+1855,O Hobbit #1855,128,2020-01-29,Fantasia,71.41,3,MG,6,Francês,2
+1856,A Revolução dos Bichos #1856,1100,2020-01-30,Suspense,77.68,6,RJ,11,Inglês,6
+1857,Orgulho e Preconceito #1857,627,2020-01-31,Suspense,47.2,6,SP,7,Francês,6
+1858,Orgulho e Preconceito #1858,822,2020-02-01,Distopia,83.09,4,SP,4,Francês,3
+1859,Harry Potter #1859,903,2020-02-02,Distopia,75.99,1,ES,3,Espanhol,3
+1860,Drácula #1860,484,2020-02-03,Terror,136.84,5,SP,6,Português,6
+1861,O Pequeno Príncipe #1861,83,2020-02-04,Ficção Científica,126.41,7,MG,11,Português,8
+1862,A Hora da Estrela #1862,230,2020-02-05,Distopia,63.71,3,ES,4,Português,1
+1863,Drácula #1863,1148,2020-02-06,Fantasia,117.45,8,RJ,5,Inglês,2
+1864,1984 #1864,992,2020-02-07,Ficção,136.11,10,RJ,9,Inglês,0
+1865,Moby Dick #1865,1188,2020-02-08,Clássico,39.99,6,MG,9,Inglês,0
+1866,Drácula #1866,1019,2020-02-09,Fantasia,44.85,9,RJ,2,Português,1
+1867,Harry Potter #1867,534,2020-02-10,Suspense,42.9,8,SP,4,Português,0
+1868,A Revolução dos Bichos #1868,140,2020-02-11,Fantasia,80.13,5,SP,4,Português,7
+1869,Ensaio Sobre a Cegueira #1869,320,2020-02-12,Terror,56.02,7,SP,9,Português,3
+1870,1984 #1870,142,2020-02-13,Ficção,67.12,3,RJ,5,Português,8
+1871,Memórias Póstumas #1871,1069,2020-02-14,Ficção Científica,38.68,8,ES,2,Inglês,6
+1872,Cem Anos de Solidão #1872,383,2020-02-15,Infantil,35.89,10,ES,10,Inglês,2
+1873,Orgulho e Preconceito #1873,756,2020-02-16,Ficção Científica,131.47,10,SP,7,Espanhol,5
+1874,Memórias Póstumas #1874,1046,2020-02-17,Ficção Científica,119.79,8,ES,0,Inglês,6
+1875,Memórias Póstumas #1875,651,2020-02-18,Clássico,106.74,6,ES,8,Inglês,3
+1876,O Senhor dos Anéis #1876,646,2020-02-19,Ficção,56.41,4,RJ,5,Francês,5
+1877,O Senhor dos Anéis #1877,876,2020-02-20,Romance,130.35,3,RJ,7,Espanhol,0
+1878,1984 #1878,310,2020-02-21,Distopia,91.85,3,RJ,0,Inglês,8
+1879,Cem Anos de Solidão #1879,1016,2020-02-22,Infantil,84.13,7,SP,7,Português,5
+1880,Cem Anos de Solidão #1880,535,2020-02-23,Suspense,132.23,5,RJ,10,Espanhol,5
+1881,A Hora da Estrela #1881,925,2020-02-24,Realismo Mágico,108.04,5,RJ,9,Espanhol,8
+1882,Drácula #1882,930,2020-02-25,Terror,103.43,8,MG,9,Português,1
+1883,A Revolução dos Bichos #1883,1151,2020-02-26,Romance,25.09,3,ES,7,Português,6
+1884,Moby Dick #1884,268,2020-02-27,Distopia,146.39,5,SP,12,Português,0
+1885,A Hora da Estrela #1885,672,2020-02-28,Romance,149.27,10,RJ,8,Francês,4
+1886,O Senhor dos Anéis #1886,85,2020-02-29,Infantil,99.68,4,SP,9,Inglês,0
+1887,It - A Coisa #1887,707,2020-03-01,Romance,56.28,7,SP,4,Português,8
+1888,Cem Anos de Solidão #1888,590,2020-03-02,Terror,127.91,9,ES,6,Português,3
+1889,Grande Sertão: Veredas #1889,691,2020-03-03,Romance,95.06,7,MG,12,Português,5
+1890,Capitães da Areia #1890,475,2020-03-04,Infantil,44.84,9,MG,5,Francês,6
+1891,Orgulho e Preconceito #1891,592,2020-03-05,Distopia,21.57,4,RJ,5,Inglês,7
+1892,A Hora da Estrela #1892,1162,2020-03-06,Ficção,39.57,2,SP,5,Espanhol,2
+1893,O Hobbit #1893,810,2020-03-07,Clássico,54.58,3,MG,4,Francês,5
+1894,O Pequeno Príncipe #1894,855,2020-03-08,Infantil,62.95,7,SP,8,Inglês,8
+1895,O Hobbit #1895,963,2020-03-09,Romance,110.34,4,ES,12,Inglês,5
+1896,Neuromancer #1896,651,2020-03-10,Ficção Científica,147.29,2,ES,11,Inglês,0
+1897,Moby Dick #1897,954,2020-03-11,Ficção Científica,142.35,4,ES,8,Português,2
+1898,O Hobbit #1898,358,2020-03-12,Ficção,43.94,6,RJ,10,Inglês,7
+1899,A Revolução dos Bichos #1899,685,2020-03-13,Fantasia,66.16,5,MG,1,Inglês,0
+1900,O Senhor dos Anéis #1900,575,2020-03-14,Romance,47.93,10,SP,6,Português,1
+1901,O Código Da Vinci #1901,1168,2020-03-15,Infantil,85.41,10,RJ,8,Espanhol,2
+1902,Ensaio Sobre a Cegueira #1902,403,2020-03-16,Distopia,124.3,8,ES,4,Francês,7
+1903,O Código Da Vinci #1903,352,2020-03-17,Terror,40.34,8,MG,7,Francês,7
+1904,O Senhor dos Anéis #1904,109,2020-03-18,Terror,99.62,1,SP,4,Português,1
+1905,Neuromancer #1905,1012,2020-03-19,Ficção Científica,71.93,10,SP,4,Inglês,5
+1906,1984 #1906,464,2020-03-20,Ficção,86.88,2,ES,1,Francês,1
+1907,Capitães da Areia #1907,645,2020-03-21,Fantasia,76.25,8,MG,2,Espanhol,4
+1908,Ensaio Sobre a Cegueira #1908,776,2020-03-22,Infantil,53.67,1,MG,11,Francês,5
+1909,A Revolução dos Bichos #1909,991,2020-03-23,Terror,39.53,8,ES,0,Francês,2
+1910,Neuromancer #1910,716,2020-03-24,Distopia,48.03,2,MG,7,Português,8
+1911,Cem Anos de Solidão #1911,706,2020-03-25,Fantasia,94.55,7,MG,12,Inglês,3
+1912,Drácula #1912,1107,2020-03-26,Ficção,34.73,2,RJ,5,Português,2
+1913,O Alquimista #1913,200,2020-03-27,Fantasia,44.74,3,ES,9,Inglês,0
+1914,O Alquimista #1914,205,2020-03-28,Suspense,43.34,4,RJ,5,Espanhol,0
+1915,Harry Potter #1915,254,2020-03-29,Suspense,36.85,10,SP,9,Francês,3
+1916,Dom Casmurro #1916,408,2020-03-30,Distopia,116.38,3,ES,4,Português,2
+1917,Grande Sertão: Veredas #1917,1151,2020-03-31,Distopia,125.29,7,MG,3,Português,1
+1918,Orgulho e Preconceito #1918,748,2020-04-01,Infantil,74.07,2,RJ,5,Inglês,6
+1919,A Revolução dos Bichos #1919,835,2020-04-02,Suspense,145.77,2,SP,1,Português,3
+1920,Orgulho e Preconceito #1920,598,2020-04-03,Realismo Mágico,91.98,3,SP,9,Inglês,6
+1921,Ensaio Sobre a Cegueira #1921,469,2020-04-04,Fantasia,50.32,2,SP,8,Português,1
+1922,Orgulho e Preconceito #1922,982,2020-04-05,Clássico,50.15,4,ES,8,Espanhol,5
+1923,It - A Coisa #1923,696,2020-04-06,Realismo Mágico,114.48,4,ES,7,Espanhol,2
+1924,It - A Coisa #1924,839,2020-04-07,Suspense,149.9,8,MG,3,Espanhol,3
+1925,Ensaio Sobre a Cegueira #1925,857,2020-04-08,Ficção,57.39,2,RJ,11,Inglês,8
+1926,A Revolução dos Bichos #1926,1101,2020-04-09,Infantil,84.34,6,SP,5,Francês,3
+1927,Capitães da Areia #1927,950,2020-04-10,Infantil,59.74,7,ES,3,Inglês,1
+1928,A Hora da Estrela #1928,1102,2020-04-11,Suspense,80.75,7,MG,3,Espanhol,8
+1929,Neuromancer #1929,230,2020-04-12,Fantasia,118.92,1,RJ,10,Português,3
+1930,Grande Sertão: Veredas #1930,597,2020-04-13,Ficção,75.4,4,MG,10,Inglês,5
+1931,Memórias Póstumas #1931,162,2020-04-14,Ficção Científica,105.3,6,ES,4,Português,8
+1932,Memórias Póstumas #1932,984,2020-04-15,Fantasia,122.28,7,MG,0,Inglês,8
+1933,A Hora da Estrela #1933,812,2020-04-16,Infantil,145.0,1,MG,4,Português,4
+1934,Grande Sertão: Veredas #1934,822,2020-04-17,Infantil,92.61,2,MG,1,Francês,0
+1935,Dom Casmurro #1935,836,2020-04-18,Infantil,118.04,3,RJ,10,Português,8
+1936,Neuromancer #1936,323,2020-04-19,Terror,101.43,6,SP,1,Português,1
+1937,Dom Casmurro #1937,456,2020-04-20,Suspense,107.99,9,ES,7,Português,3
+1938,Dom Casmurro #1938,1032,2020-04-21,Distopia,133.06,7,SP,3,Espanhol,5
+1939,Dom Casmurro #1939,317,2020-04-22,Terror,76.02,7,RJ,11,Espanhol,4
+1940,Neuromancer #1940,145,2020-04-23,Ficção,95.69,10,RJ,11,Francês,2
+1941,Cem Anos de Solidão #1941,928,2020-04-24,Ficção,25.25,3,SP,0,Português,1
+1942,O Senhor dos Anéis #1942,686,2020-04-25,Suspense,24.72,2,ES,12,Português,7
+1943,Ensaio Sobre a Cegueira #1943,385,2020-04-26,Distopia,145.37,8,ES,0,Espanhol,8
+1944,Dom Casmurro #1944,683,2020-04-27,Infantil,70.87,6,MG,0,Português,1
+1945,O Código Da Vinci #1945,191,2020-04-28,Infantil,27.22,8,SP,7,Português,1
+1946,Grande Sertão: Veredas #1946,803,2020-04-29,Ficção,142.88,4,RJ,4,Espanhol,7
+1947,Grande Sertão: Veredas #1947,889,2020-04-30,Terror,35.86,3,RJ,0,Inglês,0
+1948,O Hobbit #1948,422,2020-05-01,Infantil,56.0,2,SP,11,Português,7
+1949,O Alquimista #1949,947,2020-05-02,Infantil,75.51,10,MG,11,Espanhol,8
+1950,Dom Casmurro #1950,335,2020-05-03,Terror,111.56,1,SP,7,Francês,1
+1951,Capitães da Areia #1951,1010,2020-05-04,Realismo Mágico,112.98,10,ES,9,Inglês,6
+1952,O Código Da Vinci #1952,916,2020-05-05,Romance,81.44,9,SP,3,Francês,0
+1953,It - A Coisa #1953,956,2020-05-06,Clássico,93.29,3,RJ,7,Francês,1
+1954,O Alquimista #1954,508,2020-05-07,Ficção,118.3,8,RJ,6,Inglês,0
+1955,It - A Coisa #1955,571,2020-05-08,Romance,127.31,7,MG,1,Francês,3
+1956,1984 #1956,642,2020-05-09,Ficção,45.97,8,SP,5,Espanhol,5
+1957,1984 #1957,575,2020-05-10,Suspense,62.79,2,MG,6,Espanhol,2
+1958,Neuromancer #1958,490,2020-05-11,Clássico,38.88,8,ES,11,Francês,0
+1959,Memórias Póstumas #1959,854,2020-05-12,Distopia,104.11,1,MG,5,Português,2
+1960,A Hora da Estrela #1960,593,2020-05-13,Infantil,67.53,1,SP,5,Inglês,0
+1961,Dom Casmurro #1961,622,2020-05-14,Ficção,73.7,3,SP,8,Espanhol,7
+1962,Capitães da Areia #1962,344,2020-05-15,Realismo Mágico,127.51,3,SP,4,Português,0
+1963,A Hora da Estrela #1963,181,2020-05-16,Fantasia,36.36,8,MG,5,Português,5
+1964,Moby Dick #1964,619,2020-05-17,Suspense,135.78,1,ES,7,Inglês,5
+1965,Drácula #1965,476,2020-05-18,Distopia,113.21,4,RJ,9,Espanhol,0
+1966,A Hora da Estrela #1966,1127,2020-05-19,Realismo Mágico,72.67,10,RJ,4,Inglês,1
+1967,O Código Da Vinci #1967,85,2020-05-20,Terror,41.33,10,MG,7,Inglês,2
+1968,It - A Coisa #1968,284,2020-05-21,Romance,109.8,1,ES,5,Francês,5
+1969,O Alquimista #1969,647,2020-05-22,Clássico,120.36,3,ES,1,Espanhol,1
+1970,O Código Da Vinci #1970,890,2020-05-23,Realismo Mágico,124.5,7,ES,0,Inglês,0
+1971,Orgulho e Preconceito #1971,1080,2020-05-24,Terror,32.76,1,SP,9,Francês,1
+1972,Harry Potter #1972,370,2020-05-25,Ficção,69.31,1,MG,8,Português,4
+1973,Capitães da Areia #1973,1163,2020-05-26,Clássico,42.79,6,RJ,12,Inglês,6
+1974,Neuromancer #1974,177,2020-05-27,Romance,78.31,7,SP,4,Espanhol,6
+1975,A Revolução dos Bichos #1975,1078,2020-05-28,Distopia,82.77,1,RJ,8,Inglês,6
+1976,Harry Potter #1976,535,2020-05-29,Fantasia,44.27,5,SP,11,Português,4
+1977,It - A Coisa #1977,1110,2020-05-30,Terror,85.99,10,SP,11,Inglês,4
+1978,O Senhor dos Anéis #1978,349,2020-05-31,Infantil,108.3,7,SP,2,Francês,7
+1979,Orgulho e Preconceito #1979,787,2020-06-01,Fantasia,60.28,2,SP,9,Português,8
+1980,Drácula #1980,335,2020-06-02,Clássico,120.98,5,SP,3,Inglês,2
+1981,It - A Coisa #1981,900,2020-06-03,Distopia,55.29,2,SP,1,Inglês,8
+1982,Memórias Póstumas #1982,1017,2020-06-04,Distopia,47.29,9,ES,9,Inglês,4
+1983,Drácula #1983,926,2020-06-05,Suspense,47.25,1,ES,8,Francês,1
+1984,Ensaio Sobre a Cegueira #1984,907,2020-06-06,Realismo Mágico,64.8,3,SP,6,Português,4
+1985,A Hora da Estrela #1985,1117,2020-06-07,Realismo Mágico,116.46,3,MG,3,Francês,0
+1986,Moby Dick #1986,1026,2020-06-08,Distopia,118.0,9,SP,11,Português,0
+1987,Ensaio Sobre a Cegueira #1987,968,2020-06-09,Clássico,62.64,9,SP,2,Espanhol,8
+1988,O Hobbit #1988,782,2020-06-10,Romance,120.68,2,MG,0,Espanhol,6
+1989,O Hobbit #1989,620,2020-06-11,Infantil,82.79,2,ES,10,Inglês,8
+1990,A Revolução dos Bichos #1990,328,2020-06-12,Clássico,95.29,1,SP,0,Inglês,1
+1991,Ensaio Sobre a Cegueira #1991,571,2020-06-13,Terror,120.96,6,SP,10,Francês,1
+1992,Capitães da Areia #1992,1185,2020-06-14,Ficção,42.69,10,SP,9,Português,7
+1993,1984 #1993,733,2020-06-15,Suspense,46.48,9,RJ,1,Espanhol,3
+1994,Capitães da Areia #1994,577,2020-06-16,Infantil,53.62,10,SP,8,Inglês,1
+1995,Cem Anos de Solidão #1995,336,2020-06-17,Distopia,93.67,8,MG,1,Francês,5
+1996,Harry Potter #1996,136,2020-06-18,Suspense,77.0,10,MG,10,Espanhol,3
+1997,Grande Sertão: Veredas #1997,496,2020-06-19,Ficção Científica,148.79,2,RJ,4,Francês,1
+1998,Capitães da Areia #1998,291,2020-06-20,Infantil,115.76,7,SP,6,Francês,8
+1999,1984 #1999,941,2020-06-21,Ficção Científica,46.78,1,MG,10,Inglês,7
+2000,Dom Casmurro #2000,859,2020-06-22,Terror,127.87,3,ES,4,Português,0
