@@ -7,7 +7,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   ### Dashboard de Acervos
 
-  ![Gif que exemplifica o funcionando do Dashboard Financeiro] (https://imgur.com/a/eATxJHT)
+  ![Gif que exemplifica o funcionando do dashboard de acervos](https://imgur.com/a/eATxJHT)
 
   #### Estrutura da base de dados
 
@@ -23,5 +23,32 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - Idioma: idioma principal do livro;
 - Renovacoes_Realizadas: total de renovações feitas pelos usuários;
 - Ano: ano extraído da data de aquisição.
+
+  **Quantidade de dados: 2.000** 
+
+  ### Dashboard de Acervos
+
+  ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](https://imgur.com/a/wsVFwnI)
+
+  #### Estrutura da base de dados
+
+- cpf: identificador único do aluno;
+- curso_tecnico: nome do curso técnico em que o aluno está matriculado;
+- area: área técnica relacionada ao curso;
+- unidade: nome da unidade educacional onde o aluno estuda;
+- turno: período em que o aluno frequenta o curso (manhã, tarde ou noite);
+- mensalidade: valor da mensalidade paga pelo aluno;
+- situacao_pgto: situação atual do pagamento (em dia, atrasado, isento etc.);
+- forma_pgto: forma de pagamento utilizada (cartão, pix etc.);
+- genero: gênero informado pelo aluno;
+- idade: idade do aluno no momento da coleta dos dados;
+- pcd: indica se o aluno é pessoa com deficiência;
+- estagio: se o aluno está realizando estágio remunerado;
+- dps: situação escolar do aluno;
+- pegou_certificado: se o aluno já retirou o certificado de conclusão;
+- faixa_etaria: faixa de idade (ex: 16–20, 21–25 etc.);
+- pago_binario: indicador binário de pagamento (1 = pagou, 0 = não pagou);
+- inadimplente: se o aluno está inadimplente com a instituição;
+- estagio_inadimplente: se o aluno está em estágio e inadimplente ao mesmo tempo.
 
   **Quantidade de dados: 2.000** 
