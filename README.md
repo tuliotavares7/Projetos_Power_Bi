@@ -7,7 +7,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   ### Dashboard de Acervos
 
-  ![Gif que exemplifica o funcionando do dashboard de acervos][https://imgur.com/a/eATxJHT](https://imgur.com/gallery/bibli-eATxJHT)
+  ![Gif que exemplifica o funcionando do dashboard de acervos](https://imgur.com/gallery/bibli-eATxJHT)
 
   #### Estrutura da base de dados
 
