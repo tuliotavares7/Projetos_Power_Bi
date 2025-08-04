@@ -28,7 +28,9 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   **Quantidade de dados: 2.000** 
 
-  ### Dashboard de Acervos
+  ### Dashboard de Curso Técnico
+
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e9052ada-d5bd-4929-8413-8605aed9c8b3" />
 
   ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](https://imgur.com/gallery/tec-wsVFwnI#GolRL6r)
 
