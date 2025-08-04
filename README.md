@@ -9,7 +9,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7034f891-39fa-491b-a571-f159d657744f" />
 
-  ![Gif que exemplifica o funcionando do dashboard de acervos](https://imgur.com/gallery/bibli-eATxJHT#p8x5R9A)
+  ![Gif que exemplifica o funcionando do dashboard de acervos]([https://imgur.com/gallery/bibli-eATxJHT#p8x5R9A](https://imgur.com/gallery/bibli-eATxJHT)
 
   #### Estrutura da base de dados
 
