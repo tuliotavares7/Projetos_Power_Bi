@@ -9,7 +9,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7034f891-39fa-491b-a571-f159d657744f" />
 
-  ![Clique e veja o Gif que exemplifica o funcionando do dashboard de acervos](<blockquote class="imgur-embed-pub" lang="en" data-id="a/bdNNizq"  ><a href="//imgur.com/a/bdNNizq">biblioteca</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  ![Clique e confira o Gif que exemplifica o funcionando do dashboard de acervos](<blockquote class="imgur-embed-pub" lang="en" data-id="a/bdNNizq"  ><a href="//imgur.com/a/bdNNizq">biblioteca</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
   #### Estrutura da base de dados
 
@@ -32,7 +32,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e9052ada-d5bd-4929-8413-8605aed9c8b3" />
 
-  ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](https://imgur.com/gallery/tec-wsVFwnI#GolRL6r)
+  ![Clique e confira o Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](<blockquote class="imgur-embed-pub" lang="en" data-id="a/1elWdnt"  ><a href="//imgur.com/a/1elWdnt">Cursos Técnicos</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
   #### Estrutura da base de dados
 
