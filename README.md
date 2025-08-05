@@ -7,9 +7,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   ### Dashboard de Acervos
 
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7034f891-39fa-491b-a571-f159d657744f" />
-
-  ![Gif que exemplifica o funcionando do dashboard de acervos](![Image](https://github.com/user-attachments/assets/69ae398c-b999-4e34-ab37-e93e79bd035d)
+  ![Image](https://github.com/user-attachments/assets/69ae398c-b999-4e34-ab37-e93e79bd035d)
 
   #### Estrutura da base de dados
 
@@ -31,7 +29,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
   ### Dashboard de Curso Técnico
 
 
-  ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](![Image](https://github.com/user-attachments/assets/05bfef29-0a53-4c89-a36a-2b56a9267c78)
+  ![Image](https://github.com/user-attachments/assets/05bfef29-0a53-4c89-a36a-2b56a9267c78)
 
   
   #### Estrutura da base de dados
