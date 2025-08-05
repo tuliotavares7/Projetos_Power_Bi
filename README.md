@@ -9,7 +9,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7034f891-39fa-491b-a571-f159d657744f" />
 
-  ![Clique e confira o Gif que exemplifica o funcionando do dashboard de acervos](<blockquote class="imgur-embed-pub" lang="en" data-id="a/bdNNizq"  ><a href="//imgur.com/a/bdNNizq">biblioteca</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  ![Gif que exemplifica o funcionando do dashboard de acervos](![Image](https://github.com/user-attachments/assets/69ae398c-b999-4e34-ab37-e93e79bd035d)
 
   #### Estrutura da base de dados
 
@@ -30,10 +30,10 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
   ### Dashboard de Curso Técnico
 
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e9052ada-d5bd-4929-8413-8605aed9c8b3" />
 
-  ![Clique e confira o Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](<blockquote class="imgur-embed-pub" lang="en" data-id="a/1elWdnt"  ><a href="//imgur.com/a/1elWdnt">Cursos Técnicos</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+  ![Gif que exemplifica o funcionando do dashboard de Gestão Financeira e Acadêmica](![Image](https://github.com/user-attachments/assets/05bfef29-0a53-4c89-a36a-2b56a9267c78)
 
+  
   #### Estrutura da base de dados
 
 - cpf: identificador único do aluno;
